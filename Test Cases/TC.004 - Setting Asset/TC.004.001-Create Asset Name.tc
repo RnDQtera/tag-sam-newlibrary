@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.001.001-Field Create Group</name>
+   <name>TC.004.001-Create Asset Name</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

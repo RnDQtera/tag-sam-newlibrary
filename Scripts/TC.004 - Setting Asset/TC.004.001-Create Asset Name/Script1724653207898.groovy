@@ -19,7 +19,25 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.URL)
+WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.navigateToUrl(GlobalVariable.URL)
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('0001 ID'), GlobalVariable.id)
+
+WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
+
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('0003 Button Login'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('0004 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('001 Reusable Component/001.017 Reusable - Menu Setting - Group'), FailureHandling.STOP_ON_FAILURE)
 
