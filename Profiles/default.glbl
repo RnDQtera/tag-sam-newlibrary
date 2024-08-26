@@ -4,4 +4,34 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>user ID as Total Control</description>
+      <initValue>'john-doe@mailnesia.com'</initValue>
+      <name>id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password</description>
+      <initValue>'Moderator12@'</initValue>
+      <name>pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>URL Development</description>
+      <initValue>'https://dev-console-v2.tagsamurai.com'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Allowed this port for scanning </description>
+      <initValue>'https://localhost:9001'</initValue>
+      <name>LocalhostSingle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Allowed this port for scanning</description>
+      <initValue>'https://localhost:9002'</initValue>
+      <name>LocalhostBulk</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>for Read RFID Tag</description>
+      <initValue>'wss://localhost:9002\r\n'</initValue>
+      <name>WSS</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
