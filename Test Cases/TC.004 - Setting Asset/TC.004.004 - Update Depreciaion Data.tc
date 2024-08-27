@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.004 - Update Depreciaion Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c110ce2b-adaf-49eb-af77-0021dd2df7c1</testCaseGuid>
+</TestCaseEntity>
