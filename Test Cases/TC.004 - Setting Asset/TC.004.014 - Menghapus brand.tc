@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.014 - Menghapus brand</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88b1f261-b6ff-40db-899a-18fa2fc585ff</testCaseGuid>
+</TestCaseEntity>

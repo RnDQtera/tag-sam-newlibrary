@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>001.016 Reusable - Menu Setting</name>
+   <name>OBJ.004.065 Enter Third Model Value</name>
    <tag></tag>
-   <elementGuidId>73f08e4f-acb2-4cb4-9e28-a34c52a07fb3</elementGuidId>
+   <elementGuidId>824cb8cf-b72f-4e4c-a12b-5cac54a10699</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/div/button</value>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div/div[3]/div[1]/table/tbody/tr[3]/td[3]/div/div/form/input</value>
       </entry>
       <entry>
          <key>BASIC</key>

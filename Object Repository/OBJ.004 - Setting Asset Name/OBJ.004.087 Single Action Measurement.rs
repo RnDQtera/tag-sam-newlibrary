@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>001.016 Reusable - Menu Setting</name>
+   <name>OBJ.004.087 Single Action Measurement</name>
    <tag></tag>
-   <elementGuidId>73f08e4f-acb2-4cb4-9e28-a34c52a07fb3</elementGuidId>
+   <elementGuidId>2a240510-78c4-425f-a559-fc097644d8a6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/div/button</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[1]/table/tbody/tr[1]/td[3]/div/button</value>
       </entry>
       <entry>
          <key>BASIC</key>

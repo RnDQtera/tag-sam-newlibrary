@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.018 - Bulk Action Update Depreciation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ada52ef1-1d4c-40f8-a492-ef71c37116e4</testCaseGuid>
+</TestCaseEntity>
