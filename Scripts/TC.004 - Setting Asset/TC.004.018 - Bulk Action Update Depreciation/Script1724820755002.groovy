@@ -35,7 +35,7 @@ import org.openqa.selenium.Keys as Keys
 //
 //WebUI.click(findTestObject('0004 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
 //
-//WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
+//WebUI.delay(60)
 //
 //WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'), FailureHandling.STOP_ON_FAILURE)
 //
@@ -55,4 +55,8 @@ WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.025 Choose Acco
 WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.026 Select Account Code'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.028 Save Depreciation Settings'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot('Screenshot/TC.004.018 - Bulk Action Update Depreciation.png', FailureHandling.STOP_ON_FAILURE)
 

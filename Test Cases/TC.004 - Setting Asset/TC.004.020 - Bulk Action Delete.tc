@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.020 - Bulk Action Delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>658e80d0-b44e-4a18-9d2a-f9da21f025fa</testCaseGuid>
+</TestCaseEntity>

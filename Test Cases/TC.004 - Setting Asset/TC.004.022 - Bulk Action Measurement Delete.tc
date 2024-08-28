@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.022 - Bulk Action Measurement Delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53a65612-3262-473b-a5d1-53c6ca2818c6</testCaseGuid>
+</TestCaseEntity>

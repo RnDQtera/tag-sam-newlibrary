@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.019 - Bulk Asset name set tag type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78ee35da-c2a3-444f-8b04-73e9ba309477</testCaseGuid>
+</TestCaseEntity>

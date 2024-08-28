@@ -35,36 +35,27 @@ WebUI.click(findTestObject('0003 Button Login'), FailureHandling.STOP_ON_FAILURE
 
 WebUI.click(findTestObject('0004 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(8)
 
 WebUI.click(findTestObject('001 Reusable Component/001.015 Reusable - Menu Setting'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('001 Reusable Component/001.018 Reusable - Menu Setting - Asset Name'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.080 Sub tab Measurement'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.091 Check Bulk Action Data Asset Name'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.081 Add Measurement'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.092 Action Bulk Action'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.082 Text Field Create Measurement'), 'Ons')
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.094 Choose Action Set tag type'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.083 Clear Field Measurement'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.031 Choose Tag Type'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.082 Text Field Create Measurement'), 'Ons')
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.032 Select Tag Type'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.084 Submit add new Measurement'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.034 Save Tag Type'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.036 Confirm Change Tag Type'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/TC.004.015 - Membuat Measurement Baru.png', FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.085 Search data measurement'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.sendKeys(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.086 Text Field Search Data Measurement'), Keys.chord(
-        'Ons', Keys.ENTER))
-
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.087 Single Action Measurement'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.088 Choose Delete Measurement'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.089 Confirm Delete Measurement'), FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/TC.004.019-Bulk Asset name set tag type.png', FailureHandling.STOP_ON_FAILURE)
 

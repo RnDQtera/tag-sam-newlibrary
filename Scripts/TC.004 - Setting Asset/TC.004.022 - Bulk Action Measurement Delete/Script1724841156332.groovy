@@ -45,26 +45,24 @@ WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.080 Sub tab Mea
 
 WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.081 Add Measurement'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.082 Text Field Create Measurement'), 'Ons')
-
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.083 Clear Field Measurement'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.setText(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.082 Text Field Create Measurement'), 'Ons')
+WebUI.setText(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.082 Text Field Create Measurement'), 'Ons Create')
 
 WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.084 Submit add new Measurement'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.takeScreenshot('Screenshot/TC.004.015 - Membuat Measurement Baru.png', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.085 Search data measurement'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.sendKeys(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.086 Text Field Search Data Measurement'), Keys.chord(
-        'Ons', Keys.ENTER))
+        'Ons Create', Keys.ENTER))
 
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.087 Single Action Measurement'), FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.088 Choose Delete Measurement'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.100 Bulk Action Brand and Measuremenry'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.101 Delete Bulk Action'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.089 Confirm Delete Measurement'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot('Screenshot/TC.004.022 - Delete Bulk Action in Measurement.png', FailureHandling.STOP_ON_FAILURE)
 
