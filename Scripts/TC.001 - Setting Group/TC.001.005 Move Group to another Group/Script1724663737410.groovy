@@ -47,5 +47,5 @@ WebUI.click(findTestObject('OBJ.001 - Setting Group/0019 Button Move'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0020 Button View Log'))
 
-WebUI.takeScreenshot('Move Group To Another Group.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/TC.001.005-Move Group To Another Group.png', FailureHandling.STOP_ON_FAILURE)
 
