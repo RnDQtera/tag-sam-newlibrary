@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.004.001 Button Add Asset Name</name>
+   <name>001.019 Reusable - Menu Setting - Role</name>
    <tag></tag>
-   <elementGuidId>7931ebcf-0c2b-4f74-88f4-66d82a066188</elementGuidId>
+   <elementGuidId>a327fd0c-089b-4f15-94d4-6eb7b5fe63df</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[6]/ul/li[1]</value>
+         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/ul/li[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

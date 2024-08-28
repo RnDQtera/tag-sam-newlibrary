@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.004.001 Button Add Asset Name</name>
+   <name>0020 Button View Log</name>
    <tag></tag>
-   <elementGuidId>7931ebcf-0c2b-4f74-88f4-66d82a066188</elementGuidId>
+   <elementGuidId>c5c64165-36ca-429b-b93b-b816e47aa748</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[6]/ul/li[1]</value>
+         <value>/html/body/div[1]/aside[2]/div/div/div/div[5]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

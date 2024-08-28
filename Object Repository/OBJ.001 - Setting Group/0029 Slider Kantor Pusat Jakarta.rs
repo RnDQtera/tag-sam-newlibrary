@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>001.016 Reusable - Menu Setting</name>
+   <name>0029 Slider Kantor Pusat Jakarta</name>
    <tag></tag>
-   <elementGuidId>73f08e4f-acb2-4cb4-9e28-a34c52a07fb3</elementGuidId>
+   <elementGuidId>0eb62537-67b3-445d-87c9-b7fdcd69c7b8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[2]/div[1]/table/tbody/tr[1]/td[2]/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/div</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

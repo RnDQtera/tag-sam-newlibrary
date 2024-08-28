@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.004.001 Button Add Asset Name</name>
+   <name>OBJ.002.015 Checkbox John Doe</name>
    <tag></tag>
-   <elementGuidId>7931ebcf-0c2b-4f74-88f4-66d82a066188</elementGuidId>
+   <elementGuidId>469c270b-ed66-4899-a7a5-f2a719e8ae99</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,10 +11,9 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[6]/ul/li[1]</value>
+         <value>/html/body/div[6]/div[2]/ul/li[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

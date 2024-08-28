@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>001.016 Reusable - Menu Setting</name>
+   <name>0028 Button Delete</name>
    <tag></tag>
-   <elementGuidId>73f08e4f-acb2-4cb4-9e28-a34c52a07fb3</elementGuidId>
+   <elementGuidId>95a4a60b-1fbf-4dcd-b85d-c200a14ee4e5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/div[6]/div/div[3]/button[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/div</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

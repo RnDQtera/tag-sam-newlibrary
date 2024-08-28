@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>001.016 Reusable - Menu Setting</name>
+   <name>0025 Fields Kantor Regional Jabar</name>
    <tag></tag>
-   <elementGuidId>73f08e4f-acb2-4cb4-9e28-a34c52a07fb3</elementGuidId>
+   <elementGuidId>6b3dedea-8809-4d91-be94-1b649bdcf08f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div/div/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/div</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

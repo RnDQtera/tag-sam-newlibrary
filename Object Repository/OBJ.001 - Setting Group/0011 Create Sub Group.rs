@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.004.001 Button Add Asset Name</name>
+   <name>0011 Create Sub Group</name>
    <tag></tag>
-   <elementGuidId>7931ebcf-0c2b-4f74-88f4-66d82a066188</elementGuidId>
+   <elementGuidId>c56549e4-52d1-49ae-972b-63d4c18a6751</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,9 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[6]/ul/li[1]</value>
+         <value>&#xd;
+&#xd;
+/html/body/div[6]/ul/li[1]/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

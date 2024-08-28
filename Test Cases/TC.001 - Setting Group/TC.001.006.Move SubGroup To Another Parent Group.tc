@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.001.006.Move SubGroup To Another Parent Group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da9d7493-e0b3-4739-b5d0-d69a243b5035</testCaseGuid>
+</TestCaseEntity>

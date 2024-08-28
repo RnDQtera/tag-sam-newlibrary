@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>001.017 Reusable - Menu Setting - Group</name>
+   <name>0034 Checkbox Kantor Regional JaTeng</name>
    <tag></tag>
-   <elementGuidId>5e58226a-815e-47f1-a71f-100364a63775</elementGuidId>
+   <elementGuidId>97bc314f-b683-4146-aa23-f83f2daa79f5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[2]/div[1]/table/tbody/tr[2]/td[1]/div&#xd;
+&#xd;
+</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>&#xd;
-&#xd;
-/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/ul/li[1]/div</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
