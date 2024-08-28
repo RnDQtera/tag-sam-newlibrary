@@ -43,5 +43,5 @@ WebUI.click(findTestObject('OBJ.001 - Setting Group/0008 Button Submit Group Nam
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0020 Button View Log'))
 
-WebUI.takeScreenshot('Create New Disposable Group.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/TC.001.002-Create New Disposable Group.png', FailureHandling.STOP_ON_FAILURE)
 
