@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.004.052 Save Edit Category</name>
+   <name>OBJ.004.091 Check Bulk Action Data Asset Name</name>
    <tag></tag>
-   <elementGuidId>49d53d46-3e13-4b03-8552-16828e2f9de5</elementGuidId>
+   <elementGuidId>f80e0429-e41d-425d-9dd5-b0ed203bf332</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[7]/div/div[3]/div/button[2]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[4]/div[1]/table/thead/tr/th[1]/div/div/input</value>
       </entry>
       <entry>
          <key>BASIC</key>

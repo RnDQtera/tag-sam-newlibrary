@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.004.052 Save Edit Category</name>
+   <name>OBJ.004.059 Enter New Brand Name</name>
    <tag></tag>
-   <elementGuidId>49d53d46-3e13-4b03-8552-16828e2f9de5</elementGuidId>
+   <elementGuidId>26f4e37f-034b-468c-9a71-670287241bcc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[7]/div/div[3]/div/button[2]</value>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div/div[1]/div[1]/div/input</value>
       </entry>
       <entry>
          <key>BASIC</key>

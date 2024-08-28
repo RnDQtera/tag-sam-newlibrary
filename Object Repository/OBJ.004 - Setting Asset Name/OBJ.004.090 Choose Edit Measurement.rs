@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.004.052 Save Edit Category</name>
+   <name>OBJ.004.090 Choose Edit Measurement</name>
    <tag></tag>
-   <elementGuidId>49d53d46-3e13-4b03-8552-16828e2f9de5</elementGuidId>
+   <elementGuidId>daf8bc4c-de4d-4b0c-ba5c-05220719250e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[7]/div/div[3]/div/button[2]</value>
+         <value>/html/body/div[6]/ul/li[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>

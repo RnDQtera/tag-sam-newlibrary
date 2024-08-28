@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.016 - Edit Measurement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cb2a751-a35e-43d8-8d5f-c23bc53da8fa</testCaseGuid>
+</TestCaseEntity>

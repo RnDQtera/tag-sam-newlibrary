@@ -6,12 +6,11 @@
    <elementGuidId>170276b7-f9d3-43a0-9b63-19d8389921c9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[1]/button[3]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;single-spa-application:@tagsamurai/ts-mfe-settings-asset&quot;]/div/div[2]/div/div/div[2]/div[2]/div/button[4]</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

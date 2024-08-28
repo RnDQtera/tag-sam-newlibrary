@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.004.052 Save Edit Category</name>
+   <name>OBJ.004.062 Save Select Category</name>
    <tag></tag>
-   <elementGuidId>49d53d46-3e13-4b03-8552-16828e2f9de5</elementGuidId>
+   <elementGuidId>72a86242-b66a-442d-b36d-f3fcd3d7d25e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[7]/div/div[3]/div/button[2]</value>
+         <value>/html/body/div[8]/div/div[3]/button[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>

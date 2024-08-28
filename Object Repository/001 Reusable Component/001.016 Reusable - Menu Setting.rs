@@ -6,6 +6,7 @@
    <elementGuidId>73f08e4f-acb2-4cb4-9e28-a34c52a07fb3</elementGuidId>
    <selectorCollection>
       <entry>
+<<<<<<< HEAD
          <key>BASIC</key>
       </entry>
       <entry>
@@ -15,6 +16,13 @@
 =======
          <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[6]/div/button</value>
 >>>>>>> 247064d1fd971fe8b765b89685bf35ef072e8b2e
+=======
+         <key>XPATH</key>
+         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/div/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+>>>>>>> 391838e9a131321809fc5979fe19ee858d252ff2
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

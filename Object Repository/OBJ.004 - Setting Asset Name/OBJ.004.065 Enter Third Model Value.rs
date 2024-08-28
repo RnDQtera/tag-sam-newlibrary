@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.004.052 Save Edit Category</name>
+   <name>OBJ.004.065 Enter Third Model Value</name>
    <tag></tag>
-   <elementGuidId>49d53d46-3e13-4b03-8552-16828e2f9de5</elementGuidId>
+   <elementGuidId>824cb8cf-b72f-4e4c-a12b-5cac54a10699</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[7]/div/div[3]/div/button[2]</value>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div/div[3]/div[1]/table/tbody/tr[3]/td[3]/div/div/form/input</value>
       </entry>
       <entry>
          <key>BASIC</key>

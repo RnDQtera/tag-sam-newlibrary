@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.015 - Membuat Measurement Baru</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1feedbe8-7962-4ca4-9e37-c2b8110ce98b</testCaseGuid>
+</TestCaseEntity>

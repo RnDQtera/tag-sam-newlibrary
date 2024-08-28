@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.012 - Edit New Brand</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb8d3949-fa89-4ced-9e18-9e8a15f1f6f7</testCaseGuid>
+</TestCaseEntity>

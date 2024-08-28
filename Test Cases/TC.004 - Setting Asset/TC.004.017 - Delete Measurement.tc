@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.017 - Delete Measurement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>885a2a06-c2c2-41e5-a6c4-8d25a8d00406</testCaseGuid>
+</TestCaseEntity>
