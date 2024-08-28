@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.005 - Set Tag Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9db8029f-e7a9-4934-9aea-b9fbd4b732b3</testCaseGuid>
+</TestCaseEntity>

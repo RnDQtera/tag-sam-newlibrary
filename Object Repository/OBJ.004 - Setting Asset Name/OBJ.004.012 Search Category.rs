@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.004.002 Choose Measurement</name>
+   <name>OBJ.004.012 Search Category</name>
    <tag></tag>
-   <elementGuidId>dabe8d28-defc-4e35-a5a8-07fbbc0848a3</elementGuidId>
+   <elementGuidId>d7f8118d-33a3-4fc1-8a24-bf75bd70df7f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/button</value>
+         <value>/html/body/div[8]/div/div[1]/div[1]/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

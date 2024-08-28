@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>001.018 Reusable - Menu Setting - Asset Name</name>
+   <name>OBJ.004.048 Closed Change Log Category</name>
    <tag></tag>
-   <elementGuidId>1be60467-d233-4ab7-a9bf-e90ee24e8f4b</elementGuidId>
+   <elementGuidId>be600fd5-8911-4340-9a22-d6186120f22f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div[1]/div/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;sidebar-left-app&quot;]/div[2]/div/ul/li[6]/ul/li[4]</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004.006 - Delete Asset Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24ae995b-f602-4dca-a8c0-83ca40d6b1e9</testCaseGuid>
+</TestCaseEntity>

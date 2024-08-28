@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>001.016 Reusable - Menu Setting</name>
+   <name>OBJ.004.021 Select Detail Asset Name</name>
    <tag></tag>
-   <elementGuidId>73f08e4f-acb2-4cb4-9e28-a34c52a07fb3</elementGuidId>
+   <elementGuidId>36b45dc0-32ab-40a6-a5b2-7f13bf54ed0d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-<<<<<<< HEAD
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/div</value>
-=======
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[6]/div/button</value>
->>>>>>> 247064d1fd971fe8b765b89685bf35ef072e8b2e
+         <value>/html/body/div[6]/ul/li[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>
