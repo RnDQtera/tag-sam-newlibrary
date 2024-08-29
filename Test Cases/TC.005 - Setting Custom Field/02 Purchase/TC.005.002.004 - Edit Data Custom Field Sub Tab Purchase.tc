@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.002.004 - Edit Data Custom Field Sub Tab Purchase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b70e7ba0-4029-460c-9afb-42abe355a7b4</testCaseGuid>
+</TestCaseEntity>

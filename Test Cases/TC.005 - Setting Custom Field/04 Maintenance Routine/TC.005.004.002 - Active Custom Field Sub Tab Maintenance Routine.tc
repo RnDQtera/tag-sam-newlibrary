@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.005.001 - Create Custom Field Sub Tab General Information</name>
+   <name>TC.005.004.002 - Active Custom Field Sub Tab Maintenance Routine</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>7826ae78-ad34-42ce-bb4b-9b13a36c25f6</testCaseGuid>
+   <testCaseGuid>03c5563a-769c-44dd-a67e-ee1f75bf8b60</testCaseGuid>
 </TestCaseEntity>

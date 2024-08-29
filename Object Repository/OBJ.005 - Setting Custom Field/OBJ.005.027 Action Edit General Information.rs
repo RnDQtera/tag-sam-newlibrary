@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.005.006 Select Data Type Multi Drop Down</name>
+   <name>OBJ.005.027 Action Edit General Information</name>
    <tag></tag>
-   <elementGuidId>065dc22a-a33b-4f5a-ba85-aa46b3380b34</elementGuidId>
+   <elementGuidId>c091e9c4-4613-470e-b871-34164cfe2d13</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[8]/div/ul/li[3]</value>
+         <value>/html/body/div[6]/ul/li[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>

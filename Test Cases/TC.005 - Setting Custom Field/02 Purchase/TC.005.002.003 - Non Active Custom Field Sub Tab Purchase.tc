@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.002.003 - Non Active Custom Field Sub Tab Purchase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bed23649-44ff-48c3-a5f5-00e3730590a1</testCaseGuid>
+</TestCaseEntity>

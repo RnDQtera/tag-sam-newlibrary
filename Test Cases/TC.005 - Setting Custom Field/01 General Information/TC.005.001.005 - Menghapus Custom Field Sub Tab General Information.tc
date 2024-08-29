@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.001.005 - Menghapus Custom Field Sub Tab General Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0c78258-66e5-4d31-919f-66f3e416b758</testCaseGuid>
+</TestCaseEntity>

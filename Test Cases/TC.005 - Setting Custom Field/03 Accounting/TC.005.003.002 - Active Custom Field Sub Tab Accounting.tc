@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.003.002 - Active Custom Field Sub Tab Accounting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>346033c6-e7b7-48c3-8f92-654463588e1d</testCaseGuid>
+</TestCaseEntity>

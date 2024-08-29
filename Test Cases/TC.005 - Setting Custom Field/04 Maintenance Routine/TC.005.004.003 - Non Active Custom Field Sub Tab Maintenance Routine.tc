@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.004.003 - Non Active Custom Field Sub Tab Maintenance Routine</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f5e8e8b-a773-467a-a873-61663ebce76c</testCaseGuid>
+</TestCaseEntity>

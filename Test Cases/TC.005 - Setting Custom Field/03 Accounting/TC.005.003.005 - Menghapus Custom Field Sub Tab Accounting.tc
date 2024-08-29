@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.003.005 - Menghapus Custom Field Sub Tab Accounting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>121b91e9-8932-4892-a0df-eb1fc7ef7993</testCaseGuid>
+</TestCaseEntity>

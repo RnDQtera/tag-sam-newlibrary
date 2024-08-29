@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.004.001 - Create Custom Field Sub tab maintenance routine</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf16c129-fd68-4811-a3b1-5a58f95e6068</testCaseGuid>
+</TestCaseEntity>

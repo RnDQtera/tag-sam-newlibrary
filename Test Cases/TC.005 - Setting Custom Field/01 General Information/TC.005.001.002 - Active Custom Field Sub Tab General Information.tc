@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.001.002 - Active Custom Field Sub Tab General Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89896999-9f63-4c61-bff7-cc2fa4619501</testCaseGuid>
+</TestCaseEntity>

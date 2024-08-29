@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.003.001 - Create Custom Field Sub Accounting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1bc022e0-de02-4de0-9581-e5ca2f11cc2f</testCaseGuid>
+</TestCaseEntity>

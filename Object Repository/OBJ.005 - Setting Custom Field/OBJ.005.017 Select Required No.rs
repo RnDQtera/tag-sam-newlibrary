@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.005.006 Select Data Type Multi Drop Down</name>
+   <name>OBJ.005.017 Select Required No</name>
    <tag></tag>
-   <elementGuidId>065dc22a-a33b-4f5a-ba85-aa46b3380b34</elementGuidId>
+   <elementGuidId>e902d776-f2b0-4908-b82b-7a8526024b68</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[8]/div/ul/li[3]</value>
+         <value>/html/body/div[7]/div/div[2]/form/div/div/div/div[3]/div[2]/div/input</value>
       </entry>
       <entry>
          <key>BASIC</key>

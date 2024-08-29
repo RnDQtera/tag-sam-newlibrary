@@ -41,18 +41,43 @@ WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setti
 
 WebUI.click(findTestObject('001 Reusable Component/001.020 Reusable - Menu Setting - Custom FIeld'), FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.001 Add Custom Field'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.086 Text Field Search Data Measurement'), Keys.chord(
-        'Unit', Keys.ENTER))
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.002 Create Field Name'), 'Custom Field Text Area')
+
+WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.003 Choose Data Type'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.004 Select Data Type Text Area'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.016 Select Required Yes'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.018 Select Category'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.019 Serach Text Field Category'), 'Kendaraan')
+
+WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.020 Choose Category'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.021 Select Category'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.023 Submit Create Custom Field'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/TC.004.039 - Search Data Measurement.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.024 Search General Information'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.127 Download Data Measurement'), FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.025 Text Field Search General Information'), 'Custom Field Text Area')
+
+WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.026 Single Action General Information'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.028 Action Delete General Information'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.005 - Setting Custom Field/OBJ.005.029 Confirm Delete Custom Field'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/TC.004.040 - Download Data Measurement.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/005.Custom Field/TC.005.005 - Delete Custom Field.png', FailureHandling.STOP_ON_FAILURE)
 
