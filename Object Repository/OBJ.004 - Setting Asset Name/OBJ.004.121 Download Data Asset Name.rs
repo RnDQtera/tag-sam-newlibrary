@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>001.018 Reusable - Menu Setting - Asset Name</name>
+   <name>OBJ.004.121 Download Data Asset Name</name>
    <tag></tag>
-   <elementGuidId>1be60467-d233-4ab7-a9bf-e90ee24e8f4b</elementGuidId>
+   <elementGuidId>6c971ad7-d9f3-4a36-aa34-5b9b899cb4f3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/ul/li[4]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div/button[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>

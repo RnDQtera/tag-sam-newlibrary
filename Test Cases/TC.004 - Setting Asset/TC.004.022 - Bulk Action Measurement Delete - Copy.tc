@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.004.001 - Create Asset Name</name>
+   <name>TC.004.022 - Bulk Action Measurement Delete - Copy</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ad7142ca-a37d-4daf-a810-4741c9dc17c0</testCaseGuid>
+   <testCaseGuid>f5b6d32a-bae8-4255-ad67-dc3694a0a392</testCaseGuid>
 </TestCaseEntity>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>001.018 Reusable - Menu Setting - Asset Name</name>
+   <name>OBJ.004.102 Check Bulk Action Data Measurement</name>
    <tag></tag>
-   <elementGuidId>1be60467-d233-4ab7-a9bf-e90ee24e8f4b</elementGuidId>
+   <elementGuidId>bcc7d3c9-d2ff-40c8-bcfc-eadea394efa0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/ul/li[4]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[1]/table/thead/tr/th[1]/div/div/input</value>
       </entry>
       <entry>
          <key>BASIC</key>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.004.001 - Create Asset Name</name>
+   <name>TC.004.027 - Filter Measurement</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ad7142ca-a37d-4daf-a810-4741c9dc17c0</testCaseGuid>
+   <testCaseGuid>751263db-9877-45de-88ee-2d451a2368cd</testCaseGuid>
 </TestCaseEntity>

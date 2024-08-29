@@ -37,7 +37,7 @@ WebUI.click(findTestObject('0004 Modul Fixed Asset'), FailureHandling.STOP_ON_FA
 
 WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('001 Reusable Component/001.018 Reusable - Menu Setting - Asset Name'), FailureHandling.STOP_ON_FAILURE)
 
@@ -81,5 +81,18 @@ WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.014 Submit Choo
 
 WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.015 Submit Create Asset Name'), FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.takeScreenshot('Screenshot/TC.004.001-Create Asset Name.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.071 Seacrh data table brand'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.072 Text Field Data Table'), Keys.chord('Office Desks Models', 
+        Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.016 Single Action'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.104 Delete Asset Name'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.105 Confirm Delete Single Action'), FailureHandling.STOP_ON_FAILURE)
 

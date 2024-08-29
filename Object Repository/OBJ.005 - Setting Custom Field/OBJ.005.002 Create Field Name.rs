@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>001.018 Reusable - Menu Setting - Asset Name</name>
+   <name>OBJ.005.002 Create Field Name</name>
    <tag></tag>
-   <elementGuidId>1be60467-d233-4ab7-a9bf-e90ee24e8f4b</elementGuidId>
+   <elementGuidId>900fe09a-5e79-4c03-926b-8c59e0ddaf6c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/ul/li[4]</value>
+         <value>/html/body/div[7]/div/div[2]/form/div/div/div/div[1]/div/input</value>
       </entry>
       <entry>
          <key>BASIC</key>

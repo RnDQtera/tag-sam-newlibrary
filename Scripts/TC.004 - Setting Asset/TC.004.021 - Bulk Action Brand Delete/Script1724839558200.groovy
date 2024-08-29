@@ -37,7 +37,7 @@ WebUI.click(findTestObject('0004 Modul Fixed Asset'), FailureHandling.STOP_ON_FA
 
 WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('001 Reusable Component/001.015 Reusable - Menu Setting'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('001 Reusable Component/001.018 Reusable - Menu Setting - Asset Name'), FailureHandling.STOP_ON_FAILURE)
 

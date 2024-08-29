@@ -41,30 +41,18 @@ WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setti
 
 WebUI.click(findTestObject('001 Reusable Component/001.018 Reusable - Menu Setting - Asset Name'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.080 Sub tab Measurement'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.095 Search Data Table Asset Name'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.081 Add Measurement'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.setText(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.082 Text Field Create Measurement'), 'Ons Create')
-
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.084 Submit add new Measurement'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.085 Search data measurement'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.sendKeys(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.086 Text Field Search Data Measurement'), Keys.chord(
-        'Ons Create', Keys.ENTER))
+WebUI.setText(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.096 Text Field Data Asset Name'), Keys.chord('Lemari Arsip Berkas Admin', 
+        Keys.ENTER))
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.102 Check Bulk Action Data Measurement'), FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/TC.004.032 - Search Asset Namee.png', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.100 Bulk Action Brand and Measuremenry'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.101 Delete Bulk Action'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.089 Confirm Delete Measurement'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.004 - Setting Asset Name/OBJ.004.121 Download Data Asset Name'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/TC.004.022 - Delete Bulk Action in Measurement.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/TC.004.033 - Download Asset Namee.png', FailureHandling.STOP_ON_FAILURE)
 

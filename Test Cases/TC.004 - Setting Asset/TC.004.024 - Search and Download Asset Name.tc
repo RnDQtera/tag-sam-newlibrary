@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.004.001 - Create Asset Name</name>
+   <name>TC.004.024 - Search and Download Asset Name</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ad7142ca-a37d-4daf-a810-4741c9dc17c0</testCaseGuid>
+   <testCaseGuid>92a30d14-37dc-411e-ae7c-02c90e1daed8</testCaseGuid>
 </TestCaseEntity>
