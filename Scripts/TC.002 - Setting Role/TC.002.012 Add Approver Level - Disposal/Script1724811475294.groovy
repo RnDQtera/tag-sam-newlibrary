@@ -29,15 +29,26 @@ WebUI.click(findTestObject('OBJ.007 - Login/OBJ.007.003.Button Login'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setting - Role'))
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.014 Click Menu Disposal'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.027 Button Add Approval Level (Disposal,Audit,Maintenance)'))
 
-WebUI.click(findTestObject('null'))
+WebUI.delay(8)
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.028 Button Add Approver Lvl 2(Disposal,Audit,Maintenance)'))
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002 Checkbox List 2'))
+
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.018 Button Change Log'))
+
+WebUI.delay(5)
+
+
+WebUI.takeScreenshot('Screenshot/TC.002.012 - Add Approver Level - Disposal.png', FailureHandling.STOP_ON_FAILURE)
+
 
