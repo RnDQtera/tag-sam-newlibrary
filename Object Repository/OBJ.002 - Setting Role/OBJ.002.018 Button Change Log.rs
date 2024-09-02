@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.002.009 Button Add Manajer</name>
+   <name>OBJ.002.018 Button Change Log</name>
    <tag></tag>
-   <elementGuidId>14bf7869-bdbc-4b6d-9ec4-30c8e5e15eeb</elementGuidId>
+   <elementGuidId>9fbcc0d2-0027-4fcf-8fcc-6ded6669ca70</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[1]/div[1]/div[2]/div/button</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[1]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -29,11 +29,23 @@ WebUI.click(findTestObject('OBJ.007 - Login/OBJ.007.003.Button Login'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setting - Role'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.007 Button Add Approver Lvl 2 - Borrowing'))
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.006 Button Add Approval Level'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.004 Checkbox Will Wick'))
+WebUI.delay(8)
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.007 Button Add Approver Lvl 2'))
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.002 Checkbox List 1'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.018 Button Change Log'))
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot('Screenshot/TC.002.004 - Add Approval Level - Borrowing.png', FailureHandling.STOP_ON_FAILURE)
 

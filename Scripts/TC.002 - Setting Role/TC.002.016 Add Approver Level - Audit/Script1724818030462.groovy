@@ -35,5 +35,5 @@ WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setti
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.016 Click Menu Audit'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.002 Checkbox ASDF Tag Samurai V2'))
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.002 Checkbox List 1'))
 

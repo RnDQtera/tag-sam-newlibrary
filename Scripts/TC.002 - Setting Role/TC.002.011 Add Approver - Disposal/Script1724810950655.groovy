@@ -35,7 +35,7 @@ WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setti
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.014 Click Menu Disposal'))
 
-WebUI.clickImage(findTestObject('OBJ.002 - Setting Role/OBJ.002.011 Button Add Approver'))
+WebUI.clickImage(findTestObject('null'))
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.015 Checkbox John Doe'))
 

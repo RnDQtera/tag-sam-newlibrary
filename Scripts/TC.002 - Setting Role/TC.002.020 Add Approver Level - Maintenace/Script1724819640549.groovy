@@ -35,9 +35,9 @@ WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setti
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.017 Click Menu Maintenance'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.012 Button Add Approval Level'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.013 Button Add Approver lvl 2'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.004 Checkbox Will Wick'))
+WebUI.click(findTestObject('null'))
 

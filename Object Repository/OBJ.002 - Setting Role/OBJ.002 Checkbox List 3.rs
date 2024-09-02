@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.002.004 Checkbox Will Wick</name>
+   <name>OBJ.002 Checkbox List 3</name>
    <tag></tag>
-   <elementGuidId>6348259e-4f65-4e1a-b1a2-8e7f19a9e127</elementGuidId>
+   <elementGuidId>e7d3a34d-62a1-43f9-910d-9a8e34217ca7</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[6]/div[2]/ul/li[2]/div</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[6]/div[2]/ul/li[3]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

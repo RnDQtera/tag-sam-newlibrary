@@ -35,7 +35,7 @@ WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setti
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.017 Click Menu Maintenance'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.009 Button Add Manajer'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.002 Checkbox ASDF Tag Samurai V2'))
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.002 Checkbox List 1'))
 
