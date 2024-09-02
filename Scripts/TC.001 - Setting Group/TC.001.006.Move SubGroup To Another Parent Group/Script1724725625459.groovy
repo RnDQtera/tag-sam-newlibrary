@@ -29,13 +29,13 @@ WebUI.click(findTestObject('OBJ.007 - Login/OBJ.007.003.Button Login'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.017 Reusable - Menu Setting - Group'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0022 Dropdown Kantor Regional Jateng'))
 
-WebUI.click(findTestObject('OBJ.001 - Setting Group/0021 Action Sub Group Cabang Cilacap'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0021 Action Sub Group Cabang Wonogiri'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0014 Button Move Group'))
 
@@ -49,5 +49,7 @@ WebUI.click(findTestObject('OBJ.001 - Setting Group/0019 Button Move'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0020 Button View Log'))
 
-WebUI.takeScreenshot('Move Sub Group.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(3)
+
+WebUI.takeScreenshot('Screenshot/TC.001.006- Move Sub Group.png', FailureHandling.STOP_ON_FAILURE)
 

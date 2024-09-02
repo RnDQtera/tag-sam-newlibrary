@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>0022 Dropdown Kantor Regional Jateng</name>
+   <name>0025 Fields Kantor Regional JaTeng</name>
    <tag></tag>
-   <elementGuidId>e54d446d-00f6-4047-8357-2f290ceede9f</elementGuidId>
+   <elementGuidId>6b3dedea-8809-4d91-be94-1b649bdcf08f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div/div/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[1]/aside[2]/div/div/div/div[4]/div/ul/li/ul/li[3]/div/button</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

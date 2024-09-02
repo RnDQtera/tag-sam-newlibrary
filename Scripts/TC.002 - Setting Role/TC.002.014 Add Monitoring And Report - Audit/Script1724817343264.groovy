@@ -29,7 +29,7 @@ WebUI.click(findTestObject('OBJ.007 - Login/OBJ.007.003.Button Login'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setting - Role'))
 

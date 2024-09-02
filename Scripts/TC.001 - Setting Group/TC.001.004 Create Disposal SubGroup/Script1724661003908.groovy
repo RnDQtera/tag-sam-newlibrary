@@ -17,33 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://dev-console-v2.tagsamurai.com')
+WebUI.openBrowser(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.001.Field ID'), 'john-doe@mailnesia.com')
+WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.001.Field ID'), GlobalVariable.id)
 
-WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.002.Field Password'), 'Moderator12@')
+WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.002.Field Password'), GlobalVariable.pass)
 
 WebUI.click(findTestObject('OBJ.007 - Login/OBJ.007.003.Button Login'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.017 Reusable - Menu Setting - Group'))
 
-WebUI.click(findTestObject('OBJ.001 - Setting Group/0010 Action grup Regional JaBar'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0010 Action grup Regional JaTeng'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0011 Create Sub Group'))
 
-WebUI.setText(findTestObject('OBJ.001 - Setting Group/0012 Field Create SubGroup'), 'Cabang Majalengka')
+WebUI.setText(findTestObject('OBJ.001 - Setting Group/0012 Field Create SubGroup'), 'Cabang Jogja')
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0009 Check Disposable'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0008 Button Submit Group Name'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0020 Button View Log'))
+
+WebUI.delay(3)
 
 WebUI.takeScreenshot('Screenshot/TC.001.004-Create Disposal Sub Group.png', FailureHandling.STOP_ON_FAILURE)
 

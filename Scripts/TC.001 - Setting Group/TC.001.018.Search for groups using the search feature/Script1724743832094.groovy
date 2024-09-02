@@ -29,7 +29,7 @@ WebUI.click(findTestObject('OBJ.007 - Login/OBJ.007.003.Button Login'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.017 Reusable - Menu Setting - Group'))
 
@@ -39,5 +39,7 @@ WebUI.setText(findTestObject('OBJ.001 - Setting Group/0040 Fields Input Search')
 
 WebUI.sendKeys(findTestObject('OBJ.001 - Setting Group/0040 Fields Input Search'), Keys.chord(Keys.ENTER))
 
-WebUI.takeScreenshot('Search For Groups Use Search feature.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(3)
+
+WebUI.takeScreenshot('Screenshot/TC.001.018 - Search Group use Search feature.png', FailureHandling.STOP_ON_FAILURE)
 

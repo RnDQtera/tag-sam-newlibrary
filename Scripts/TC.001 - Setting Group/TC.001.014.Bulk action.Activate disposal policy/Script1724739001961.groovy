@@ -29,15 +29,19 @@ WebUI.click(findTestObject('OBJ.007 - Login/OBJ.007.003.Button Login'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.017 Reusable - Menu Setting - Group'))
 
-WebUI.click(findTestObject('OBJ.001 - Setting Group/0034 Checkbox Kantor Regional JaTeng'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0044 Checkbox Kantor Regional Jakarta'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0035 Button Bul Action'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0036 Choice Activate Disposal Policy'))
 
-WebUI.takeScreenshot('[Bulk Action]Activate Disposal Policy.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0020 Button View Log'))
+
+WebUI.delay(5)
+
+WebUI.takeScreenshot('Screenshot/TC.001.014 - Active Disposal Policy.png', FailureHandling.STOP_ON_FAILURE)
 

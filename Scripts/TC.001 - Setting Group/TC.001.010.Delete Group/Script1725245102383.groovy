@@ -17,3 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(GlobalVariable.URL)
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.001.Field ID'), GlobalVariable.id)
+
+WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.002.Field Password'), GlobalVariable.pass)
+
+WebUI.click(findTestObject('OBJ.007 - Login/OBJ.007.003.Button Login'))
+
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
+
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
+
+WebUI.click(findTestObject('001 Reusable Component/001.017 Reusable - Menu Setting - Group'))
+
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0044 Action Grup Regional Sulawesi'))
+
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0027 Delete Group'))
+
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0028 Button Delete'))
+
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0020 Button View Log'))
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot('Screenshot/TC.001.010 - Delete Group.png', FailureHandling.STOP_ON_FAILURE)
+
