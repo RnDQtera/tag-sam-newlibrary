@@ -49,7 +49,7 @@ WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.001 Button Add Manage
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.002 Checkbox List 1'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002 Checkbox List 2'))
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.0039 Checkbox List 2'))
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.018 Button Change Log'))
 

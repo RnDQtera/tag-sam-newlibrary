@@ -49,7 +49,7 @@ WebUI.delay(8)
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.028 Button Add Approver Lvl 2(Disposal,Audit,Maintenance)'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002 Checkbox List 2'))
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.0039 Checkbox List 2'))
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.018 Button Change Log'))
 

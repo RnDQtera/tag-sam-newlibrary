@@ -45,7 +45,7 @@ WebUI.delay(10)
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.003 Button Add Monitoring'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002 Checkbox List 2'))
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.0039 Checkbox List 2'))
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.018 Button Change Log'))
 
