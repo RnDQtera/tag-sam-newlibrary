@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.011.003 - Filter Custom Field Sub Accounting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5aae1fd-d982-465c-9c24-fcecf8cf260f</testCaseGuid>
+</TestCaseEntity>

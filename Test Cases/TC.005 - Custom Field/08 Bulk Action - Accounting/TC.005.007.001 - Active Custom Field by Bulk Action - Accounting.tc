@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.007.001 - Active Custom Field by Bulk Action - Accounting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44486d36-7c88-4ed3-a783-2f90d91d907d</testCaseGuid>
+</TestCaseEntity>

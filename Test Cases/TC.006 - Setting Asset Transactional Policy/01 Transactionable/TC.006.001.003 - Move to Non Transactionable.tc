@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.001.003 - Move to Non Transactionable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c497f45-60c1-4f96-9946-eb0e97480a0a</testCaseGuid>
+</TestCaseEntity>

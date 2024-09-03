@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.001.005 - Bulk Action Mark as self service Asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2269bcc-02eb-4807-976c-c5d1f7704ed1</testCaseGuid>
+</TestCaseEntity>

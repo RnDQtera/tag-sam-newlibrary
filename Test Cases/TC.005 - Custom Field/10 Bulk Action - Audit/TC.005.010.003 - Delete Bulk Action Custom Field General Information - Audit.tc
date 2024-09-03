@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.010.003 - Delete Bulk Action Custom Field General Information - Audit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9cafeaf-2ea6-46f3-9dd7-2849ed0fa20f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.001.006 - Bulk Action Remove from self service Asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff81f0bc-5208-4da2-9296-bc9012b21d60</testCaseGuid>
+</TestCaseEntity>

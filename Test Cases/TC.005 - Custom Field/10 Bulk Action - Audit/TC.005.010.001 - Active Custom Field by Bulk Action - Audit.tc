@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.010.001 - Active Custom Field by Bulk Action - Audit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7784dd5f-2b53-4bc0-8bae-983a6fcb2bd0</testCaseGuid>
+</TestCaseEntity>

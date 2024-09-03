@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.011.002 - Filter Custom Field Sub Tab Purchase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b893caa4-0269-4cc6-8816-9dad3d9dacae</testCaseGuid>
+</TestCaseEntity>

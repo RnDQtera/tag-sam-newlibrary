@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.011.001 - Filter Custom Field General Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a16a5a93-8356-4b25-9c39-885afd8294c4</testCaseGuid>
+</TestCaseEntity>
