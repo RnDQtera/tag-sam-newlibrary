@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.035 Action Remove User Manager - Audit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8881710-4100-440a-9b9e-e7eecde5a22a</testCaseGuid>
+</TestCaseEntity>

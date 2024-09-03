@@ -21,11 +21,11 @@ WebUI.openBrowser(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.001.Field ID'), GlobalVariable.id)
+WebUI.setText(findTestObject('0001 ID'), GlobalVariable.id)
 
-WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.002.Field Password'), GlobalVariable.pass)
+WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
 
-WebUI.click(findTestObject('OBJ.007 - Login/OBJ.007.003.Button Login'))
+WebUI.click(findTestObject('0003 Button Login'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
@@ -35,5 +35,19 @@ WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setti
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.016 Click Menu Audit'))
 
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.027 Button Add Approval Level (Disposal,Audit,Maintenance)'))
+
+WebUI.delay(8)
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.028 Button Add Approver Lvl 2(Disposal,Audit,Maintenance)'))
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002 Checkbox List 2'))
+
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.002 Checkbox List 1'))
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.018 Button Change Log'))
+
+WebUI.delay(5)
+
+WebUI.takeScreenshot('Screenshot/TC.002.016 - Add Approver Level - Audit.png', FailureHandling.STOP_ON_FAILURE)
 
