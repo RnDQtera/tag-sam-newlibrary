@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.001.002 - Remove form self service</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bcb2368b-836a-4b77-bf89-c75190322684</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.011.004 - Filter Custom Field Sub Maintenance Routine</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a409c05-4a8f-4756-8857-22a2ac301dc1</testCaseGuid>
+</TestCaseEntity>

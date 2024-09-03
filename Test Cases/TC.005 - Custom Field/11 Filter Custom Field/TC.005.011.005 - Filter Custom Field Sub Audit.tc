@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.011.005 - Filter Custom Field Sub Audit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f82e25d1-f6ec-4bb3-81cb-003d464556d9</testCaseGuid>
+</TestCaseEntity>

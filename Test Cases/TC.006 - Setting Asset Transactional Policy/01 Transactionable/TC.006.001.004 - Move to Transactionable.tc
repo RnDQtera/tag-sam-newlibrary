@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.001.004 - Move to Transactionable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d4bc74a-4b3f-4bc1-94b3-df64e0fe4615</testCaseGuid>
+</TestCaseEntity>

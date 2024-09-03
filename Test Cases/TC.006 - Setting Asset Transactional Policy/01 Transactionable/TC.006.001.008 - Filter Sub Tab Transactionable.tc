@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.001.008 - Filter Sub Tab Transactionable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>933cc436-5e33-4ad4-a381-f9bba3c3c020</testCaseGuid>
+</TestCaseEntity>

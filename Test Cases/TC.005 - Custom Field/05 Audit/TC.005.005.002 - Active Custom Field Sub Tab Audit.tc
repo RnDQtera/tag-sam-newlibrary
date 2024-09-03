@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.005.002 - Active Custom Field Sub Tab Audit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd29b7c4-4625-49fa-9e8b-91b1faa3c4f0</testCaseGuid>
+</TestCaseEntity>

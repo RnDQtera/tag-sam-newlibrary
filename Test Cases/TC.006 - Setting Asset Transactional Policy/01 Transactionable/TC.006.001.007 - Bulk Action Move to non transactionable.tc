@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.001.007 - Bulk Action Move to non transactionable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4057e59f-e7cd-44f7-a97a-e0ac9a943910</testCaseGuid>
+</TestCaseEntity>

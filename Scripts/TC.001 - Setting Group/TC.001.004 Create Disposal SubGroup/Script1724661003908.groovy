@@ -21,11 +21,11 @@ WebUI.openBrowser('https://dev-console-v2.tagsamurai.com')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.001.Field ID'), 'john-doe@mailnesia.com')
+WebUI.setText(findTestObject('null'), 'john-doe@mailnesia.com')
 
-WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.002.Field Password'), 'Moderator12@')
+WebUI.setText(findTestObject('null'), 'Moderator12@')
 
-WebUI.click(findTestObject('OBJ.007 - Login/OBJ.007.003.Button Login'))
+WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
