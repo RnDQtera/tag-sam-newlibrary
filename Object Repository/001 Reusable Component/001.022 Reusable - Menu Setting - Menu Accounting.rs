@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.006.023 Sub Tab Non Transactionable</name>
+   <name>001.022 Reusable - Menu Setting - Menu Accounting</name>
    <tag></tag>
-   <elementGuidId>0c014f34-5a28-47ce-a319-8430c3db6de3</elementGuidId>
+   <elementGuidId>0523c2e4-3ea0-4016-9d1c-02dc3a5b2ece</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[1]/ul/li[2]/a</value>
+         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/ul/li[7]</value>
       </entry>
       <entry>
          <key>BASIC</key>

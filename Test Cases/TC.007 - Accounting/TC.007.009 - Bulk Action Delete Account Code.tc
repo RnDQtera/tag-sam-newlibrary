@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.009 - Bulk Action Delete Account Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fbbe7422-ed40-45aa-8924-e356db6767e3</testCaseGuid>
+</TestCaseEntity>

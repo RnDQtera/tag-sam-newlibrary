@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.006.023 Sub Tab Non Transactionable</name>
+   <name>OBJ.007.002 Enter Tengible Asset Group</name>
    <tag></tag>
-   <elementGuidId>0c014f34-5a28-47ce-a319-8430c3db6de3</elementGuidId>
+   <elementGuidId>cafc4a6a-165f-470f-a451-011d327bbc58</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[1]/ul/li[2]/a</value>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div[1]/div/input&#xd;
+</value>
       </entry>
       <entry>
          <key>BASIC</key>

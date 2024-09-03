@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.006.023 Sub Tab Non Transactionable</name>
+   <name>OBJ.007.003 Enter Number of Userful life</name>
    <tag></tag>
-   <elementGuidId>0c014f34-5a28-47ce-a319-8430c3db6de3</elementGuidId>
+   <elementGuidId>483f7f62-b0f6-4cd0-a7b3-0058851d5436</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[1]/ul/li[2]/a</value>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div[2]/div/span/span/input</value>
       </entry>
       <entry>
          <key>BASIC</key>

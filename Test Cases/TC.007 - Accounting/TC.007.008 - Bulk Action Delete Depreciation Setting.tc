@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.008 - Bulk Action Delete Depreciation Setting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>989045cf-a033-4e21-82bb-44d5010d7a33</testCaseGuid>
+</TestCaseEntity>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.006.023 Sub Tab Non Transactionable</name>
+   <name>OBJ.001.022 Add Account Code List</name>
    <tag></tag>
-   <elementGuidId>0c014f34-5a28-47ce-a319-8430c3db6de3</elementGuidId>
+   <elementGuidId>29e36738-0b73-46e3-ada2-07c6e77ee211</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[1]/ul/li[2]/a</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/button</value>
       </entry>
       <entry>
          <key>BASIC</key>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.006.023 Sub Tab Non Transactionable</name>
+   <name>OBJ.001.013 Select Depreciation Methode</name>
    <tag></tag>
-   <elementGuidId>0c014f34-5a28-47ce-a319-8430c3db6de3</elementGuidId>
+   <elementGuidId>a98aa1ae-a7f4-41f2-902c-c6b858a00602</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[1]/ul/li[2]/a</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[1]/div/div/div/div/div/div</value>
       </entry>
       <entry>
          <key>BASIC</key>

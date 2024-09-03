@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.006.001.009 - Filter Non Transactionable</name>
+   <name>TC.007.004 - Change Depreciation Methode</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>2b6d3f39-e2df-4a24-be61-3d15df6d3404</testCaseGuid>
+   <testCaseGuid>83a04381-c538-422a-94f8-8042a52df028</testCaseGuid>
 </TestCaseEntity>

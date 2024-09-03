@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.001 - Create Depreciation Setting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2431a71f-f252-4a4e-80cb-35e6e211c355</testCaseGuid>
+</TestCaseEntity>

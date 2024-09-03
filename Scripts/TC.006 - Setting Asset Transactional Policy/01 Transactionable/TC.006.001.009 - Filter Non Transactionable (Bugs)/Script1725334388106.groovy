@@ -41,6 +41,8 @@ import org.openqa.selenium.Keys as Keys
 //
 WebUI.click(findTestObject('001 Reusable Component/001.021 Reusable - Menu Setting - Asset Transactional Policy'), FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.023 Sub Tab Non Transactionable'), FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.031 Button Filter'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
@@ -54,7 +56,7 @@ WebUI.setText(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.0
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.012 Check Data Result Filter Section Name'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.008 - Filter Section Name.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.016 - Filter Section Name.png', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.013 Data Filter Asset Transactional Policy - Section Brand'), 
     FailureHandling.STOP_ON_FAILURE)
@@ -67,7 +69,7 @@ WebUI.setText(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.0
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.012 Check Data Result Filter Section Name'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.009 - Filter Section Brand.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.017 - Filter Section Brand.png', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.014 Data Filter Asset Transactional Policy - Section Model Type'), 
     FailureHandling.STOP_ON_FAILURE)
@@ -80,7 +82,7 @@ WebUI.setText(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.0
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.012 Check Data Result Filter Section Name'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.010 - Filter Section Model Type.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.018 - Filter Section Model Type.png', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.015 Data Filter Asset Transactional Policy - Section Category'), 
     FailureHandling.STOP_ON_FAILURE)
@@ -94,7 +96,7 @@ WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006
 
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.018 Submit Result Category'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.011 - Filter Section Category.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.019 - Filter Section Category.png', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.019 Data Filter Asset Transactional Policy - Self Service'), 
     FailureHandling.STOP_ON_FAILURE)
@@ -107,7 +109,7 @@ WebUI.setText(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.0
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.012 Check Data Result Filter Section Name'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.012 - Filter Section Self Service.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.020 - Filter Section Self Service.png', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.020 Data Filter Asset Status'), FailureHandling.STOP_ON_FAILURE)
 
@@ -119,13 +121,13 @@ WebUI.setText(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.0
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.012 Check Data Result Filter Section Name'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.013 - Filter Section Status.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.021 - Filter Section Status.png', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.021 Apply Data Filter'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.014 - Result Filter.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.022 - Result Filter.png', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.032 Button Download'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.015 - Download Data Transactionable.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/006.Asset Transactional Policy/TC.006.023 - Download Data Transactionable.png', FailureHandling.STOP_ON_FAILURE)
 

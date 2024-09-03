@@ -41,8 +41,6 @@ import org.openqa.selenium.Keys as Keys
 //
 WebUI.click(findTestObject('001 Reusable Component/001.021 Reusable - Menu Setting - Asset Transactional Policy'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.023 Sub Tab Non Transactionable'), FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('OBJ.006 - Setting Asset Transactional Policy/OBJ.006.031 Button Filter'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
