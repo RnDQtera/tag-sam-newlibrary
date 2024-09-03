@@ -22,6 +22,13 @@ WebUI.openBrowser(GlobalVariable.URL)
 WebUI.maximizeWindow()
 
 <<<<<<< HEAD
+WebUI.setText(findTestObject('0001 ID'), GlobalVariable.id)
+
+WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
+
+WebUI.click(findTestObject('0003 Button Login'))
+=======
+<<<<<<< HEAD
 WebUI.setText(findTestObject('null'), 'john-doe@mailnesia.com')
 
 WebUI.setText(findTestObject('null'), 'Moderator12@')
@@ -32,6 +39,7 @@ WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.002.Field Password'), Glob
 >>>>>>> 9b0152ebb493cdeedac162cdc707ede7dd60b605
 
 WebUI.click(findTestObject('null'))
+>>>>>>> 4d629f9efc56921eae00f2709d19be307b732c11
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 

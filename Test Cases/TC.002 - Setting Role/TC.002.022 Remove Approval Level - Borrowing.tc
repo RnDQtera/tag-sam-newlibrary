@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.022 Remove Approval Level - Borrowing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b40378d5-5b43-48c6-97a4-45cc95ba33f1</testCaseGuid>
+</TestCaseEntity>

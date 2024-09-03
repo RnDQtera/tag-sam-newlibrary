@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.041 Action Remove User Approval - Maintenance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9ae9914-77c3-49d0-a2ce-c1f1556e905f</testCaseGuid>
+</TestCaseEntity>

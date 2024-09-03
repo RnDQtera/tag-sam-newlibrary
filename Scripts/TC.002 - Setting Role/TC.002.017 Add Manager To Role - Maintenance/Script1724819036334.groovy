@@ -21,11 +21,19 @@ WebUI.openBrowser(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
+<<<<<<< HEAD
+WebUI.setText(findTestObject('0001 ID'), GlobalVariable.id)
+
+WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
+
+WebUI.click(findTestObject('0003 Button Login'))
+=======
 WebUI.setText(findTestObject('null'), GlobalVariable.id)
 
 WebUI.setText(findTestObject('null'), GlobalVariable.pass)
 
 WebUI.click(findTestObject('null'))
+>>>>>>> 4d629f9efc56921eae00f2709d19be307b732c11
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
@@ -35,7 +43,17 @@ WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setti
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.017 Click Menu Maintenance'))
 
-WebUI.click(findTestObject('null'))
+WebUI.delay(8)
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.001 Button Add Manager'))
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.002 Checkbox List 1'))
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002 Checkbox List 2'))
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.018 Button Change Log'))
+
+WebUI.delay(5)
+
+WebUI.takeScreenshot('Screenshot/TC.002.017 - Add Manager - Maintenance.png', FailureHandling.STOP_ON_FAILURE)
 

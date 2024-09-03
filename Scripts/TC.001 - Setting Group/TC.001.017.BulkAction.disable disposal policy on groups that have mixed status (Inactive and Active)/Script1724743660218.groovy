@@ -21,11 +21,19 @@ WebUI.openBrowser(GlobalVariable.URL, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.maximizeWindow()
 
+<<<<<<< HEAD
+WebUI.setText(findTestObject('0001 ID'), GlobalVariable.id)
+
+WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
+
+WebUI.click(findTestObject('0003 Button Login'))
+=======
 WebUI.setText(findTestObject('null'), GlobalVariable.id)
 
 WebUI.setText(findTestObject('null'), GlobalVariable.pass)
 
 WebUI.click(findTestObject('null'))
+>>>>>>> 4d629f9efc56921eae00f2709d19be307b732c11
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
@@ -45,5 +53,6 @@ WebUI.click(findTestObject('OBJ.001 - Setting Group/0020 Button View Log'))
 
 WebUI.delay(5)
 
-WebUI.takeScreenshot('Screenshot/TC.001.017 - Bulk Action disable disposal policy on groups that have mixed status (Inactive and Active).png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/TC.001.017 - Bulk Action disable disposal policy on groups that have mixed status (Inactive and Active).png', 
+    FailureHandling.STOP_ON_FAILURE)
 
