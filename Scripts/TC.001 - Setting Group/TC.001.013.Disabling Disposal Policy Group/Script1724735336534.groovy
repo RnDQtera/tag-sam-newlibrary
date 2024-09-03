@@ -29,15 +29,15 @@ WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.017 Reusable - Menu Setting - Group'))
-
-WebUI.click(findTestObject('OBJ.001 - Setting Group/0030 Parent Group Kantor Pusat Jakarta'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0029 Slider Kantor Pusat Jakarta'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0020 Button View Log'))
 
-WebUI.takeScreenshot('Disabling Disposal Group.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(5)
+
+WebUI.takeScreenshot('Screenshot/TC.001.013 - Disabling Disposal Policy Group.png', FailureHandling.STOP_ON_FAILURE)
 

@@ -29,7 +29,7 @@ WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.017 Reusable - Menu Setting - Group'))
 
@@ -46,6 +46,8 @@ WebUI.click(findTestObject('OBJ.001 - Setting Group/0016 Button Select'))
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0019 Button Move'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0020 Button View Log'))
+
+WebUI.delay(3)
 
 WebUI.takeScreenshot('Screenshot/TC.001.005-Move Group To Another Group.png', FailureHandling.STOP_ON_FAILURE)
 

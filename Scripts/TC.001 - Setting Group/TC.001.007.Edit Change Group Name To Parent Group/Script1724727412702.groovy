@@ -29,21 +29,23 @@ WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.017 Reusable - Menu Setting - Group'))
 
-WebUI.click(findTestObject('OBJ.001 - Setting Group/0010 Action grup Regional JaBar'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0010 Action grup Regional JaTeng'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0024 Button Edit Group'))
 
-WebUI.clearText(findTestObject('OBJ.001 - Setting Group/0025 Fields Kantor Regional Jabar'))
+WebUI.clearText(findTestObject('OBJ.001 - Setting Group/0025 Fields Kantor Regional JaTeng'))
 
-WebUI.setText(findTestObject('OBJ.001 - Setting Group/0025 Fields Kantor Regional Jabar'), 'Kantor Regional Jawa Barat')
+WebUI.setText(findTestObject('OBJ.001 - Setting Group/0025 Fields Kantor Regional JaTeng'), 'Kantor Regional Jawa Tengah')
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0026 Button Save'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0020 Button View Log'))
 
-WebUI.takeScreenshot('Edit Change Group Name.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(3)
+
+WebUI.takeScreenshot('Screenshot/TC.001.007 - Edit Change Group Name.png', FailureHandling.STOP_ON_FAILURE)
 

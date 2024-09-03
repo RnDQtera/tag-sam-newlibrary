@@ -29,13 +29,13 @@ WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setting - Role'))
 
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.016 Click Menu Audit'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.010 Button Add Monitoring'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.004 Checkbox Will Wick'))
+WebUI.click(findTestObject('null'))
 

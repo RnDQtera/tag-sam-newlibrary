@@ -29,11 +29,19 @@ WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setting - Role'))
 
+WebUI.delay(10)
+
 WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.003 Button Add Monitoring'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.004 Checkbox Will Wick'))
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002 Checkbox List 2'))
+
+WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.018 Button Change Log'))
+
+WebUI.delay(8)
+
+WebUI.takeScreenshot('Screenshot/TC.002.002 - Add Monitoring And Report - Borrowing.png', FailureHandling.STOP_ON_FAILURE)
 

@@ -29,11 +29,13 @@ WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setting'))
+WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
 WebUI.click(findTestObject('001 Reusable Component/001.017 Reusable - Menu Setting - Group'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0041 Button Download'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Download List Group.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(3)
+
+WebUI.takeScreenshot('Screenshot/TC.001.019 - Download List Group.png', FailureHandling.STOP_ON_FAILURE)
 

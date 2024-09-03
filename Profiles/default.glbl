@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description>user ID as Total Control</description>
-      <initValue>'super.admin@mailnesia.com'</initValue>
+      <initValue>'john-doe@mailnesia.com'</initValue>
       <name>id</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
