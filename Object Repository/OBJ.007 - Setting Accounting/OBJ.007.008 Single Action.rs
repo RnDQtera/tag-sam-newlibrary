@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.001.008 Single Action</name>
+   <name>OBJ.007.008 Single Action</name>
    <tag></tag>
    <elementGuidId>d6ab7614-270c-4057-b5f9-6ad7f85f6eae</elementGuidId>
    <selectorCollection>

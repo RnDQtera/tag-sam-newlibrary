@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.001.010 Options Delete</name>
+   <name>OBJ.007.010 Options Delete</name>
    <tag></tag>
    <elementGuidId>14b39980-f28a-44f5-abce-210e9c2dbd48</elementGuidId>
    <selectorCollection>

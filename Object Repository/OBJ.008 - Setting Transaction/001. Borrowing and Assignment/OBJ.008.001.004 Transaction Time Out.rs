@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.007.050 Change log</name>
+   <name>OBJ.008.001.004 Transaction Time Out</name>
    <tag></tag>
-   <elementGuidId>833d87ed-ccf0-4ea0-8c35-912cbbe92149</elementGuidId>
+   <elementGuidId>7acbea3b-6b0d-4f2a-8fdc-19382285e5b1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/button[4]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[4]/div/span/span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

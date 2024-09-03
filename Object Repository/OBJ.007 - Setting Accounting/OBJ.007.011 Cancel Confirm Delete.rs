@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.001.011 Cancel Confirm Delete</name>
+   <name>OBJ.007.011 Cancel Confirm Delete</name>
    <tag></tag>
    <elementGuidId>c0f3ba2d-f636-4230-a597-6f29c97df40b</elementGuidId>
    <selectorCollection>
