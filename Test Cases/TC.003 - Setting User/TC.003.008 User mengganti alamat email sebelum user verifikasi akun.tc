@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.008 User mengganti alamat email sebelum user verifikasi akun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>041060a9-1152-46a5-a6dc-4589372e3ae6</testCaseGuid>
+</TestCaseEntity>
