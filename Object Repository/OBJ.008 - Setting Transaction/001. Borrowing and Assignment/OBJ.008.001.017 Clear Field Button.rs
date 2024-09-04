@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.008.001.014 Search Filter Field</name>
+   <name>OBJ.008.001.017 Clear Field Button</name>
    <tag></tag>
-   <elementGuidId>9eb683d6-5c28-46a5-bce9-d366bb587f05</elementGuidId>
+   <elementGuidId>be2876be-b36a-4858-83dd-ef484fddf925</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[8]/div[1]/div[2]/input</value>
+         <value>/html/body/div[2]/div/div[2]/div/div[2]/div[4]/button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

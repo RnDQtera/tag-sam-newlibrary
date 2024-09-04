@@ -40,39 +40,53 @@ import org.openqa.selenium.Keys as Keys
 //WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'), FailureHandling.STOP_ON_FAILURE)
 WebUI.click(findTestObject('001 Reusable Component/001.023 Reusable - Menu Setting - Menu Transaction'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.001 Text Field Max Borrowing Time'), Keys.chord(Keys.CONTROL, 
-        'a', Keys.DELETE))
+WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.001 Text Field Max Borrowing Time'), 
+    Keys.chord(Keys.CONTROL, 'a', Keys.DELETE))
 
-WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.001 Text Field Max Borrowing Time'), '20')
-
-WebUI.delay(4, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.002 Text Field Default Borrowing Time'), Keys.chord(
-        Keys.CONTROL, 'a', Keys.DELETE))
-
-WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.002 Text Field Default Borrowing Time'), '20')
+WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.001 Text Field Max Borrowing Time'), 
+    '20')
 
 WebUI.delay(4, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.003 Text Field Confirmation Email'), Keys.chord(Keys.CONTROL, 
-        'a', Keys.DELETE))
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.001 - Set Max Borrowing Time.png', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.003 Text Field Confirmation Email'), '20')
+WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.002 Text Field Default Borrowing Time'), 
+    Keys.chord(Keys.CONTROL, 'a', Keys.DELETE))
+
+WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.002 Text Field Default Borrowing Time'), 
+    '20')
 
 WebUI.delay(4, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.004 Transaction Time Out'), Keys.chord(Keys.CONTROL, 
-        'a', Keys.DELETE))
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.002 - Set Default Borrowing Time.png', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.004 Transaction Time Out'), '20')
+WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.003 Text Field Confirmation Email'), 
+    Keys.chord(Keys.CONTROL, 'a', Keys.DELETE))
+
+WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.003 Text Field Confirmation Email'), 
+    '1')
+
+WebUI.delay(4, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.003 - Set Confirm Email Timeout.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.004 Transaction Time Out'), 
+    Keys.chord(Keys.CONTROL, 'a', Keys.DELETE))
+
+WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.004 Transaction Time Out'), 
+    '20')
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.005 Save Data Borrowing Assignment'), FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.004 - Set Transaction Timeout.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.005 Save Data Borrowing Assignment'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.006 Data Change Log'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.006 Data Change Log'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 

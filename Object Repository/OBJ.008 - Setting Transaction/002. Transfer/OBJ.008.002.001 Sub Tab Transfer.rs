@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.008.001.014 Search Filter Field</name>
+   <name>OBJ.008.002.001 Sub Tab Transfer</name>
    <tag></tag>
-   <elementGuidId>9eb683d6-5c28-46a5-bce9-d366bb587f05</elementGuidId>
+   <elementGuidId>36bb05f8-38fb-429b-bca9-1fea733a8787</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[8]/div[1]/div[2]/input</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[1]/ul/li[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

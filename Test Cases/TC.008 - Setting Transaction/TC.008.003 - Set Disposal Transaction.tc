@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.008.002 - Filter Change Log Borrowing or Assignment</name>
+   <name>TC.008.003 - Set Disposal Transaction</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>53831449-5998-4e7e-a4aa-0cdff28ed233</testCaseGuid>
+   <testCaseGuid>8e4e0ba1-4294-4a67-b009-0a671b1cf478</testCaseGuid>
 </TestCaseEntity>

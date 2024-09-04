@@ -38,29 +38,53 @@ import org.openqa.selenium.Keys as Keys
 //WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
 //
 //WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'), FailureHandling.STOP_ON_FAILURE)
-WebUI.click(findTestObject('001 Reusable Component/001.023 Reusable - Menu Setting - Menu Transaction'), FailureHandling.STOP_ON_FAILURE)
+//WebUI.click(findTestObject('001 Reusable Component/001.023 Reusable - Menu Setting - Menu Transaction'), FailureHandling.STOP_ON_FAILURE)
+//
+//WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.008 - Setting Transaction/002. Transfer/OBJ.008.002.001 Sub Tab Transfer'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.008 - Setting Transaction/002. Transfer/OBJ.008.002.002 Set Text Transaction Time Out'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(0, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/002. Transfer/OBJ.008.002.002 Set Text Transaction Time Out'), 
+    Keys.chord(Keys.CONTROL, 'A', Keys.DELETE))
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/002. Transfer/OBJ.008.002.002 Set Text Transaction Time Out'), 
+    '4')
+
+WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.005 Save Data Borrowing Assignment'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(4, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.010 - Save Time Transfer Transaction.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.006 Data Change Log'), 
     FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.007 Button Search Data Changelog'), 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.008 Text Field Changelog Transaction Setting'), 
-    'Default Borrowing Time')
+    'Transaction Timeout')
 
 WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.008 Text Field Changelog Transaction Setting'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.002 - Search Data Change Log Setting Transaction.png', 
-    FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-
 WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.008 Text Field Changelog Transaction Setting'), 
-    Keys.chord(Keys.CONTROL, 'a', Keys.DELETE, Keys.ENTER))
+    Keys.chord(Keys.CONTROL, 'A', Keys.DELETE, Keys.ENTER))
+
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.011 - Search Data FIlter.png', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.009 Collapase Box Search'), 
     FailureHandling.STOP_ON_FAILURE)
@@ -74,12 +98,25 @@ WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Ass
 WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.012 Select options date'), 
     FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('OBJ.008 - Setting Transaction/002. Transfer/OBJ.008.002.003 Apply Filter'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.012 -Change log filter date.png', FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.013 Select options Field'), 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.014 Search Filter Field'), 
-    'Confirmation Email Timeout')
+    'John Doe')
 
 WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.015 Check Search Sub Field'), 
     FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.008 - Setting Transaction/002. Transfer/OBJ.008.002.003 Apply Filter'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.013 - Change Log Filter Modified By.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.019 Download Data Change Log'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.014 - Download Data Change Log.png', FailureHandling.STOP_ON_FAILURE)
 
