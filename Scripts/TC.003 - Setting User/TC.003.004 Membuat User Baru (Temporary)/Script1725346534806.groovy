@@ -65,5 +65,5 @@ WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.015 Button Create'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/TC.003.004- Membuat User Baru(Temporary).png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/002 Setting User/TC.003.004- Membuat User Baru(Temporary).png', FailureHandling.STOP_ON_FAILURE)
 
