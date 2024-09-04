@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.001.001 Text Field Max Borrowing Time</name>
+   <name>OBJ.008.001.015 Check Search Sub Field</name>
    <tag></tag>
-   <elementGuidId>61ca1992-9a12-4b28-8a2b-e3cbff8e46c5</elementGuidId>
+   <elementGuidId>2033fd30-8a21-4bb6-bff8-a535989d6503</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/button[4]</value>
+         <value>/html/body/div[8]/div[2]/ul/li/div/input</value>
       </entry>
       <entry>
          <key>BASIC</key>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.007.050 Change log</name>
+   <name>OBJ.008.002.003 Apply Filter</name>
    <tag></tag>
-   <elementGuidId>833d87ed-ccf0-4ea0-8c35-912cbbe92149</elementGuidId>
+   <elementGuidId>2fa42682-22d2-4550-8913-a8aa1a3babf2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/button[4]</value>
+         <value>/html/body/div[2]/div/div[2]/div/div[2]/div[3]/button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

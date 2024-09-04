@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.007.050 Change log</name>
+   <name>OBJ.008.001.012 Select options date</name>
    <tag></tag>
-   <elementGuidId>833d87ed-ccf0-4ea0-8c35-912cbbe92149</elementGuidId>
+   <elementGuidId>fa8f80d9-d0ea-42c5-a903-948dbfa5887e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/button[4]</value>
+         <value>/html/body/div[8]/div/div/div[2]/table/tbody/tr[1]/td[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

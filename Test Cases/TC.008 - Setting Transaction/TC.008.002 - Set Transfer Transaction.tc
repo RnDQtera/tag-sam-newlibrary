@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.002 - Set Transfer Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53831449-5998-4e7e-a4aa-0cdff28ed233</testCaseGuid>
+</TestCaseEntity>

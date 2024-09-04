@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.003 - Set Disposal Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e4e0ba1-4294-4a67-b009-0a671b1cf478</testCaseGuid>
+</TestCaseEntity>

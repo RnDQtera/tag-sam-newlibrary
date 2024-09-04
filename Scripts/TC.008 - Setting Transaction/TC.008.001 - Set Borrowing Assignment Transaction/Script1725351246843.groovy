@@ -38,82 +38,58 @@ import org.openqa.selenium.Keys as Keys
 //WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
 //
 //WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'), FailureHandling.STOP_ON_FAILURE)
-//WebUI.click(findTestObject('001 Reusable Component/001.022 Reusable - Menu Setting - Menu Accounting'), FailureHandling.STOP_ON_FAILURE)
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.001 Add Depreciation Group'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('001 Reusable Component/001.023 Reusable - Menu Setting - Menu Transaction'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.002 Enter Tengible Asset Group'), 'Group Asset 1')
+WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.001 Text Field Max Borrowing Time'), 
+    Keys.chord(Keys.CONTROL, 'a', Keys.DELETE))
 
-WebUI.setText(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.003 Enter Number of Userful life'), '5')
+WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.001 Text Field Max Borrowing Time'), 
+    '20')
 
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.005 Submit Create Depreciation Group'), FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(4, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.001 Add Depreciation Group'), FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.001 - Set Max Borrowing Time.png', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.002 Enter Tengible Asset Group'), 'Group Asset 2')
+WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.002 Text Field Default Borrowing Time'), 
+    Keys.chord(Keys.CONTROL, 'a', Keys.DELETE))
 
-WebUI.setText(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.003 Enter Number of Userful life'), '5')
+WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.002 Text Field Default Borrowing Time'), 
+    '20')
 
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.005 Submit Create Depreciation Group'), FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(4, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(2)
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.002 - Set Default Borrowing Time.png', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.042 Button Filter'), FailureHandling.STOP_ON_FAILURE)
+WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.003 Text Field Confirmation Email'), 
+    Keys.chord(Keys.CONTROL, 'a', Keys.DELETE))
 
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.043 Select Data Filter Sub Useful Life'), FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.003 Text Field Confirmation Email'), 
+    '1')
 
-WebUI.setText(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.044 Text Field Filter Useful life'), '5')
+WebUI.delay(4, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.045 Check Data Filter - Useful Life'), FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.003 - Set Confirm Email Timeout.png', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+WebUI.sendKeys(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.004 Transaction Time Out'), 
+    Keys.chord(Keys.CONTROL, 'a', Keys.DELETE))
 
-WebUI.takeScreenshot('Screenshot/007.Accounting Setting/TC.007.010 - Usefull Life FIlter.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.004 Transaction Time Out'), 
+    '20')
 
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.046 Select Data Filter Sub Straightline Depreciation Rate'), 
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.004 - Set Transaction Timeout.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.005 Save Data Borrowing Assignment'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.008 - Setting Transaction/001. Borrowing and Assignment/OBJ.008.001.006 Data Change Log'), 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.044 Text Field Filter Useful life'), '20')
-
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.045 Check Data Filter - Useful Life'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.takeScreenshot('Screenshot/007.Accounting Setting/TC.007.011 - Straight line Depreciation line.png', FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.047 Select Data Filter Sub Double Declinining Depreciation Rate'), 
+WebUI.takeScreenshot('Screenshot/008. Transaction Setting/TC.008.001 - Set Transaction time Borrowing and Assignment.png', 
     FailureHandling.STOP_ON_FAILURE)
-
-WebUI.setText(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.044 Text Field Filter Useful life'), '40')
-
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.045 Check Data Filter - Useful Life'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.takeScreenshot('Screenshot/007.Accounting Setting/TC.007.012 - Double Declining Depreciation Rate.png', FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.048 Apply Filter'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.050 Change log'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.006 Button Search'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.setText(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.007 Text Field Search Data Table'), 'Group Asset')
-
-WebUI.sendKeys(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.007 Text Field Search Data Table'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.034 Check for Bulk Depreciation Settings'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.035 Select Option Bulk Action'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.036 Choose Delete Depreciation Setting'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.007. - Setting Accounting/OBJ.001.037 Confirm Delete Bulk Action'), FailureHandling.STOP_ON_FAILURE)
 
