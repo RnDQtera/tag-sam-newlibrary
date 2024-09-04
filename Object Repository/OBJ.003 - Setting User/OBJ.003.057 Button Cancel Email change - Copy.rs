@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.003.016 Button Action User Baru</name>
+   <name>OBJ.003.057 Button Cancel Email change - Copy</name>
    <tag></tag>
-   <elementGuidId>f9b1dde5-cdd9-4109-9c7f-202833bac2a5</elementGuidId>
+   <elementGuidId>92949730-b6c1-4104-a2b2-d1a03f96c2e8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div/div[1]/table/tbody/tr[4]/td[11]/div/button/i</value>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div/div/div[7]/div[3]/span/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
