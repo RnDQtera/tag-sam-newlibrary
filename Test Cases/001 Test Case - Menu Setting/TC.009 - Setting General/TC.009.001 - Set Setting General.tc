@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.009.001 - Set Setting General</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae8a7326-25e4-40c0-92c5-3eaf7f5ea520</testCaseGuid>
+</TestCaseEntity>

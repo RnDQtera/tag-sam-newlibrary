@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.001.014.Bulk action.Activate disposal policy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>faf81f72-c82b-4fd9-8f56-241b9ab109a6</testCaseGuid>
+</TestCaseEntity>

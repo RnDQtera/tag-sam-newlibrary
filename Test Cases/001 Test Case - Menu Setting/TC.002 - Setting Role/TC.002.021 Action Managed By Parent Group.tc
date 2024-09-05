@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.021 Action Managed By Parent Group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d19eb206-d230-4bb7-ac9b-0bfd1ff42b28</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.036 Action Remove User Monitor - Audit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4bdba408-a111-4cf7-aaa1-56f06c0885c5</testCaseGuid>
+</TestCaseEntity>

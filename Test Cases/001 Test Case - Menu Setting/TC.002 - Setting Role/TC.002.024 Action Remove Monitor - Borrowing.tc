@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.024 Action Remove Monitor - Borrowing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eec61295-8fc8-4124-8ceb-8960d2b1275b</testCaseGuid>
+</TestCaseEntity>

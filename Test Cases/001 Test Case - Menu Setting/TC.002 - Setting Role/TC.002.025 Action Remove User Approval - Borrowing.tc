@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.025 Action Remove User Approval - Borrowing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>adeb22d2-174b-4cf7-96ce-b7940f2cee0c</testCaseGuid>
+</TestCaseEntity>

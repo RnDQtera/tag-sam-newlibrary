@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.002 Membuat User Baru (Admin) (System Role)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7fd8ff57-ef39-4dac-b212-48a954f76f3b</testCaseGuid>
+</TestCaseEntity>

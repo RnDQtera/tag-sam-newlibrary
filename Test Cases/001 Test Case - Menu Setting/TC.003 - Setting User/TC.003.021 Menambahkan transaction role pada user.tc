@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.021 Menambahkan transaction role pada user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e2ad2ff-f6e7-454d-acc3-3b2669f95d4a</testCaseGuid>
+</TestCaseEntity>

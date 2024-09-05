@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.039 Action Remove User Manager - Maintenance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>28b97250-2348-4105-823a-c063e2b7a788</testCaseGuid>
+</TestCaseEntity>

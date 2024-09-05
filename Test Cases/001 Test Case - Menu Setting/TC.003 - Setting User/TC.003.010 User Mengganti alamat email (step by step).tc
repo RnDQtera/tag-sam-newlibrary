@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.010 User Mengganti alamat email (step by step)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>43fcf62a-c8e2-4a5a-bd11-f34f8bea1a6d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.016 Mengnonaktifkan User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8f20931-fd0f-4150-9ff1-57b64df966f7</testCaseGuid>
+</TestCaseEntity>
