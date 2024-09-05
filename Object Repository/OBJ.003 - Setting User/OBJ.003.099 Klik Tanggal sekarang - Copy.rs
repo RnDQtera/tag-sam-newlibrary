@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.003.022 Checkbox System Role (1)</name>
+   <name>OBJ.003.099 Klik Tanggal sekarang - Copy</name>
    <tag></tag>
-   <elementGuidId>f65940be-9f61-48c8-b51a-c1cdcaa27b46</elementGuidId>
+   <elementGuidId>a012dc46-a20b-4ad0-bd41-1db5633db80a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[10]/div[2]/ul/li[1]/div/input</value>
+         <value>/html/body/div[6]/div/div/div[2]/table/tbody/tr[1]/td[5]</value>
       </entry>
       <entry>
          <key>BASIC</key>

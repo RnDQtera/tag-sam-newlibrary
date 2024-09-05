@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.034 User mengfilter list user berdasarkan position</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77dad60d-a87b-454b-bbf2-33d05e0516c4</testCaseGuid>
+</TestCaseEntity>

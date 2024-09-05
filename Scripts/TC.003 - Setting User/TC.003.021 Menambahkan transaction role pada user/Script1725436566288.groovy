@@ -63,5 +63,5 @@ WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/002 Setting User/TC.003.021- Menambahkan transaction role pada user.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/TC.003.021- Menambahkan transaction role pada user.png', FailureHandling.STOP_ON_FAILURE)
 

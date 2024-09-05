@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.027 (Bulk Action)Membuat akun menjadi in-active</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>340c036e-166b-445c-b2b1-525886e0e52f</testCaseGuid>
+</TestCaseEntity>

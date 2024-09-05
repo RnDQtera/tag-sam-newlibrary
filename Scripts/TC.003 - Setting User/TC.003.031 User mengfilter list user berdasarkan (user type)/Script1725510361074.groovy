@@ -27,25 +27,21 @@ WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
 
 WebUI.click(findTestObject('0003 Button Login'))
 
-WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
+WebUI.click(findTestObject('0004 Modul Fixed Asset'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setting - Role'))
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.001 Menu Setting User'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.016 Click Menu Audit'))
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.085 Button icon filter Copy'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.006 Button Add Approval Level'))
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.090 Klik field user type Copy'))
 
-WebUI.delay(8)
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.087 checkbox field (1) Copy'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.007 Button Add Approver Lvl 2'))
-
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002 Checkbox List 3'))
-
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.018 Button Change Log'))
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.089 Button Apply - Copy'))
 
 WebUI.delay(5)
 
-WebUI.takeScreenshot('Screenshot/TC.002.015 - Add Approver Level - Audit.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/TC.003.031 - User mengfilter berdasarkan user type.png', FailureHandling.STOP_ON_FAILURE)
 

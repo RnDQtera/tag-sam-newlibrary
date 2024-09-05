@@ -27,25 +27,17 @@ WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
 
 WebUI.click(findTestObject('0003 Button Login'))
 
-WebUI.click(findTestObject('OBJ.001 - Setting Group/0005 Menu Fixed Asset'))
+WebUI.click(findTestObject('0004 Modul Fixed Asset'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.019 Reusable - Menu Setting - Role'))
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.001 Menu Setting User'))
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.016 Click Menu Audit'))
+WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.006 Button Add Approval Level'))
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.102 Button Downliad User Copy'))
 
-WebUI.delay(8)
+WebUI.delay(1)
 
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.007 Button Add Approver Lvl 2'))
-
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002 Checkbox List 3'))
-
-WebUI.click(findTestObject('OBJ.002 - Setting Role/OBJ.002.018 Button Change Log'))
-
-WebUI.delay(5)
-
-WebUI.takeScreenshot('Screenshot/TC.002.015 - Add Approver Level - Audit.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/TC.003.039 - User mendownload list user.png', FailureHandling.STOP_ON_FAILURE)
 
