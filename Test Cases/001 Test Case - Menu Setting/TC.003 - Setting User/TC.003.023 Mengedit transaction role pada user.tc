@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.023 Mengedit transaction role pada user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bb4cdb7-d03c-4a66-a6a5-dd1359ccccdd</testCaseGuid>
+</TestCaseEntity>

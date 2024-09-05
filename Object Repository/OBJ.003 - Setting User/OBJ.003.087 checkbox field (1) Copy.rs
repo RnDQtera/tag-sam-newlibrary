@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.003.022 Checkbox System Role (1)</name>
+   <name>OBJ.003.087 checkbox field (1) Copy</name>
    <tag></tag>
-   <elementGuidId>f65940be-9f61-48c8-b51a-c1cdcaa27b46</elementGuidId>
+   <elementGuidId>ab8fba70-f26e-4604-bc57-a1f008fbffc9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[10]/div[2]/ul/li[1]/div/input</value>
+         <value>/html/body/div[6]/div[2]/ul/li[1]/div/input</value>
       </entry>
       <entry>
          <key>BASIC</key>

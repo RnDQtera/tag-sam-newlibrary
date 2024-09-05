@@ -39,29 +39,23 @@ WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.044 Option Detail (Fa
 
 WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.027 Click Transaction Role'))
 
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.018 Button Tambah Assign Role'))
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.073 Button Action Transaction Role - Copy'))
+
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.074 Button Edit Transaction Role - Copy'))
 
 WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.019 Button Select Group'))
 
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.028 Click Kantor Pusat Jakarta'))
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.070 Checkbox Kantor Regional Jabar - Copy'))
 
 WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.021 Button Select (Group)'))
 
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.029 Dropdown Transaction Role'))
-
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.031 Pilih (Transaction Atau Select Role ) 2'))
-
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.034 Dropdown Select Role'))
-
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.031 Pilih (Transaction Atau Select Role ) 2'))
-
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.026 Button Submit Assign System Role Dan Transaction Role'))
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.072 Button Save edit system role - Copy'))
 
 WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.067 Button close detail user Copy'))
 
 WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log'))
 
-WebUI.delay(2)
+WebUI.delay(4)
 
-WebUI.takeScreenshot('Screenshot/TC.003.021- Menambahkan transaction role pada user.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/TC.003.023- Mengedit transaction role pada user.png', FailureHandling.STOP_ON_FAILURE)
 

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.003.022 Checkbox System Role (1)</name>
+   <name>OBJ.003.078 Button Remove (Delete User) Copy</name>
    <tag></tag>
-   <elementGuidId>f65940be-9f61-48c8-b51a-c1cdcaa27b46</elementGuidId>
+   <elementGuidId>da6b766f-b7a0-4645-b935-52552ffad484</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[10]/div[2]/ul/li[1]/div/input</value>
+         <value>/html/body/div[6]/div/div[3]/button[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>

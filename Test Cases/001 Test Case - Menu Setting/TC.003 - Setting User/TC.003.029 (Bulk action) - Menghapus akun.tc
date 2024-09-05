@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.029 (Bulk action) - Menghapus akun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ad9992e-384e-4b67-bc1c-b34f7e5408fa</testCaseGuid>
+</TestCaseEntity>

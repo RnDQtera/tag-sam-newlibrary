@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.028 (Bulk Action) Membuat akun menjadi aktif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e615953-c5a0-450b-87de-73d5c426ae2f</testCaseGuid>
+</TestCaseEntity>
