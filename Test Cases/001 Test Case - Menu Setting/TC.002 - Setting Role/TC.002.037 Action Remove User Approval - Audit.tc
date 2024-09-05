@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.037 Action Remove User Approval - Audit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4bda3e9-4e5f-4524-b0a0-fc12f161e958</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.023 Action Remove User Manager - Borrowing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e11c8355-f9ad-4f65-b055-2d27513526a0</testCaseGuid>
+</TestCaseEntity>

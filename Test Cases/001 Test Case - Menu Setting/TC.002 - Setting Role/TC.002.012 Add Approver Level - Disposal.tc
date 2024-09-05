@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.012 Add Approver Level - Disposal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c9dc9fe-1ebf-408c-88f6-64b00f71cec5</testCaseGuid>
+</TestCaseEntity>

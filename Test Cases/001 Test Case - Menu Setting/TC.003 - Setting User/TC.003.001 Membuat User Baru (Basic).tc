@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.001 Membuat User Baru (Basic)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5756b2b2-da74-4074-842a-6ea56279e3c0</testCaseGuid>
+</TestCaseEntity>

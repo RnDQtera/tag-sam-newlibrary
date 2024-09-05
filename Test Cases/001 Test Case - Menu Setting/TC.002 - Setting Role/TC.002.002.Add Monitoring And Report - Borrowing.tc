@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.Add Monitoring And Report - Borrowing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dfd4f55-d78f-4432-9038-6b91d4e211f6</testCaseGuid>
+</TestCaseEntity>
