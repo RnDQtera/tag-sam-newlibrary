@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.001.005 - Single Action Add Pre-list Borrow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce664dc2-0167-45d2-8960-cf8af8c097e5</testCaseGuid>
+</TestCaseEntity>

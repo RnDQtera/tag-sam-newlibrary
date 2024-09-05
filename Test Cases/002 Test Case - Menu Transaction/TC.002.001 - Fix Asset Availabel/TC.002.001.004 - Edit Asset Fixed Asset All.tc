@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.001.004 - Edit Asset Fixed Asset All</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0873b7d9-8e78-4f33-aca6-b5c131c4c015</testCaseGuid>
+</TestCaseEntity>

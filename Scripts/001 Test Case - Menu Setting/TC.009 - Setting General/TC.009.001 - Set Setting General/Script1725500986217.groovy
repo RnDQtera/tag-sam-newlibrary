@@ -38,7 +38,7 @@ import org.openqa.selenium.Keys as Keys
 //WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
 //
 //WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'), FailureHandling.STOP_ON_FAILURE)
-WebUI.click(findTestObject('001 Reusable Component/001.024 Reusable - Menu Setting -General Setting'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('001 Reusable Component/001.025 Reusable - Register Asset'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
