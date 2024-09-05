@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.001.002 - Register Asset Tag</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab418c8d-d438-4748-b4f3-5cc6e55ee308</testCaseGuid>
+</TestCaseEntity>

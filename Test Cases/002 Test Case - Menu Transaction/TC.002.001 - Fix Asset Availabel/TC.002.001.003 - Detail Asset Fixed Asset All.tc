@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.001.003 - Detail Asset Fixed Asset All</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d249041e-a544-469a-af30-00042dbdfaa9</testCaseGuid>
+</TestCaseEntity>
