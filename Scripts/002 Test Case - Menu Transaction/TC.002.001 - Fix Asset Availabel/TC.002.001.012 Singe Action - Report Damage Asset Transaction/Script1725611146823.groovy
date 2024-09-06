@@ -41,19 +41,27 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.020 - Fixed Asset - Report Damage Transaction/OBJ.020.001 Action (1) - Fixed Asset Available'))
 
-WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.001 SIngle Action Available Asset'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.020 - Fixed Asset - Report Damage Transaction/OBJ.020.002 Action Report Damage (9)'))
 
-WebUI.click(findTestObject('OBJ.015 - Fixed Asset - Add Prelist Assignment/OBJ.015.001 Add to Pre-List Assignment'), FailureHandling.STOP_ON_FAILURE)
+WebUI.uploadFile(findTestObject('OBJ.020 - Fixed Asset - Report Damage Transaction/OBJ.020.003 Button Upload Foto'), 'D:\\Meja Rusak.png')
 
-WebUI.click(findTestObject('OBJ.015 - Fixed Asset - Add Prelist Assignment/OBJ.015.002 Select Data User'), FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.015 - Fixed Asset - Add Prelist Assignment/OBJ.015.003 Submit Assignment Pre-List'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.020 - Fixed Asset - Report Damage Transaction/OBJ.020.004 Button Apply Upload Photo'))
 
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(1)
 
-WebUI.click(findTestObject('001 Reusable Component/001.004 Reusable - Menu Fixed Asset - Borrow'), FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('OBJ.020 - Fixed Asset - Report Damage Transaction/OBJ.020.006 Field Note'), 'rusak')
 
-WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.008 - Add to Pre-list Assignment.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.020 - Fixed Asset - Report Damage Transaction/OBJ.020.005 Button Submit'))
+
+WebUI.click(findTestObject('OBJ.020 - Fixed Asset - Report Damage Transaction/OBJ.020.007 Button Continue'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('001 Reusable Component/001.007 Reusable - Menu Fixed Asset - Damaged'))
+
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.012 - Report Damage Asset Transaction.png', FailureHandling.STOP_ON_FAILURE)
 

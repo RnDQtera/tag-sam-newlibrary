@@ -40,3 +40,22 @@ WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
 WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.020 - Fixed Asset - Report Damage Transaction/OBJ.020.001 Action (1) - Fixed Asset Available'))
+
+WebUI.click(findTestObject('OBJ.021 - Fixed Asset - Report Missing Asset Transaction/OBJ.021.001 Report Missing (11)'))
+
+WebUI.setText(findTestObject('OBJ.021 - Fixed Asset - Report Missing Asset Transaction/OBJ.021.002 Field Note'), 'Missing')
+
+WebUI.click(findTestObject('OBJ.020 - Fixed Asset - Report Damage Transaction/OBJ.020.005 Button Submit'))
+
+WebUI.click(findTestObject('OBJ.020 - Fixed Asset - Report Damage Transaction/OBJ.020.007 Button Continue'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('001 Reusable Component/001.008 Reusable - Menu Fixed Asset - Missing'))
+
+WebUI.delay(5)
+
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.013 - Report Missing Asset Transaction.png', FailureHandling.STOP_ON_FAILURE)
+

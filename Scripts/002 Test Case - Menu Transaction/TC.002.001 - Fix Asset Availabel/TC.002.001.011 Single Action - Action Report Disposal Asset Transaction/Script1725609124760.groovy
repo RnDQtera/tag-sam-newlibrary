@@ -41,19 +41,23 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.001 SIngle Action Available Asset'))
 
-WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.001 SIngle Action Available Asset'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.019 - Fixed Asset - Report Disposal/OBJ.019.001 Action Report Disposal'))
 
-WebUI.click(findTestObject('OBJ.015 - Fixed Asset - Add Prelist Assignment/OBJ.015.001 Add to Pre-List Assignment'), FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(1)
 
-WebUI.click(findTestObject('OBJ.015 - Fixed Asset - Add Prelist Assignment/OBJ.015.002 Select Data User'), FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('OBJ.019 - Fixed Asset - Report Disposal/OBJ.019.002 Field Note'), 'Mines')
 
-WebUI.click(findTestObject('OBJ.015 - Fixed Asset - Add Prelist Assignment/OBJ.015.003 Submit Assignment Pre-List'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.019 - Fixed Asset - Report Disposal/OBJ.019.003 Button Submit'))
 
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(2)
 
-WebUI.click(findTestObject('001 Reusable Component/001.004 Reusable - Menu Fixed Asset - Borrow'), FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.011 - Report Disposal.png', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.008 - Add to Pre-list Assignment.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('001 Reusable Component/001.009 Reusable - Menu Fixed Asset - Disposal'))
+
+WebUI.click(findTestObject('OBJ.019 - Fixed Asset - Report Disposal/OBJ.019.004 Reported - No Salvage Value'))
+
+
 
