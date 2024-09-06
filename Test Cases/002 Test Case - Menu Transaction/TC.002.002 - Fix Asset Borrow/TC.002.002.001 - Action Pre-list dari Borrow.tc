@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.001 - Action Pre-list dari Borrow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dde08234-bf1c-40d2-bcc5-413b34e8f1d8</testCaseGuid>
+</TestCaseEntity>
