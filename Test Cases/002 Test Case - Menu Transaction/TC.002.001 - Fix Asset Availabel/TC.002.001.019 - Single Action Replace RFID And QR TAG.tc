@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.001.019 - Single Action Replace RFID And QR TAG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97ec7345-c2e3-4052-9858-a03435d9c2cc</testCaseGuid>
+</TestCaseEntity>

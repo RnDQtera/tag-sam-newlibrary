@@ -17,3 +17,37 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
+
+WebUI.navigateToUrl(GlobalVariable.URL)
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('0001 ID'), GlobalVariable.id)
+
+WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
+
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('0003 Button Login'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('0004 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace QR TAG Pre-list/Single Action (1)'))
+
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace QR TAG Pre-list/Action - Add to replace QR Tag Pre-list'))
+
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Action Replace RFID TAG/Button Continue'))
+
+WebUI.delay(1)
+
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.014 - Single Action Add To Replace QR TAG Pre-list.png', FailureHandling.STOP_ON_FAILURE)
+
