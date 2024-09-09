@@ -34,4 +34,9 @@
       <initValue>'wss://localhost:9002\r\n'</initValue>
       <name>WSS</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'smith-doe@mailnesia.com'</initValue>
+      <name>id2</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

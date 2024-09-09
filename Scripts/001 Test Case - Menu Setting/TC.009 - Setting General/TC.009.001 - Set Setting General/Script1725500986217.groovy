@@ -17,6 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+<<<<<<< HEAD
+//WebUI.openBrowser('')
+//
+//WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
+//
+//WebUI.navigateToUrl(GlobalVariable.URL)
+//
+//WebUI.delay(5)
+//
+//WebUI.setText(findTestObject('00-01 ID'), GlobalVariable.id)
+//
+//WebUI.setText(findTestObject('00-02 PASS'), GlobalVariable.pass)
+//
+//WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+//
+//WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILURE)
+//
+//WebUI.click(findTestObject('00-04 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
+//
+//WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
+//
+//WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'), FailureHandling.STOP_ON_FAILURE)
+=======
 WebUI.openBrowser('')
 
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
@@ -38,6 +61,7 @@ WebUI.click(findTestObject('0004 Modul Fixed Asset'), FailureHandling.STOP_ON_FA
 WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'), FailureHandling.STOP_ON_FAILURE)
+>>>>>>> eeab9e14ba3d05699ada50f831b8e8b9e85a552c
 WebUI.click(findTestObject('001 Reusable Component/001.025 Reusable - Register Asset'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)

@@ -21,13 +21,13 @@ WebUI.openBrowser(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('0001 ID'), 'fajar3@mailnesia.com')
+WebUI.setText(findTestObject('00-01 ID'), 'fajar3@mailnesia.com')
 
-WebUI.setText(findTestObject('0002 PASS'), 'Moderator12@')
+WebUI.setText(findTestObject('00-02 PASS'), 'Moderator12@')
 
-WebUI.click(findTestObject('0003 Button Login'))
+WebUI.click(findTestObject('00-03 Button Login'))
 
-WebUI.click(findTestObject('0004 Modul Fixed Asset'))
+WebUI.click(findTestObject('00-04 Modul Fixed Asset'))
 
 WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.059 Click icon profile - Copy'))
 

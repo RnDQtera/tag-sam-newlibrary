@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003.003.05 - Action handover (transfer) with tag</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10d39223-5b79-411f-a498-2f5fda9bc031</testCaseGuid>
+</TestCaseEntity>
