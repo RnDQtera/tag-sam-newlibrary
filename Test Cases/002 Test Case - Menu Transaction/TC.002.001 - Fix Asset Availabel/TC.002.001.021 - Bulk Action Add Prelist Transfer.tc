@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.002.001.009 Single Action Transfer Asset Transaction</name>
+   <name>TC.002.001.021 - Bulk Action Add Prelist Transfer</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>46a473dd-3310-43ec-b5e2-4fa09d4083ef</testCaseGuid>
+   <testCaseGuid>40e59777-a903-4aee-a134-9c8444a6c5c2</testCaseGuid>
 </TestCaseEntity>

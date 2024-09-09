@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.009.001 - Set Setting General</name>
+   <name>TC.002.001.009 - Single Action Transfer Asset Transaction</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ae8a7326-25e4-40c0-92c5-3eaf7f5ea520</testCaseGuid>
+   <testCaseGuid>46a473dd-3310-43ec-b5e2-4fa09d4083ef</testCaseGuid>
 </TestCaseEntity>

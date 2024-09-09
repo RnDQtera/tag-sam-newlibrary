@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.013.004 Submit Borrowing Pre-List</name>
+   <name>OBJ.023.002 Action Add to replace RFID TAG Pre-list</name>
    <tag></tag>
-   <elementGuidId>569dfdb1-3401-420a-9f5d-5433ff0be383</elementGuidId>
+   <elementGuidId>ecf4c90a-0b71-4f18-9bf6-c44604501e24</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[7]/div/div[3]/div/div/button[2]</value>
+         <value>/html/body/div[6]/ul/li[3]/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

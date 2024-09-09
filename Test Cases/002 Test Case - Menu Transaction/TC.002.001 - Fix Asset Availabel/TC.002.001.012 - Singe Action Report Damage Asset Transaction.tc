@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.002.001.012 Singe Action - Report Damage Asset Transaction</name>
+   <name>TC.002.001.012 - Singe Action Report Damage Asset Transaction</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>1ad7ebb2-8992-4873-87ee-7c060fdc68a8</testCaseGuid>
