@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.007 - Return Asset on Borrowing Non Tag</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>036b80f1-45cf-4503-8748-623e4429bca7</testCaseGuid>
+</TestCaseEntity>
