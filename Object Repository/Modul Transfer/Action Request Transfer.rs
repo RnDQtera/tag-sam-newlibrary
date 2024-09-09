@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.022.001 Single Action Tab Pre-list Modul Borrow</name>
+   <name>Action Request Transfer</name>
    <tag></tag>
-   <elementGuidId>cf6691fc-8350-4fe3-a085-4849bbe6cd9e</elementGuidId>
+   <elementGuidId>bd7e1190-1aab-48ff-be02-5801983bc060</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>BASIC</key>
          <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[4]/div[2]/div[1]/table/tbody/tr/td[5]/div/button</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
+         <value>/html/body/div[5]/ul/li[1]/div/a/span
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

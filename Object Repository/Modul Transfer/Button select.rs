@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.022.001 Single Action Tab Pre-list Modul Borrow</name>
+   <name>Button select</name>
    <tag></tag>
-   <elementGuidId>cf6691fc-8350-4fe3-a085-4849bbe6cd9e</elementGuidId>
+   <elementGuidId>aef9d133-449f-4433-9caa-28f815cfbf71</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>BASIC</key>
          <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[4]/div[2]/div[1]/table/tbody/tr/td[5]/div/button</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
+         <value>/html/body/div[7]/div/div[3]/button[2]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
