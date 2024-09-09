@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.013.004 Submit Borrowing Pre-List</name>
+   <name>OBJ.027.002 Button Bulk Action</name>
    <tag></tag>
-   <elementGuidId>569dfdb1-3401-420a-9f5d-5433ff0be383</elementGuidId>
+   <elementGuidId>d6091231-56d9-41f4-8264-3ca7304adfdb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[7]/div/div[3]/div/div/button[2]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[1]/div[1]/button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

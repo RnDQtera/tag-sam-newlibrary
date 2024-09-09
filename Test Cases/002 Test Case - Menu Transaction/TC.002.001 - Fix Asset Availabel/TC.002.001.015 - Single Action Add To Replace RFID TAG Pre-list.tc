@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.001.015 - Single Action Add To Replace RFID TAG Pre-list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8c703eb-e8bd-4c33-9e89-2138492c199f</testCaseGuid>
+</TestCaseEntity>

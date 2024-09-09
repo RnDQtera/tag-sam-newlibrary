@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.002.001.013 Single Action - Report Missing Asset Transaction</name>
+   <name>TC.002.001.013 - Single Action Report Missing Asset Transaction</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>451604d7-deec-4300-acd5-825705145fdf</testCaseGuid>
