@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.03 - Melakukan action transfer via transaction (add by scan)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22a8daf5-c237-4263-be2b-24bf7e8df2c9</testCaseGuid>
+</TestCaseEntity>

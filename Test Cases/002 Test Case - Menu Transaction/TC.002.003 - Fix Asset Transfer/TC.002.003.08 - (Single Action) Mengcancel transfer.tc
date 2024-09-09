@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.08 - (Single Action) Mengcancel transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6e38702-2861-48db-9272-aa244b934dfd</testCaseGuid>
+</TestCaseEntity>

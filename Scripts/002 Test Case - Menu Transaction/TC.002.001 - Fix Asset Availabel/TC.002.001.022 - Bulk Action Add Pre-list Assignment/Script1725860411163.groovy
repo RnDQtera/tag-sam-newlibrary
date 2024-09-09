@@ -41,23 +41,19 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.028 - Fixed Asset Add Pre-list Transfer/OBJ.028.001 Checkbox (1)'))
+WebUI.click(findTestObject('OBJ.029 - Fixed Asset - Bulk Action Add Pre-list Assignment/OBJ.029.003 Checkbox (2)'))
 
 WebUI.click(findTestObject('OBJ.028 - Fixed Asset Add Pre-list Transfer/OBJ.028.002 Button Bulk Action'))
 
-WebUI.click(findTestObject('OBJ.028 - Fixed Asset Add Pre-list Transfer/OBJ.028.003 Bulk Action - Action (3)'))
+WebUI.click(findTestObject('OBJ.029 - Fixed Asset - Bulk Action Add Pre-list Assignment/OBJ.029.001 Bulk Action - (2)'))
 
-WebUI.setText(findTestObject('OBJ.014 - Fixed Asser - Add Prelist Transfer/OBJ.014.002 Text Field Search to Group'), 'Kantor Regional Bali')
+WebUI.click(findTestObject('OBJ.029 - Fixed Asset - Bulk Action Add Pre-list Assignment/OBJ.029.002 Select Data User'))
 
-WebUI.click(findTestObject('OBJ.028 - Fixed Asset Add Pre-list Transfer/OBJ.028.004 Click Grup'))
+WebUI.click(findTestObject('OBJ.015 - Fixed Asset - Add Prelist Assignment/OBJ.015.003 Submit Assignment Pre-List'))
 
-WebUI.click(findTestObject('OBJ.014 - Fixed Asser - Add Prelist Transfer/OBJ.014.004 Select Add to Prelist transfer'))
+WebUI.click(findTestObject('001 Reusable Component/001.005 Reusable - Menu Fixed Asset - Assignment'))
 
-WebUI.delay(2)
+WebUI.delay(4)
 
-WebUI.click(findTestObject('001 Reusable Component/001.006 Reusable - Menu Fixed Asset - Transfer'))
-
-WebUI.delay(3)
-
-WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.021 - Bulk Action Add Pre-list Transfer.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.022 - Bulk Action Add Pre-list Assignment.png', FailureHandling.STOP_ON_FAILURE)
 

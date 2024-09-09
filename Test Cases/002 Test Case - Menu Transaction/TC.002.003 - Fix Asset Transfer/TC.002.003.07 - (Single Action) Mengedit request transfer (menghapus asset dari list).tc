@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.07 - (Single Action) Mengedit request transfer (menghapus asset dari list)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2256e8a3-a572-4d16-9a8b-fd0fd4dae471</testCaseGuid>
+</TestCaseEntity>

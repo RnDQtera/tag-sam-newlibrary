@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.001.016 - Single Action Add To Replace RFID And QR TAG Pre-list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da07112c-16ea-40fb-9526-b941d73058df</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.09 - (Single Action) Melakukan report tag ketika melakukan handover</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60c70f75-125d-448d-a624-d17eb98176d6</testCaseGuid>
+</TestCaseEntity>

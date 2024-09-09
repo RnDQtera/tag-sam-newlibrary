@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.10 - (Bulk Action) Melakukan action transfer via pre-list</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df21f0f3-204e-4dde-a917-a27a9d03347f</testCaseGuid>
+</TestCaseEntity>

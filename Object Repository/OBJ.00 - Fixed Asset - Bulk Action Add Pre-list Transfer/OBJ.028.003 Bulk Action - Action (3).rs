@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.015.003 Submit Assignment Pre-List</name>
+   <name>OBJ.028.003 Bulk Action - Action (3)</name>
    <tag></tag>
-   <elementGuidId>2ee6752c-393d-4fe2-8bee-9d77d0464e01</elementGuidId>
+   <elementGuidId>66fb8f4c-2842-46e6-9e85-3b85fcca10e8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[7]/div/div[3]/div/div/button[2]</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/div[7]/ul/li[3]/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

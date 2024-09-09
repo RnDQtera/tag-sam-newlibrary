@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.04 - Melakukan handover (transfer) non-tag</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9426103b-d4c1-44d1-aedb-26f1b4e0bbf0</testCaseGuid>
+</TestCaseEntity>

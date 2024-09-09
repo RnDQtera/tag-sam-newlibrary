@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC.003.003.02 - Action transfer dari transaction (plus asset)</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>1b7ae55a-475b-4cfa-a21b-627e88394784</testCaseGuid>
-</TestCaseEntity>

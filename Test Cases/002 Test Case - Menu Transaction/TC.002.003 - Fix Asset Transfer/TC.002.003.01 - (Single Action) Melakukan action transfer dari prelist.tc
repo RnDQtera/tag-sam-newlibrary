@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.01 - (Single Action) Melakukan action transfer dari prelist</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38681f1b-b465-48b4-a66b-909b99728419</testCaseGuid>
+</TestCaseEntity>

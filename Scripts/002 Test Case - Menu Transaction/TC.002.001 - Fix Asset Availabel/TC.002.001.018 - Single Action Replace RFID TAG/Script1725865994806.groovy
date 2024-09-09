@@ -41,23 +41,15 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.028 - Fixed Asset Add Pre-list Transfer/OBJ.028.001 Checkbox (1)'))
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Action Replace RFID TAG/Action (10)'))
 
-WebUI.click(findTestObject('OBJ.028 - Fixed Asset Add Pre-list Transfer/OBJ.028.002 Button Bulk Action'))
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Action Replace RFID TAG/Action (10) - (11) Replace RFID TAG'))
 
-WebUI.click(findTestObject('OBJ.028 - Fixed Asset Add Pre-list Transfer/OBJ.028.003 Bulk Action - Action (3)'))
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Action Replace RFID TAG/Button Next'))
 
-WebUI.setText(findTestObject('OBJ.014 - Fixed Asser - Add Prelist Transfer/OBJ.014.002 Text Field Search to Group'), 'Kantor Regional Bali')
-
-WebUI.click(findTestObject('OBJ.028 - Fixed Asset Add Pre-list Transfer/OBJ.028.004 Click Grup'))
-
-WebUI.click(findTestObject('OBJ.014 - Fixed Asser - Add Prelist Transfer/OBJ.014.004 Select Add to Prelist transfer'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('001 Reusable Component/001.006 Reusable - Menu Fixed Asset - Transfer'))
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Action Replace RFID TAG/Button Continue'))
 
 WebUI.delay(3)
 
-WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.021 - Bulk Action Add Pre-list Transfer.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.018 - Single Action Replace RFID TAG.png', FailureHandling.STOP_ON_FAILURE)
 
