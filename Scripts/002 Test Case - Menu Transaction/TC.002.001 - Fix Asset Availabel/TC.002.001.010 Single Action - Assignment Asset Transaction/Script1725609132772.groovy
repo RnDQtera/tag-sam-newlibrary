@@ -41,19 +41,19 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.001 SIngle Action Available Asset'))
 
-WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.001 SIngle Action Available Asset'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.018 - Fixed Asset - Assignment Transaction/OBJ.018.001 Action Assign'))
 
-WebUI.click(findTestObject('OBJ.015 - Fixed Asset - Add Prelist Assignment/OBJ.015.001 Add to Pre-List Assignment'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.018 - Fixed Asset - Assignment Transaction/OBJ.018.002 Select User'))
 
-WebUI.click(findTestObject('OBJ.015 - Fixed Asset - Add Prelist Assignment/OBJ.015.002 Select Data User'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.018 - Fixed Asset - Assignment Transaction/OBJ.018.003 Click User'))
 
-WebUI.click(findTestObject('OBJ.015 - Fixed Asset - Add Prelist Assignment/OBJ.015.003 Submit Assignment Pre-List'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.018 - Fixed Asset - Assignment Transaction/OBJ.018.004 Button Select -Select User'))
 
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.018 - Fixed Asset - Assignment Transaction/OBJ.018.005 Submit Assignment Request'))
 
-WebUI.click(findTestObject('001 Reusable Component/001.004 Reusable - Menu Fixed Asset - Borrow'), FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.008 - Add to Pre-list Assignment.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.010 - Assignment Asset Transaction.png', FailureHandling.STOP_ON_FAILURE)
 
