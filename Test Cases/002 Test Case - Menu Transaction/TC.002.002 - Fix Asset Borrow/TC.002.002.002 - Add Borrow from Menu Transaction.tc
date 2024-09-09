@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.002 - Add Borrow from Menu Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2abf5723-6d44-40be-ad0e-a992a9db4804</testCaseGuid>
+</TestCaseEntity>

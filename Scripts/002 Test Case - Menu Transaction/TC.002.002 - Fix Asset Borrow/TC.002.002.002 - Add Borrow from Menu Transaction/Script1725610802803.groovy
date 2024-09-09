@@ -42,31 +42,4 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 WebUI.click(findTestObject('001 Reusable Component/001.004 Reusable - Menu Fixed Asset - Borrow'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
-WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.001 Single Action Tab Pre-list Modul Borrow'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.002 Action Request Borrowing'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.setText(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.004 Text Field Duration'), '1')
-
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.005 Submit Borrowing Request'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.006 Single Action Sub Tab Transaction'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.008 Action Detail'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.010 Single Action Detail Borrowing Transaction'), 
-    FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.011 SIngle Action Borrowing Detail - Borrowing Log'), 
-    FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
-
-WebUI.takeScreenshot('Screenshot/011. Modul Borrow/TC.002.002.001 - Borrowing Request from pre-list.png', FailureHandling.STOP_ON_FAILURE)
 
