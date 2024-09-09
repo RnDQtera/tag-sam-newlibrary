@@ -21,11 +21,11 @@ WebUI.openBrowser(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('0001 ID'), GlobalVariable.id)
+WebUI.setText(findTestObject('00-01 ID'), GlobalVariable.id)
 
-WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
+WebUI.setText(findTestObject('00-02 PASS'), GlobalVariable.pass)
 
-WebUI.click(findTestObject('0003 Button Login'))
+WebUI.click(findTestObject('00-03 Button Login'))
 
 WebUI.setText(findTestObject('OBJ.007 - Login/OBJ.007.001.Field ID'), GlobalVariable.id)
 

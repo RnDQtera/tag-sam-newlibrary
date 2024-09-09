@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>0001 ID</name>
+   <name>OBJ.022.020 Select User</name>
    <tag></tag>
-   <elementGuidId>b7308fbc-af21-414f-b9ea-a5ffcc1c2629</elementGuidId>
+   <elementGuidId>f9d4161e-2d53-4ba2-9321-d85576aa7e50</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/main/div/div/div/div/div[1]/div[1]/div/div/div[1]/div[1]/form/div[1]/div/div[1]/div/input</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div/div[1]/table/tbody/tr/td[7]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

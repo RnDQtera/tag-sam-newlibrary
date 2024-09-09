@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>0002 PASS</name>
+   <name>OBJ.022.048 Action Request Exrension Status On Borrowing</name>
    <tag></tag>
-   <elementGuidId>e43f7369-165d-44a2-8fdd-f94a2870a908</elementGuidId>
+   <elementGuidId>d9dfe42b-c5c1-4e47-a560-060636653376</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/main/div/div/div/div/div[1]/div[1]/div/div/div[1]/div[1]/form/div[1]/div/div[2]/div/div/div/input</value>
+         <value>/html/body/div[4]/ul/li[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
