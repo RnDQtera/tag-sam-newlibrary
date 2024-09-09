@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.003 - Add Borrow from Menu Transaction Add By Scan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>51051f91-7a67-4af3-ba40-fcfdd65f2bbf</testCaseGuid>
+</TestCaseEntity>

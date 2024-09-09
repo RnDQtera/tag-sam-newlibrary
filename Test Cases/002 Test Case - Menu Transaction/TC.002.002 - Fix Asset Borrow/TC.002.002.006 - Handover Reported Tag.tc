@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.006 - Handover Reported Tag</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e273d7ef-456b-4867-818e-675411b2a935</testCaseGuid>
+</TestCaseEntity>

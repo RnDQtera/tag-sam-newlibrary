@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>0003 Button Login</name>
+   <name>OBJ.022.032 Select All Asset for Confirmation</name>
    <tag></tag>
-   <elementGuidId>146fa4bf-aa57-4b52-90ec-3d28b18e14da</elementGuidId>
+   <elementGuidId>7d9f9953-1f4a-47c9-abd8-700d56513b58</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/main/div/div/div/div/div[1]/div[1]/div/div/div[1]/div[2]/button</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[1]/table/thead/tr/th[1]/div/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

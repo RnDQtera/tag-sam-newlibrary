@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>0004 Modul Fixed Asset</name>
+   <name>00-04 Modul Fixed Asset</name>
    <tag></tag>
    <elementGuidId>92d8854d-16cd-473b-859d-495047111318</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

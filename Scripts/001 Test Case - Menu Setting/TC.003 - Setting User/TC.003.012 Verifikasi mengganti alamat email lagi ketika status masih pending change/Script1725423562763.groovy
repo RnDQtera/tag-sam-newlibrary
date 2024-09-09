@@ -19,13 +19,13 @@ WebUI.openBrowser(GlobalVariable.URL)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('0001 ID'), GlobalVariable.id)
+WebUI.setText(findTestObject('00-01 ID'), GlobalVariable.id)
 
-WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
+WebUI.setText(findTestObject('00-02 PASS'), GlobalVariable.pass)
 
-WebUI.click(findTestObject('0003 Button Login'))
+WebUI.click(findTestObject('00-03 Button Login'))
 
-WebUI.click(findTestObject('0004 Modul Fixed Asset'))
+WebUI.click(findTestObject('00-04 Modul Fixed Asset'))
 
 WebUI.click(findTestObject('OBJ.001 - Setting Group/0042 Menu Setting'))
 
