@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.013.002 Add to Pre-List Borrowing</name>
+   <name>00-16 Select Single Scan QR - Borrow Transaction</name>
    <tag></tag>
-   <elementGuidId>56cc8533-4209-4a83-ab17-da17aa28c20e</elementGuidId>
+   <elementGuidId>d112f1d2-7e86-45d0-8f71-8236ca5119cf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/ul/li[4]</value>
+         <value>/html/body/div[5]/div/div[2]/div/button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

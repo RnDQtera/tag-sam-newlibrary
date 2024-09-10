@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.013 - Request Extension pada On Borrowing Asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15e12d22-940b-467f-a41f-19988c4661ba</testCaseGuid>
+</TestCaseEntity>

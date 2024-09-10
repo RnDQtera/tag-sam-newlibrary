@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.010 - Remove Pre-list Borrow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f829a8a3-29bb-4b4a-8087-e0c12f6fa699</testCaseGuid>
+</TestCaseEntity>

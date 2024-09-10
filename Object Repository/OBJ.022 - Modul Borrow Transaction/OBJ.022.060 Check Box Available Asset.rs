@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.013.002 Add to Pre-List Borrowing</name>
+   <name>OBJ.022.060 Check Box Available Asset</name>
    <tag></tag>
-   <elementGuidId>56cc8533-4209-4a83-ab17-da17aa28c20e</elementGuidId>
+   <elementGuidId>b2b34b5a-8f5a-4708-b6cf-0e0258c7e9c1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/ul/li[4]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[3]/div[1]/table/thead/tr/th[1]/div/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

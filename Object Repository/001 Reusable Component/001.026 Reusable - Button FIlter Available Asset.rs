@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.013.002 Add to Pre-List Borrowing</name>
+   <name>001.026 Reusable - Button FIlter Available Asset</name>
    <tag></tag>
-   <elementGuidId>56cc8533-4209-4a83-ab17-da17aa28c20e</elementGuidId>
+   <elementGuidId>d6eb522b-df4e-4565-a3ff-a4f67cbc0e26</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/ul/li[4]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[1]/div[2]/div/button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

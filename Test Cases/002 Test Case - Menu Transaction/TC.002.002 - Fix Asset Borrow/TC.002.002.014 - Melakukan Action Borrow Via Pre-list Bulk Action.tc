@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.014 - Melakukan Action Borrow Via Pre-list Bulk Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73377052-31b4-4c1a-87b2-79295cf22cf3</testCaseGuid>
+</TestCaseEntity>

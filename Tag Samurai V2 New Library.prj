@@ -4,12 +4,12 @@
    <name>Tag Samurai V2 New Library</name>
    <tag></tag>
    <UUID>22ff038d-e73f-49a0-8485-ddb9991ad50c</UUID>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>9.6.0</modifiedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>9.5.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/daffattrmdzi/Documents/TagSamurai/tag-sam-newlibrary/Tag Samurai V2 New Library.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\DELL\Katalon Studio\Tag Samurai V2 New Library\Tag Samurai V2 New Library.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
