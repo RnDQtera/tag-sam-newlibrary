@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Action - Add to replace QR Tag Pre-list</name>
+   <name>Button Action - Action (17)</name>
    <tag></tag>
-   <elementGuidId>9c302496-c1a0-4b76-a79c-3cde25fb2524</elementGuidId>
+   <elementGuidId>265cba77-e217-4859-9c00-c3845cae69aa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/ul/li[3]/div/a</value>
+         <value>/html/body/div[6]/ul/li[17]/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

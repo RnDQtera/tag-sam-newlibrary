@@ -41,32 +41,25 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/Button Action'))
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/Button Action - Action (17)'))
+WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Name/Button Filter'))
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/Button Next'))
+WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Fiend Model Atau Type/Dropdown Model Type'))
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/Button Continue'))
+WebUI.setText(findTestObject('OBJ.00 - Filtering Data Dengan Fiend Model Atau Type/Field Model'), 'Gorden Blackout Untuk Kamar')
+
+WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Fiend Model Atau Type/Checkbox Gorden'))
+
+WebUI.delay(4)
+
+WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Fiend Model Atau Type/Dropdown Model Type'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/Button Submit'))
+WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Name/Button Apply'))
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/Button Continue TAG Replacement'))
+WebUI.delay(2)
 
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/Menu- Device'))
-
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/Button TAG'))
-
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/Replace TAG'))
-
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/Menu Replace RFID And QR TAG'))
-
-WebUI.delay(3)
-
-WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.016 - Single Action Add To Replace RFID And QR TAG Pre-list.png', 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.034 - Filtering Data Field Model.png', FailureHandling.STOP_ON_FAILURE)
 

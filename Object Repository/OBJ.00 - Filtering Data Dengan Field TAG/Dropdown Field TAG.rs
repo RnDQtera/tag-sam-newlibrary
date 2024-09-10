@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Action - Add to replace QR Tag Pre-list</name>
+   <name>Dropdown Field TAG</name>
    <tag></tag>
-   <elementGuidId>9c302496-c1a0-4b76-a79c-3cde25fb2524</elementGuidId>
+   <elementGuidId>4fb545d8-2e14-4df6-ac0f-5af54941f0e7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/ul/li[3]/div/a</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[2]/div[5]/div/div/div[3]/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

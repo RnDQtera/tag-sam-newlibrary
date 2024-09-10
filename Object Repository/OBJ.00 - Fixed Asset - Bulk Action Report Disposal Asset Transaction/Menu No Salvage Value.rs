@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Action - Add to replace QR Tag Pre-list</name>
+   <name>Menu No Salvage Value</name>
    <tag></tag>
-   <elementGuidId>9c302496-c1a0-4b76-a79c-3cde25fb2524</elementGuidId>
+   <elementGuidId>89c54711-7f00-491b-80f2-d50439a7ac8a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/ul/li[3]/div/a</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
