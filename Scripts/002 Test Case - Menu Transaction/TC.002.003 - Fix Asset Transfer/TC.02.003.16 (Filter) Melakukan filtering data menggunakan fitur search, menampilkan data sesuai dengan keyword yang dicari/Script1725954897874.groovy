@@ -43,31 +43,13 @@ WebUI.click(findTestObject('001 Reusable Component/001.006 Reusable - Menu Fixed
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.023 Tab Transaction'))
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Prelist/Button Search'))
+
+WebUI.sendKeys(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Prelist/Searchbox'), 'jabar')
+
+WebUI.sendKeys(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Prelist/Searchbox'), Keys.chord(Keys.ENTER))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.025 Single Action Tab Transaction 2'))
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.026 Action Button Handover'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.027 Single Action Tab Handover'))
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.028 Button Report TAG'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.029 Button Submit Report TAG'))
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.030 Button Report Pada Report TAG'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.031 Button Handover'))
-
-WebUI.delay(2)
-
-WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.002 - Melakukan Report TAG ketika melakukan Handover.png', FailureHandling.STOP_ON_FAILURE)
-
+WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.016 - (Filter) Melakukan filtering data menggunakan fitur search, menampilkan data sesuai dengan keyword yang dicari.png',
+	FailureHandling.STOP_ON_FAILURE)

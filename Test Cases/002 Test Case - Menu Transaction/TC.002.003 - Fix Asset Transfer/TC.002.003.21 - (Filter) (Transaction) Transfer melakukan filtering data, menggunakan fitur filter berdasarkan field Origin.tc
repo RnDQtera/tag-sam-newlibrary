@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.21 - (Filter) (Transaction) Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field Origin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d6d42a2-c520-4cf2-a6c5-ce829921b786</testCaseGuid>
+</TestCaseEntity>

@@ -47,27 +47,20 @@ WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Trans
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.025 Single Action Tab Transaction 2'))
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Transaction/Button Filter'))
 
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.026 Action Button Handover'))
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Transaction/Button Select Group Origin'))
 
-WebUI.delay(2)
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Transaction/Checkbox Kantor Reg Jabar'))
 
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.027 Single Action Tab Handover'))
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.028 Button Report TAG'))
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Transaction/Button Select'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.029 Button Submit Report TAG'))
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.030 Button Report Pada Report TAG'))
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Transaction/Button Apply Filter'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.031 Button Handover'))
-
-WebUI.delay(2)
-
-WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.002 - Melakukan Report TAG ketika melakukan Handover.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.021 - [Filter] (Transaction) Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field "Origin".png',
+	FailureHandling.STOP_ON_FAILURE)
 

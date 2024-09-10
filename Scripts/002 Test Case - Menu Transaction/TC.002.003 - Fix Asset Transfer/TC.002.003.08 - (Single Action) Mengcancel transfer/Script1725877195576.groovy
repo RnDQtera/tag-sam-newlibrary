@@ -17,3 +17,43 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
+
+WebUI.navigateToUrl(GlobalVariable.URL)
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('00-01 ID'), GlobalVariable.id)
+
+WebUI.setText(findTestObject('00-02 PASS'), GlobalVariable.pass)
+
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('00-04 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(8)
+
+WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed Asset'))
+
+WebUI.click(findTestObject('001 Reusable Component/001.006 Reusable - Menu Fixed Asset - Transfer'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.023 Tab Transaction'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.009 Single Action Tab Transaction Modul Transfer'))
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.011 Action Cancel Transfer'))
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.024 Continue Cancel Transfer'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.008 - Mengcancel transfer.png', FailureHandling.STOP_ON_FAILURE)
+

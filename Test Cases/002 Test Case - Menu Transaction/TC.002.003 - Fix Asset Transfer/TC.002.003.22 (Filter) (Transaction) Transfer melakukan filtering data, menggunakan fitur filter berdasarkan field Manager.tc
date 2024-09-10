@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.22 (Filter) (Transaction) Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field Manager</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e14864a-064e-483b-8a01-1e054411e71c</testCaseGuid>
+</TestCaseEntity>

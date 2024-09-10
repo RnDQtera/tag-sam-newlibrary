@@ -43,31 +43,18 @@ WebUI.click(findTestObject('001 Reusable Component/001.006 Reusable - Menu Fixed
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.023 Tab Transaction'))
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 Bulk Action Transfer/Checkbox Group Asset'))
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 Bulk Action Transfer/Button Bulk Action'))
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 Bulk Action Transfer/Button Remove from pre-list - list Bulk Action'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.025 Single Action Tab Transaction 2'))
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.026 Action Button Handover'))
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 Bulk Action Transfer/Button Remove from prelist - list'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.027 Single Action Tab Handover'))
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.028 Button Report TAG'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.029 Button Submit Report TAG'))
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.030 Button Report Pada Report TAG'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/OBJ.024 - Single Action Transfer/OBJ.024.031 Button Handover'))
-
-WebUI.delay(2)
-
-WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.002 - Melakukan Report TAG ketika melakukan Handover.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.013 - Bulk Action Melakukan action remove from pre-list.png', 
+    FailureHandling.STOP_ON_FAILURE)
 
