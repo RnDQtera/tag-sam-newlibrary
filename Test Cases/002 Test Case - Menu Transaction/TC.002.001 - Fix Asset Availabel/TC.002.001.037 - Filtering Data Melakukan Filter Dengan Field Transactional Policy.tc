@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.001.037 - Filtering Data Melakukan Filter Dengan Field Transactional Policy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8facc35c-4c69-4fae-b180-7ef8ac5c07eb</testCaseGuid>
+</TestCaseEntity>

@@ -25,15 +25,15 @@ WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('0001 ID'), GlobalVariable.id)
+WebUI.setText(findTestObject('00-01 ID'), GlobalVariable.id)
 
-WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
+WebUI.setText(findTestObject('00-02 PASS'), GlobalVariable.pass)
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('0003 Button Login'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('0004 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('00-04 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
 
@@ -41,13 +41,17 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Action Replace RFID TAG/Action (10)'))
+WebUI.click(findTestObject('OBJ.028 - Fixed Asset - Single Action Action Replace RFID TAG/OBJ.028.001 Action (6)'))
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Action Replace RFID TAG/Action (10) - (11) Replace RFID TAG'))
+WebUI.click(findTestObject('OBJ.028 - Fixed Asset - Single Action Action Replace RFID TAG/OBJ.028.002 Action (10) - (13) Replace RFID TAG'))
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Action Replace RFID TAG/Button Next'))
+WebUI.click(findTestObject('OBJ.028 - Fixed Asset - Single Action Action Replace RFID TAG/OBJ.028.003 Button Next'))
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Action Replace RFID TAG/Button Continue'))
+WebUI.click(findTestObject('OBJ.028 - Fixed Asset - Single Action Action Replace RFID TAG/OBJ.028.004 Button Continue'))
+
+WebUI.click(findTestObject('OBJ.028 - Fixed Asset - Single Action Action Replace RFID TAG/OBJ.028.005 Button Scan RFID'))
+
+WebUI.delay(15)
 
 WebUI.delay(3)
 

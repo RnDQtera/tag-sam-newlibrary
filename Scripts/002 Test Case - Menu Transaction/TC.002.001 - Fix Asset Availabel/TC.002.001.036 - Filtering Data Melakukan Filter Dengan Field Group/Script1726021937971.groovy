@@ -43,17 +43,17 @@ WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Name/Button Filter'))
+WebUI.click(findTestObject('OBJ.041 - Filtering Data Dengan Field Name/OBJ.041.002 Button Filter'))
 
-WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Group/Button Select Group'))
+WebUI.click(findTestObject('OBJ.046 - Filtering Data Dengan Field Group/OBJ.046.002 Button Select Group'))
 
-WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Group/Checkbox Kantor Pusat Jakarta'))
+WebUI.click(findTestObject('OBJ.046 - Filtering Data Dengan Field Group/OBJ.046.003 Checkbox Kantor Pusat Jakarta'))
 
-WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Group/Button Select'))
+WebUI.click(findTestObject('OBJ.046 - Filtering Data Dengan Field Group/OBJ.046.001 Button Select'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Name/Button Apply'))
+WebUI.click(findTestObject('OBJ.041 - Filtering Data Dengan Field Name/OBJ.041.001 Button Apply'))
 
 WebUI.delay(2)
 

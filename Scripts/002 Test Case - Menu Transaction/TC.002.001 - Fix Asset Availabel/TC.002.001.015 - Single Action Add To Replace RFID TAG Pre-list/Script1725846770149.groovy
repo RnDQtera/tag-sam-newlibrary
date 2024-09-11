@@ -25,15 +25,15 @@ WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('0001 ID'), GlobalVariable.id)
+WebUI.setText(findTestObject('00-01 ID'), GlobalVariable.id)
 
-WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
+WebUI.setText(findTestObject('00-02 PASS'), GlobalVariable.pass)
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('0003 Button Login'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('0004 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('00-04 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
 
@@ -41,11 +41,21 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.023 - Fixed Asset - Add To Replace RFID TAG Pre-list/OBJ.023.001 Action (1)'))
+WebUI.click(findTestObject('OBJ.025 - Fixed Asset - Single Action Add To Replace RFID TAG Pre-list/OBJ.025.001 Action (5)'))
 
-WebUI.click(findTestObject('OBJ.023 - Fixed Asset - Add To Replace RFID TAG Pre-list/OBJ.023.002 Action Add to replace RFID TAG Pre-list'))
+WebUI.click(findTestObject('OBJ.025 - Fixed Asset - Single Action Add To Replace RFID TAG Pre-list/OBJ.025.002 Action Add to replace RFID TAG Pre-list'))
 
-WebUI.click(findTestObject('OBJ.020 - Fixed Asset - Report Damage Transaction/OBJ.020.007 Button Continue'))
+WebUI.click(findTestObject('OBJ.025 - Fixed Asset - Single Action Add To Replace RFID TAG Pre-list/OBJ.025.003 Button Continue'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ.023 - Fixed Asset - Single Action Add To Replace QR TAG Pre-list/OBJ.023.010 Menu Device'))
+
+WebUI.click(findTestObject('OBJ.023 - Fixed Asset - Single Action Add To Replace QR TAG Pre-list/OBJ.023.007 Menu TAG'))
+
+WebUI.click(findTestObject('OBJ.023 - Fixed Asset - Single Action Add To Replace QR TAG Pre-list/OBJ.023.008 Menu Replace TAG'))
+
+WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.015 - Single Action Add To Replace RFID TAG Pre-list.png', FailureHandling.STOP_ON_FAILURE)
 
