@@ -41,21 +41,17 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Add To Replace QR TAG Pre-list/Single Action (1)'))
 
-WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Name/Button Filter'))
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Replace QR TAG/Action (13) Replace QR TAG'))
 
-WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field TAG/Dropdown Field TAG'))
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Replace QR TAG/Button Next'))
 
-WebUI.setText(findTestObject('OBJ.00 - Filtering Data Dengan Field TAG/Field TAG'), 'RFID')
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Replace QR TAG/Button Continue'))
 
-WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field TAG/Checkbox RFID'))
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Single Action Replace QR TAG/Button Scan QR'))
 
-WebUI.delay(2)
+WebUI.delay(20)
 
-WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Name/Button Apply'))
-
-WebUI.delay(2)
-
-WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.035 - Filtering Data Field TAG.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.017 - Single Action Replace QR TAG .png', FailureHandling.STOP_ON_FAILURE)
 

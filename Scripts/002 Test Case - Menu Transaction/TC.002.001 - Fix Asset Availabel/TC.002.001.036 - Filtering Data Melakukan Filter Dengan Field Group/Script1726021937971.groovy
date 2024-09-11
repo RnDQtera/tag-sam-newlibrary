@@ -45,11 +45,11 @@ WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Name/Button Filter'))
 
-WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field TAG/Dropdown Field TAG'))
+WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Group/Button Select Group'))
 
-WebUI.setText(findTestObject('OBJ.00 - Filtering Data Dengan Field TAG/Field TAG'), 'RFID')
+WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Group/Checkbox Kantor Pusat Jakarta'))
 
-WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field TAG/Checkbox RFID'))
+WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Group/Button Select'))
 
 WebUI.delay(2)
 
@@ -57,5 +57,5 @@ WebUI.click(findTestObject('OBJ.00 - Filtering Data Dengan Field Name/Button App
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.035 - Filtering Data Field TAG.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.036 - Filtering Data Field Group.png', FailureHandling.STOP_ON_FAILURE)
 
