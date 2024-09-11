@@ -82,6 +82,23 @@ WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Add Pre-list Borr
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeScreenshot('Screenshot/011. Modul Borrow/TC.002.002.014 - Melakukan Action Borrow Via Pre-list Bulk Action.png', 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('001 Reusable Component/001.004 Reusable - Menu Fixed Asset - Borrow'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.001 Single Action Tab Pre-list Modul Borrow'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.002 Action Request Borrowing'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.061 Check Asset for remove'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.062 Bulk Action Borrowing requet'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.063 Action Bulk Set Duration'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.067 Text Field Set Duration'), '1')
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.068 Apply Set Duration'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot('Screenshot/011. Modul Borrow/TC.002.002.016 - Set duration pada request borrow.png', FailureHandling.STOP_ON_FAILURE)
 

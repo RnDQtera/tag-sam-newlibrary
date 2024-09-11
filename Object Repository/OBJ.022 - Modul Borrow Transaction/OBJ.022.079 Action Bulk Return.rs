@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>00-08 Hardware Sync</name>
+   <name>OBJ.022.079 Action Bulk Return</name>
    <tag></tag>
-   <elementGuidId>14fc907f-6569-4782-b9b1-e7fc4a151b72</elementGuidId>
+   <elementGuidId>c3e4d72b-04b3-4ff4-a26b-2555d3c9615a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div/div[2]/button</value>
+         <value>/html/body/div[5]/ul/li[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

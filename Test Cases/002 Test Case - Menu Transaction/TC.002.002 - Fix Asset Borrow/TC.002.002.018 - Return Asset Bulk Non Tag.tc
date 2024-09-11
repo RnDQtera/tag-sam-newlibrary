@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.018 - Return Asset Bulk Non Tag</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7f8acc2-e8d2-4322-9a37-1e7c2c4504c3</testCaseGuid>
+</TestCaseEntity>

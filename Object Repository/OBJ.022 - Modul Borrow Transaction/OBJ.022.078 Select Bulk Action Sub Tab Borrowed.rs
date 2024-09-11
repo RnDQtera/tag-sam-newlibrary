@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>00-08 Hardware Sync</name>
+   <name>OBJ.022.078 Select Bulk Action Sub Tab Borrowed</name>
    <tag></tag>
-   <elementGuidId>14fc907f-6569-4782-b9b1-e7fc4a151b72</elementGuidId>
+   <elementGuidId>968d7b71-a50f-414a-8454-5fe5395171ae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div/div[2]/button</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[1]/div/button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

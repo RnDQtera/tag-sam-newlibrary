@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>00-08 Hardware Sync</name>
+   <name>OBJ.022.073 Text Field Status</name>
    <tag></tag>
-   <elementGuidId>14fc907f-6569-4782-b9b1-e7fc4a151b72</elementGuidId>
+   <elementGuidId>ec41fdde-31ec-4e37-980b-3c64f9125b6e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div/div[2]/button</value>
+         <value>/html/body/div[4]/div[1]/div[2]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
