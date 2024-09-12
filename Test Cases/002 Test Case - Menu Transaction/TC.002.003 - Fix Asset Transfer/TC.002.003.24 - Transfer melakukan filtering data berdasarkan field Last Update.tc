@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.24 - Transfer melakukan filtering data berdasarkan field Last Update</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6881e76-a5ce-4cfc-8f5e-652b3e48b57b</testCaseGuid>
+</TestCaseEntity>

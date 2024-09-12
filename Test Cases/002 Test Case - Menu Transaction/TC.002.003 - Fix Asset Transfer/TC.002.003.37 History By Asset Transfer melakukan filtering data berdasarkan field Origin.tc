@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.37 History By Asset Transfer melakukan filtering data berdasarkan field Origin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85dc8f1c-6d4f-43fb-b8e2-f948d54146e7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.11 - (Bulk Action) Melakukan action select group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dcd046e6-9e38-4ac6-a0d2-68ed49c22302</testCaseGuid>
+</TestCaseEntity>

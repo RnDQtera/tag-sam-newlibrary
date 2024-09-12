@@ -25,18 +25,44 @@ WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('0001 ID'), GlobalVariable.id)
+WebUI.setText(findTestObject('00-01 ID'), GlobalVariable.id)
 
-WebUI.setText(findTestObject('0002 PASS'), GlobalVariable.pass)
+WebUI.setText(findTestObject('00-02 PASS'), GlobalVariable.pass)
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('0003 Button Login'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('0004 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(12)
+
+WebUI.click(findTestObject('00-04 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ.029 - Fixed Asset - Single Action Replace RFID And QR TAG/OBJ.029.001 Action (4)'))
+
+WebUI.click(findTestObject('OBJ.029 - Fixed Asset - Single Action Replace RFID And QR TAG/OBJ.029.002 Action (4) - Replace RFID And QR'))
+
+WebUI.click(findTestObject('OBJ.029 - Fixed Asset - Single Action Replace RFID And QR TAG/OBJ.029.003 Button Next'))
+
+WebUI.click(findTestObject('OBJ.029 - Fixed Asset - Single Action Replace RFID And QR TAG/OBJ.029.004 Button Continue'))
+
+WebUI.click(findTestObject('OBJ.029 - Fixed Asset - Single Action Replace RFID And QR TAG/OBJ.029.005 Button Scan RFID'))
+
+WebUI.delay(15)
+
+WebUI.click(findTestObject('OBJ.029 - Fixed Asset - Single Action Replace RFID And QR TAG/OBJ.0029.006 Button Submit'))
+
+WebUI.click(findTestObject('OBJ.029 - Fixed Asset - Single Action Replace RFID And QR TAG/OBJ.029.007 Button Submit - Continue'))
+
+WebUI.delay(1)
+
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.019 - Single Action Replace RFID And QR TAG.png', FailureHandling.STOP_ON_FAILURE)
+
+

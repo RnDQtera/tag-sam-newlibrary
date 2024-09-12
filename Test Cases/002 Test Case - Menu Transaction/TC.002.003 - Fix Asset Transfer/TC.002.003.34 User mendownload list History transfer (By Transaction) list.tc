@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.34 User mendownload list History transfer (By Transaction) list</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee58c042-b04f-410d-821b-d3d5a6ed2533</testCaseGuid>
+</TestCaseEntity>

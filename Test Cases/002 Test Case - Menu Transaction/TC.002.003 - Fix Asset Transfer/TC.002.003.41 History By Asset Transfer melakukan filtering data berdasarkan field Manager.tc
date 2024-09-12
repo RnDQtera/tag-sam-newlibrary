@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.41 History By Asset Transfer melakukan filtering data berdasarkan field Manager</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95a7bc05-3a19-4f8a-bdee-5bc10da2f581</testCaseGuid>
+</TestCaseEntity>

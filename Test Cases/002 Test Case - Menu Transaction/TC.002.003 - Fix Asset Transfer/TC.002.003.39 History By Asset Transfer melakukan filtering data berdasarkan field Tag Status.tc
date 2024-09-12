@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.39 History By Asset Transfer melakukan filtering data berdasarkan field Tag Status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70cbb880-3ec7-465d-b4ab-e7dc95a3fe2f</testCaseGuid>
+</TestCaseEntity>

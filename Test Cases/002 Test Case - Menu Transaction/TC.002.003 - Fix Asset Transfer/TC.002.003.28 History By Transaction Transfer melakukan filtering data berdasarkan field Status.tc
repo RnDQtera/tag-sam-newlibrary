@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.28 History By Transaction Transfer melakukan filtering data berdasarkan field Status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0a052fc-f36e-4872-bcad-9e35b1c1f5dc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.12 (Bulk Action) Melakukan action remove from list req transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7115508-2708-4e73-96b7-dcd13582e7b2</testCaseGuid>
+</TestCaseEntity>
