@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.31 History By Transaction Transfer melakukan filtering data berdasarkan field Manager</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>43215fd9-663b-4281-99ee-d1c68a8290d0</testCaseGuid>
+</TestCaseEntity>

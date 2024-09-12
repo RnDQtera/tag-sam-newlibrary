@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.021 - Filter Pre list Borrowing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb7c2b9a-a6cd-4d1b-92ee-af88640c7a5d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.13 (Bulk Action) Melakukan action remove from pre-list</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec46926a-5e3c-4ee3-9f86-c51928d275b4</testCaseGuid>
+</TestCaseEntity>

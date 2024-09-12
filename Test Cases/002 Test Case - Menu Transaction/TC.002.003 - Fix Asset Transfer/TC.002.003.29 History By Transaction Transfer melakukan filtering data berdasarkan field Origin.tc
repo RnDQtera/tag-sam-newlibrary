@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.29 History By Transaction Transfer melakukan filtering data berdasarkan field Origin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d9d8998-130c-4aab-ae1c-762633ecdd38</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.19 - Transfer melakukan filtering data berdasarkan field Status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67947309-c106-4a16-8d8e-aad9d33ee4e2</testCaseGuid>
+</TestCaseEntity>
