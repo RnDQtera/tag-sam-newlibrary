@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.23 - Transfer melakukan filtering berdasarkan field Request Update</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03634810-ca3e-48cd-bbd4-3f641b720527</testCaseGuid>
+</TestCaseEntity>

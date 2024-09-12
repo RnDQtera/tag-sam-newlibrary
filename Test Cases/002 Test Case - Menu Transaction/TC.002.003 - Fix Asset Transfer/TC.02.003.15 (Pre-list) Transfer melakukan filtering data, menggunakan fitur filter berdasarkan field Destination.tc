@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC.02.003.15 (Pre-list) Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field Destination</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>61bfab34-c634-4ef6-ad21-b290bfecd7a5</testCaseGuid>
-</TestCaseEntity>

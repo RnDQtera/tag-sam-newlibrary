@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC.02.003.20 - (Filter) (Transaction) Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field Destination</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>7fb976bb-d067-4056-90de-6ac89b847108</testCaseGuid>
-</TestCaseEntity>

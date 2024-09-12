@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.003.32 History By Transaction Transfer melakukan filtering data berdasarkan field Last Update</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>caad275f-77df-49eb-b045-fa4022bedaf6</testCaseGuid>
+</TestCaseEntity>

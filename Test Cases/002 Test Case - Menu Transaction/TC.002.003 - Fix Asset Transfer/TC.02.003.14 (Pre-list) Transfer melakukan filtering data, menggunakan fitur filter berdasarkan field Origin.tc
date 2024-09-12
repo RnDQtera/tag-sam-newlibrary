@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC.02.003.14 (Pre-list) Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field Origin</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>7e5a4951-3ec9-4d50-985a-b09a7d5b02ea</testCaseGuid>
-</TestCaseEntity>
