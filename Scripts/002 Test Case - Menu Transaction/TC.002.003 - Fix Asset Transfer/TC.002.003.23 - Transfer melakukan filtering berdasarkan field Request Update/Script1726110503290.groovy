@@ -23,19 +23,19 @@ WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.delay(5)
+WebUI.delay(3)
 
 WebUI.setText(findTestObject('00-01 ID'), GlobalVariable.id)
 
 WebUI.setText(findTestObject('00-02 PASS'), GlobalVariable.pass)
 
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('00-04 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(8)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed Asset'))
 

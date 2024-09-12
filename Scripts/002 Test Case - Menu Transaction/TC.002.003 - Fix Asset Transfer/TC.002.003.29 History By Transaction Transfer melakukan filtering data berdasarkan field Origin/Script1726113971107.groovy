@@ -51,6 +51,6 @@ WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Origin By Transac
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.029 -  Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field "Origin".png', 
+WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.029 - History By Transaction Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field "Origin".png', 
     FailureHandling.STOP_ON_FAILURE)
 

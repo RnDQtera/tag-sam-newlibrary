@@ -35,7 +35,7 @@ WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILUR
 
 WebUI.click(findTestObject('00-04 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(8)
+WebUI.delay(5)
 
 WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed Asset'))
 
@@ -45,12 +45,14 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/History Tab'))
 
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Last Update By Transaction'))
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/By Asset'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.032 -  History By Transaction Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field "Last Update".png', 
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Asset Status'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.040 -  History By Asset Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field "Asset Status".png', 
     FailureHandling.STOP_ON_FAILURE)
 
