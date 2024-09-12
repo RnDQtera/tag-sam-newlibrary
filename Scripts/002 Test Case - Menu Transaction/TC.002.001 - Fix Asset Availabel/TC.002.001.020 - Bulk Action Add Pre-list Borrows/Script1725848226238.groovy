@@ -41,13 +41,13 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.027 - Fixed Asset - Bulk Action Add Pre-list Borrows/OBJ.027.001 Checkbox (1)'))
+WebUI.click(findTestObject('OBJ.030 - Fixed Asset - Bulk Action Add Pre-list Borrows/OBJ.030.001 Checkbox (1)'))
 
-WebUI.click(findTestObject('OBJ.027 - Fixed Asset - Bulk Action Add Pre-list Borrows/OBJ.027.002 Button Bulk Action'))
+WebUI.click(findTestObject('OBJ.030 - Fixed Asset - Bulk Action Add Pre-list Borrows/OBJ.030.002 Button Bulk Action'))
 
-WebUI.click(findTestObject('OBJ.027 - Fixed Asset - Bulk Action Add Pre-list Borrows/OBJ.027.003 Bulk Action - Action (2)'))
+WebUI.click(findTestObject('OBJ.030 - Fixed Asset - Bulk Action Add Pre-list Borrows/OBJ.030.003 Bulk Action - Action (2)'))
 
-WebUI.click(findTestObject('OBJ.027 - Fixed Asset - Bulk Action Add Pre-list Borrows/OBJ.027.004 Select User For Borrowing'))
+WebUI.click(findTestObject('OBJ.030 - Fixed Asset - Bulk Action Add Pre-list Borrows/OBJ.030.004 Select User For Borrowing'))
 
 WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.004 Submit Borrowing Pre-List'))
 

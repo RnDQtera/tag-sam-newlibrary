@@ -60,7 +60,7 @@ WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Add Pre-list Borr
 
 WebUI.delay(1, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Borrow Asset Transaction/Bulk Action - Action (4)'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('null'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
 
@@ -105,7 +105,7 @@ WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Add Pre-list Borr
 
 WebUI.delay(1, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Borrow Asset Transaction/Bulk Action - Action (4)'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('null'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
 

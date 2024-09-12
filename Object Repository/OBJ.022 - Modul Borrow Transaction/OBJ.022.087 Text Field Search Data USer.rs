@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Bulk Action - Action (4)</name>
+   <name>OBJ.022.087 Text Field Search Data User</name>
    <tag></tag>
-   <elementGuidId>05eb06bc-9b02-446f-90b4-a80c0ea4f784</elementGuidId>
+   <elementGuidId>55a145cb-84a1-4b29-8f84-82a437929855</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/div[4]/div[1]/div[2]/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[7]/ul/li[4]</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

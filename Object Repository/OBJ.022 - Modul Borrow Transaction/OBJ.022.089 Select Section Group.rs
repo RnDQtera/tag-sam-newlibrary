@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.027.003 Bulk Action - Action (2)</name>
+   <name>OBJ.022.089 Select Section Group</name>
    <tag></tag>
-   <elementGuidId>bfa7f311-c15e-4990-a860-9b962f4e12f2</elementGuidId>
+   <elementGuidId>7dafbefe-fdaa-445c-8a6e-df78cc059f23</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[2]/div/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[7]/ul/li[2]/div/a</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
