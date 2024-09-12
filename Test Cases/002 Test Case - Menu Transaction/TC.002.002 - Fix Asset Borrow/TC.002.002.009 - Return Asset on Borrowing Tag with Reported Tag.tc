@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.009 - Return Asset on Borrowing Tag with Reported Tag</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d24cb33-8024-4b02-8b81-213fc2cee265</testCaseGuid>
+</TestCaseEntity>

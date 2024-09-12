@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.012 - Edit Borrowing Request</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>655fb813-c7a3-456b-85b2-0c50b8f33a4e</testCaseGuid>
+</TestCaseEntity>

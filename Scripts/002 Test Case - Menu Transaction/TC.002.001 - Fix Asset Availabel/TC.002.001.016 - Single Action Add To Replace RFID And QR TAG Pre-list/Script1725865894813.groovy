@@ -17,3 +17,47 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
+
+WebUI.navigateToUrl(GlobalVariable.URL)
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('00-01 ID'), GlobalVariable.id)
+
+WebUI.setText(findTestObject('00-02 PASS'), GlobalVariable.pass)
+
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('00-04 Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.026 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/OBJ.026.001 Button Action'))
+
+WebUI.click(findTestObject('OBJ.026 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/OBJ.026.002 Button Action - Action (5)'))
+
+WebUI.click(findTestObject('OBJ.026 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/OBJ.026.003 Button Continue'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ.026 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/OBJ.026.009 Menu- Device'))
+
+WebUI.click(findTestObject('OBJ.026 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/OBJ.026.007 Button TAG'))
+
+WebUI.click(findTestObject('OBJ.026 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/OBJ.026.010 Replace TAG'))
+
+WebUI.click(findTestObject('OBJ.026 - Fixed Asset - Single Action Add To Replace RFID AND QR TAG Pre-list/OBJ.026.008 Menu Replace RFID And QR TAG'))
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.016 - Single Action Add To Replace RFID And QR TAG Pre-list.png',FailureHandling.STOP_ON_FAILURE)
+

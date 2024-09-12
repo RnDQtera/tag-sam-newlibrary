@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.020 - Set Extension by Bulk Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2d021d7-37e2-4530-b24c-c670526b68fc</testCaseGuid>
+</TestCaseEntity>

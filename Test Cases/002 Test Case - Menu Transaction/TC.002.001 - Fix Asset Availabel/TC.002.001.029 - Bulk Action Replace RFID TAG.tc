@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.001.029 - Bulk Action Replace RFID TAG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9bb61be-d4cc-442d-9be0-d1412ed92262</testCaseGuid>
+</TestCaseEntity>

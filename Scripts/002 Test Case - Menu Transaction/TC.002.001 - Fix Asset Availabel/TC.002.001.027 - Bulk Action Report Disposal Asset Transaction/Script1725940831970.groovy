@@ -42,3 +42,22 @@ WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed
 WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Report Disposal Asset Transaction/Checkbox (3)'))
+
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Add Pre-list Transfer/OBJ.028.002 Button Bulk Action'))
+
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Report Disposal Asset Transaction/Bulk Action - Action (8)'))
+
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Report Disposal Asset Transaction/Button Submit'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('001 Reusable Component/001.009 Reusable - Menu Fixed Asset - Disposal'))
+
+WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Report Disposal Asset Transaction/Menu No Salvage Value'))
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot('Screenshot/010. Register Asset/TC.010.027 - Bulk Action Report Dispposal Asset Transaction.png', FailureHandling.STOP_ON_FAILURE)
+
