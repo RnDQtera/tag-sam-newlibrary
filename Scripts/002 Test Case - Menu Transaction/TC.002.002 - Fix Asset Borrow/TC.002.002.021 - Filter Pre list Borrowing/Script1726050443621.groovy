@@ -60,24 +60,25 @@ import org.openqa.selenium.Keys as Keys
 //
 //WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
 //
-//WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.080 Scan List Asset in available'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('00-10 Select Single Scan RFID'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('001 Reusable Component/001.003 Reusable - Menu Fixed Asset - Available'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.080 Scan List Asset in available'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('00-10 Select Single Scan RFID'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.001 SIngle Action Available Asset'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.002 Add to Pre-List Borrowing'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.003 Select User for Borrowing'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.003 Select User for Borrowing numb 1'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.004 Submit Borrowing Pre-List'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.005 Submit Borrowing Pre-List'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
 
@@ -97,9 +98,9 @@ WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.002 Add to Pre-List Borrowing'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.003 Select User for Borrowing'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.004 Select User for Borrowing Numb 2'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.004 Submit Borrowing Pre-List'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.005 Submit Borrowing Pre-List'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
@@ -109,5 +110,42 @@ WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.085 Butto
 
 WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.086 Select Field User'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.087 Text Field Search Data User'), '')
+WebUI.setText(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.087 Text Field Search Data User'), 'John Doe')
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.088 Check Result Search Data'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(1, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot('Screenshot/011. Modul Borrow/TC.002.002.021 -  Filter Section User.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.089 Select Section Group'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.090 Search Data Filter'), 'Kantor Regional JaTim')
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.091 Check Result Search Data Group'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.092 Submit Select Group'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.093 Apply Filter Prelist'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot('Screenshot/011. Modul Borrow/TC.002.002.021 -  Filter Section Group.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.095 Clear Field Filter Pre-list'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.093 Apply Filter Prelist'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.093 Button Search Borrow Pre-list'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.094 Text Field Button Search Pre-list'), 'Smith Doe')
+
+WebUI.sendKeys(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.094 Text Field Button Search Pre-list'), Keys.chord(
+        Keys.ENTER))
+
+WebUI.takeScreenshot('Screenshot/011. Modul Borrow/TC.002.002.021 -  Search Data Pre-list.png', FailureHandling.STOP_ON_FAILURE)
 

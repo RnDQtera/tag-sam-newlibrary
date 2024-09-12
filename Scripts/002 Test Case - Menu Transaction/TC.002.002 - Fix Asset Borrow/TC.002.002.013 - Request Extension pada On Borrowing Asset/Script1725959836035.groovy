@@ -59,94 +59,95 @@ import org.openqa.selenium.Keys as Keys
 //WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 //
 //WebUI.click(findTestObject('001 Reusable Component/001.001 Reusable - Menu Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('001 Reusable Component/001.004 Reusable - Menu Fixed Asset - Borrow'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.013 Sub Tab Transaction Borrow'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.014 Add Borrow Transaction'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.026 Search by Scan'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('00-15 Select Single Scan RFID - Borrow Transaction'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.020 Select User'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(1, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.021 Button Search Select User'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.setText(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.022 Text Field Select User'), 'Smith Doe')
-//
-//WebUI.sendKeys(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.022 Text Field Select User'), Keys.chord(Keys.ENTER))
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.023 Select User Borrow'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.019 Submit Select and Select user Asset for Borrowing'), 
-//    FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.setText(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.024 Text Field Duration Borrowing'), '1')
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.025 Submit Borrowing Request'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.006 Single Action Sub Tab Transaction'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.007 Action Handover'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.039 Verify Asset for Asset Handover'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('00-15 Select Single Scan RFID - Borrow Transaction'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.sendKeys(findTestObject('00-15 Select Single Scan RFID - Borrow Transaction'), Keys.chord(Keys.ESCAPE))
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.027 Next Page Asset Confirm Handover'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.028 Send Email Asset Confirm Handover'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.navigateToUrl('https://dev-fixedasset-v2.tagsamurai.com/my-asset/task/asset-borrowing', FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.029 Single Action Task Borrow'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.030 Action Confirm Handover'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.032 Select All Asset for Confirmation'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.033 Confirm Asset Handover'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.037 Cancel Asset Verification Handover'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.036 Continue Asset Handover'), FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.navigateToUrl('https://dev-fixedasset-v2.tagsamurai.com/assets/borrow/transaction/handover-asset', FailureHandling.STOP_ON_FAILURE)
-//
-//WebUI.refresh()
-//
-//WebUI.delay(10)
-//
-//WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.038 Confirm Handover'))
-//
-//WebUI.delay(2)
-//
+WebUI.click(findTestObject('001 Reusable Component/001.004 Reusable - Menu Fixed Asset - Borrow'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(5, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.013 Sub Tab Transaction Borrow'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.014 Add Borrow Transaction'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.026 Search by Scan'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('00-15 Select Single Scan RFID - Borrow Transaction'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.020 Select User'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(1, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.021 Button Search Select User'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.022 Text Field Select User'), 'Smith Doe')
+
+WebUI.sendKeys(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.022 Text Field Select User'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.023 Select User Borrow'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.019 Submit Select and Select user Asset for Borrowing'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.024 Text Field Duration Borrowing'), '1')
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.025 Submit Borrowing Request'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.006 Single Action Sub Tab Transaction'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.007 Action Handover'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.039 Verify Asset for Asset Handover'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('00-15 Select Single Scan RFID - Borrow Transaction'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.sendKeys(findTestObject('00-15 Select Single Scan RFID - Borrow Transaction'), Keys.chord(Keys.ESCAPE))
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.027 Next Page Asset Confirm Handover'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.028 Send Email Asset Confirm Handover'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.navigateToUrl('https://dev-fixedasset-v2.tagsamurai.com/my-asset/task/asset-borrowing', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.029 Single Action Task Borrow'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.030 Action Confirm Handover'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.032 Select All Asset for Confirmation'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.033 Confirm Asset Handover'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.037 Cancel Asset Verification Handover'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.036 Continue Asset Handover'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.navigateToUrl('https://dev-fixedasset-v2.tagsamurai.com/assets/borrow/transaction/handover-asset', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.refresh()
+
+WebUI.delay(10)
+
+WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.038 Confirm Handover'))
+
+WebUI.delay(2)
+
 WebUI.click(findTestObject('OBJ.022 - Modul Borrow Transaction/OBJ.022.006 Single Action Sub Tab Transaction'))
 
 WebUI.delay(2)

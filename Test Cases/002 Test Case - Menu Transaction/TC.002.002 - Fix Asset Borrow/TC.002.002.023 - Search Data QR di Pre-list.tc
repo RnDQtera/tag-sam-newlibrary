@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.023 - Search Data QR di Pre-list</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ca30b2c4-bead-4005-a9dd-06af4d4c094d</testCaseGuid>
+</TestCaseEntity>

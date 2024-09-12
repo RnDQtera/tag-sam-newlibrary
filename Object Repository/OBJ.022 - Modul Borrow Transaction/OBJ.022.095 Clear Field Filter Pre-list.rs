@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OBJ.013.003 Select User for Borrowing</name>
+   <name>OBJ.022.095 Clear Field Filter Pre-list</name>
    <tag></tag>
-   <elementGuidId>661e9009-71da-4dd3-b5b4-9aa2f4898422</elementGuidId>
+   <elementGuidId>988f5f75-b206-4b3d-9f55-2d4595a2a70c</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[3]/button[1]</value>
+      </entry>
       <entry>
          <key>BASIC</key>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[7]/div/div[2]/div/div[3]/div[1]/table/tbody/tr[2]</value>
-      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

@@ -49,7 +49,7 @@ WebUI.click(findTestObject('OBJ.030 - Fixed Asset - Bulk Action Add Pre-list Bor
 
 WebUI.click(findTestObject('OBJ.030 - Fixed Asset - Bulk Action Add Pre-list Borrows/OBJ.030.004 Select User For Borrowing'))
 
-WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.004 Submit Borrowing Pre-List'))
+WebUI.click(findTestObject('OBJ.013 - Fixed Asset - Add Prelist Borrow/OBJ.013.005 Submit Borrowing Pre-List'))
 
 WebUI.delay(3)
 

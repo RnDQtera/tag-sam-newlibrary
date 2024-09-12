@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.022 - Search Data RFID di Pre-list</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5583144-e8f4-4d2f-b24a-0182ddad6ef0</testCaseGuid>
+</TestCaseEntity>

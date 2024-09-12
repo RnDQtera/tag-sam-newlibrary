@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.002.025 - Filter on Tab Borrowed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7774ca2e-721f-47d1-91cb-fcd5a31ab24a</testCaseGuid>
+</TestCaseEntity>
