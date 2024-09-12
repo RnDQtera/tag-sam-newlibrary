@@ -47,7 +47,7 @@ WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Borrow Asset Tran
 
 WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Add Pre-list Transfer/OBJ.028.002 Button Bulk Action'))
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Borrow Asset Transaction/Bulk Action - Action (4)'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(2)
 

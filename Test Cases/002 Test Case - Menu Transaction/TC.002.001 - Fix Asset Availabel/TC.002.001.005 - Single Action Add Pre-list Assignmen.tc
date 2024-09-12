@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC.002.001.005 - Single Action Add Pre-list Assignmen</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>3365fda9-86ee-4235-a885-cd748ef98dd3</testCaseGuid>
-</TestCaseEntity>

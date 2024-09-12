@@ -45,7 +45,7 @@ WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Report Disposal Asset Transaction/Checkbox (3)'))
 
-WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Add Pre-list Transfer/OBJ.028.002 Button Bulk Action'))
+WebUI.click(findTestObject('OBJ.030 - Fixed Asset - Bulk Action Add Pre-list Borrows/OBJ.030.002 Button Bulk Action'))
 
 WebUI.click(findTestObject('OBJ.00 - Fixed Asset - Bulk Action Report Disposal Asset Transaction/Bulk Action - Action (8)'))
 
