@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Status By Transaction</name>
+   <name>Origin Kantor Pusat Jakarta - By Transaction</name>
    <tag></tag>
-   <elementGuidId>531604ba-1180-4acc-90c4-7f0568c8c41c</elementGuidId>
+   <elementGuidId>78082786-71eb-4b7f-9fe3-6ced9c1ad26d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[3]/div[1]/table/thead/tr/th[2]/div/span[1]</value>
+         <value>/html/body/div[5]/div[2]/ul/li[1]/span</value>
       </entry>
       <entry>
          <key>BASIC</key>

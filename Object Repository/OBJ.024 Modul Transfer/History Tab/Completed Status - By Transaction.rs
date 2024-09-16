@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Origin By Transaction</name>
+   <name>Completed Status - By Transaction</name>
    <tag></tag>
-   <elementGuidId>b7054158-f021-4f2e-bd79-2a929dc6a2a2</elementGuidId>
+   <elementGuidId>3add8211-9f1b-4925-880f-86b811ea0d80</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[2]/div[2]/div/div/div[2]/div</value>
+         <value>/html/body/div[5]/div[2]/ul/li[1]/span</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -47,10 +47,16 @@ WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/History Tab'))
 
 WebUI.delay(2)
 
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Button Filter By Transaction'))
+
 WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Last Update By Transaction'))
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Tanggal Last Update - By Transaction'))
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Button Apply - By Transaction'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.032 -  History By Transaction Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field "Last Update".png', 
+WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.032 -  History By Transaction Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field Last Update.png', 
     FailureHandling.STOP_ON_FAILURE)
 

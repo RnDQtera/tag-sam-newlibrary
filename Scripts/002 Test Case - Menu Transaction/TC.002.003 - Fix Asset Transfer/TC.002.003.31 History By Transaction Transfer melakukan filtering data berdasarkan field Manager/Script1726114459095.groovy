@@ -47,10 +47,18 @@ WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/History Tab'))
 
 WebUI.delay(2)
 
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Button Filter By Transaction'))
+
 WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Manager By Transaction'))
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/John Doe Manager - By Transaction'))
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Manager By Transaction'))
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Button Apply - By Transaction'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.031 -  History By Transaction Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field "Manager".png', 
+WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.031 -  History By Transaction Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field Manager.png', 
     FailureHandling.STOP_ON_FAILURE)
 
