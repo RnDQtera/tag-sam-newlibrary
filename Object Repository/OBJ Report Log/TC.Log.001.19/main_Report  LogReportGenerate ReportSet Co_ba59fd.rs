@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_Report  LogReportGenerate ReportSet Co_ba59fd</name>
+   <tag></tag>
+   <elementGuidId>151a710b-19d6-4ea0-8905-3e82b598ed49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>main</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-body-content']/main</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>6aad10f9-8e67-4515-8735-704f21ac5fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Report &amp; Log>Report>Generate ReportSet ContentFill in the field below to select content of report that you want to create.Report Name *Report Type *Maintenance Routine ReportListed by *GroupTime Interval *Last 7 daysSelect data that you want to show on the reportDownload ReportGroup *Kantor Pusat JakartaKantor Regional BaliCategory *Furnitur dan AksesoriKendaraanPeralatanAsset Name *Select Asset NameBrand *Select BrandEmail SettingSelect the checkbox below to set up emailSend Email </value>
+      <webElementGuid>8b372013-bcad-4262-a2f1-af49dc447994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-body-content&quot;)/main[1]</value>
+      <webElementGuid>0b561214-5ad6-4b54-bbb5-98885e81577f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-body-content']/main</value>
+      <webElementGuid>3b6b0548-567a-4108-973f-f942b9616fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>1741368f-1198-46c7-9553-06f069bf6a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = 'Report &amp; Log>Report>Generate ReportSet ContentFill in the field below to select content of report that you want to create.Report Name *Report Type *Maintenance Routine ReportListed by *GroupTime Interval *Last 7 daysSelect data that you want to show on the reportDownload ReportGroup *Kantor Pusat JakartaKantor Regional BaliCategory *Furnitur dan AksesoriKendaraanPeralatanAsset Name *Select Asset NameBrand *Select BrandEmail SettingSelect the checkbox below to set up emailSend Email ' or . = 'Report &amp; Log>Report>Generate ReportSet ContentFill in the field below to select content of report that you want to create.Report Name *Report Type *Maintenance Routine ReportListed by *GroupTime Interval *Last 7 daysSelect data that you want to show on the reportDownload ReportGroup *Kantor Pusat JakartaKantor Regional BaliCategory *Furnitur dan AksesoriKendaraanPeralatanAsset Name *Select Asset NameBrand *Select BrandEmail SettingSelect the checkbox below to set up emailSend Email ')]</value>
+      <webElementGuid>f34c5829-0fad-4e31-beec-fc7a12829f63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

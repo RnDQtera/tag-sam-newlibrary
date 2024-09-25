@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>00-04 Modul Fixed Asset</name>
+   <name>Menu Disposal</name>
    <tag></tag>
-   <elementGuidId>92d8854d-16cd-473b-859d-495047111318</elementGuidId>
+   <elementGuidId>a5b07182-fb9f-4d1e-9690-19ae91689c16</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/main/div/div/div/div[2]/div[2]/div[2]/div[1]/button</value>
+         <value>/html/body/div[1]/main/div/div/div/div[2]/div[1]/div/div[10]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>00-04 Modul Fixed Asset</name>
+   <name>Select Content</name>
    <tag></tag>
-   <elementGuidId>92d8854d-16cd-473b-859d-495047111318</elementGuidId>
+   <elementGuidId>59242310-3049-4af0-b6bc-e9f6d103511d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/main/div/div/div/div[2]/div[2]/div[2]/div[1]/button</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/form/div[1]/div[1]/div[3]/div/div/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

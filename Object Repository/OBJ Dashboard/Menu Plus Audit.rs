@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>00-04 Modul Fixed Asset</name>
+   <name>Menu Plus Audit</name>
    <tag></tag>
-   <elementGuidId>92d8854d-16cd-473b-859d-495047111318</elementGuidId>
+   <elementGuidId>5cd1c414-1a7d-4c5d-98c3-9924c947970b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/main/div/div/div/div[2]/div[2]/div[2]/div[1]/button</value>
+         <value>/html/body/div[1]/main/div/div/div/div[2]/div[1]/div/div[4]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

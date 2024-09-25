@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>00-04 Modul Fixed Asset</name>
+   <name>Kantor Pusat Jakarta</name>
    <tag></tag>
-   <elementGuidId>92d8854d-16cd-473b-859d-495047111318</elementGuidId>
+   <elementGuidId>f1480a28-d7da-4477-9d90-c86de50f5093</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/main/div/div/div/div[2]/div[2]/div[2]/div[1]/button</value>
+         <value>/html/body/div[5]/div/div[2]/div/div/ul/li/ul/li[1]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

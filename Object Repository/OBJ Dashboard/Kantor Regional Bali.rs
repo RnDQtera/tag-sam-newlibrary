@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>00-04 Modul Fixed Asset</name>
+   <name>Kantor Regional Bali</name>
    <tag></tag>
-   <elementGuidId>92d8854d-16cd-473b-859d-495047111318</elementGuidId>
+   <elementGuidId>da9672a6-53d5-4fe1-92d5-4e9aa1ce66ca</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/main/div/div/div/div[2]/div[2]/div[2]/div[1]/button</value>
+         <value>/html/body/div[5]/div/div[2]/div/div/ul/li/ul/li[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
