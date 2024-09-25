@@ -49,10 +49,18 @@ WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/By Asset'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Origin By Asset'))
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Button Filter By Asset'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.037 -  History By Asset Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field "Origin".png', 
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Origin By Asset'))
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Origin Kantor Bali By Asset'))
+
+WebUI.click(findTestObject('OBJ.024 Modul Transfer/History Tab/Button Apply - By Asset'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/012. Asset Transfer/TC.012.037 -  History By Asset Transfer melakukan filtering data, menggunakan fitur filter berdasarkan field Origin.png', 
     FailureHandling.STOP_ON_FAILURE)
 

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_History_mx-0 text-base icon ic-filter-lin_324d4a</name>
+   <tag></tag>
+   <elementGuidId>5950dc2f-ce85-4a24-bf3b-01660e5c6dfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-device-tag-reported']/div/div[2]/div/div/div[2]/div/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.mx-0.text-base.icon.ic-filter-line.text-inherit.cursor-pointer.mx-0.text-base</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.flex > div > div:nth-child(2) > div > button:nth-child(2) >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>60d74284-e7dd-4201-aab7-e8b91fb45e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-0 text-base icon ic-filter-line text-inherit cursor-pointer mx-0 text-base</value>
+      <webElementGuid>19791303-34e8-4a48-b681-b89e0a1e5d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-device-tag-reported&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;rounded-lg bg-surface-0 dark:!bg-grayscale-900 text-general-800 dark:text-general-800&quot;]/div[@class=&quot;flex flex-col gap-3 p-6&quot;]/div[@class=&quot;flex flex-col gap-3 text-general-800 dark:text-general-100&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;flex justify-end gap-1&quot;]/button[@class=&quot;relative items-center justify-center inline-flex text-center text-xs h-[26px] w-max min-w-[26px] w-[26px] p-0 ring-inset shadow-sm rounded bg-transparent text-general-500 dark:text-white ring-1 ring-general-500 dark:ring-white hover:bg-surface-300/20 transition duration-200 ease-in-out cursor-pointer overflow-hidden select-none&quot;]/i[@class=&quot;mx-0 text-base icon ic-filter-line text-inherit cursor-pointer mx-0 text-base&quot;]</value>
+      <webElementGuid>8409e881-617e-46b4-aff7-2bf4d5bc8a51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-device-tag-reported']/div/div[2]/div/div/div[2]/div/button[2]/i</value>
+      <webElementGuid>df879db8-7d1f-421d-850a-08b1e2a0985d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/button[2]/i</value>
+      <webElementGuid>65c2d095-51bd-46d4-98c1-e7f18675a7ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

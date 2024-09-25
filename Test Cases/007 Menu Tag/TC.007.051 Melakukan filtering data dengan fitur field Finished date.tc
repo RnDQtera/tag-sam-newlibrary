@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.051 Melakukan filtering data dengan fitur field Finished date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f6720b7-5df7-46ed-9eea-c8cf0cff95c6</testCaseGuid>
+</TestCaseEntity>

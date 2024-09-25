@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.13 User mendownload list data changelog Audit Addon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17a9d143-12a9-446b-9c11-3a27b35c05dd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Modules_module-shadow w-110px h-110p_8ab1f7</name>
+   <tag></tag>
+   <elementGuidId>8aa67631-67e8-4026-8f2a-35451b813d60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-modules']/div/div/div[2]/div[2]/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^ModulesFixed Asset$/ >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>80af8e12-9222-4140-b749-913595af6694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>module-shadow w-[110px] h-[110px] flex items-center justify-center rounded-lg bg-primary-50</value>
+      <webElementGuid>c8414ea2-5e72-450e-bdbd-85463cf72470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-modules&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;h-screen w-full flex flex-col bg-[#f7f7fc]&quot;]/div[@class=&quot;py-3 px-6 h-full flex flex-col items-stretch&quot;]/div[@class=&quot;mt-2 flex flex-col justify-start items-center gap-6 py-6 bg-white h-full rounded-lg&quot;]/div[@class=&quot;grid grid-cols-1 gap-12&quot;]/div[1]/button[@class=&quot;module-shadow w-[110px] h-[110px] flex items-center justify-center rounded-lg bg-primary-50&quot;]</value>
+      <webElementGuid>84e56569-f655-4d20-82d7-01f737ddbf52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-modules']/div/div/div[2]/div[2]/div[2]/div/button</value>
+      <webElementGuid>1439e271-e732-4e0a-86f1-1765d3047aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modules'])[1]/following::button[1]</value>
+      <webElementGuid>26ffe37f-b42f-4cf7-8861-93565d333769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT 10'])[1]/following::button[1]</value>
+      <webElementGuid>66560198-7ce5-449e-a113-3198a983f670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fixed Asset'])[1]/preceding::button[1]</value>
+      <webElementGuid>cad617c1-2d04-4a9f-8c05-97d5da714d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>380976b2-1bc8-495b-9f51-d83177537e15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

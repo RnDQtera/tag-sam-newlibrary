@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Menu_w-4 h-4 darktext-white text-black ic_0aa262</name>
+   <tag></tag>
+   <elementGuidId>6863d5a6-e02f-450d-9de3-8c3eac6bf028</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-left-app']/div[2]/div/ul/li/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;Fixed Asset&quot;i] >> button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8d23cf65-d06e-4f2f-9d6c-aa42a648f016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-4 h-4 dark:text-white text-black icon ic-arrow-down text-inherit cursor-pointer w-4 h-4 dark:text-white text-black</value>
+      <webElementGuid>f3c361f4-3cc2-41d4-9f9b-8a660b8a89db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ts-section</name>
+      <type>Main</type>
+      <value>togglericon</value>
+      <webElementGuid>a90e3270-57ef-448a-a2b0-6918e10b5f3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-left-app&quot;)/div[@class=&quot;relative pb-3 rounded-md&quot;]/div[@class=&quot;overflow-auto&quot;]/ul[@class=&quot;grid m-0 p-0 gap-1 list-none overflow-auto&quot;]/li[@class=&quot;rounded-md grid gap-0.5 focus:outline-none focus:outline-offset-0&quot;]/div[@class=&quot;flex items-center relative rounded-md px-[8px] py-[5px] gap-[6px] hover:bg-general-50 inactive group transition-shadow duration-200 select-none cursor-pointer&quot;]/button[@class=&quot;inline-flex items-center justify-center absolute right-[5px] shrink-0 border-0 rounded-full w-4 h-4 text-general-800 dark:text-general-800 bg-transparent transition duration-200 cursor-pointer select-none&quot;]/i[@class=&quot;w-4 h-4 dark:text-white text-black icon ic-arrow-down text-inherit cursor-pointer w-4 h-4 dark:text-white text-black&quot;]</value>
+      <webElementGuid>f9660ed8-0cd4-4008-a01a-573ee898dfce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-left-app']/div[2]/div/ul/li/div/button/i</value>
+      <webElementGuid>39eb6ab9-4669-41ef-bb70-cfd8784475c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/button/i</value>
+      <webElementGuid>ef33c5d5-0bb6-4ccd-8e7a-7ecb628695b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

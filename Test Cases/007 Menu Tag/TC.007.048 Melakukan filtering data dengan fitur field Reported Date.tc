@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.048 Melakukan filtering data dengan fitur field Reported Date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4f338949-c44e-4e5a-894f-636ebdfdb79d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log in with PasswordSign in and start m_dd3d8d</name>
+   <tag></tag>
+   <elementGuidId>b290d5d9-7300-4318-aa32-49d918823f66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-auth']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.h-full >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d610c2d-dd53-44b6-9bbd-39edafa943b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-full flex flex-col gap-6 py-[47.5px] px-6 bg-white</value>
+      <webElementGuid>135c78a0-039e-4fda-81c6-64982a43220d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in with PasswordSign in and start managing your asset Email *Password *Enter a passwordPlease input all required field!Log inForgot PasswordLog in with OTP The Simplest Way to Manage Your Asset Privacy PolicyLicense Agreement</value>
+      <webElementGuid>77fc653c-f740-4a60-b53b-013ad0e8d952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-auth&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;h-screen p-6 bg-primary-50&quot;]/div[@class=&quot;h-full flex flex-col gap-6 py-[47.5px] px-6 bg-white&quot;]</value>
+      <webElementGuid>c1bfe289-bb10-499f-ba8e-d8b23085fbbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-auth']/div/div/div</value>
+      <webElementGuid>b5ffe7b0-3055-4678-a3d2-3725058b0895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>e572fded-f538-4e5e-a4ae-cee0b6a46fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log in with PasswordSign in and start managing your asset Email *Password *Enter a passwordPlease input all required field!Log inForgot PasswordLog in with OTP The Simplest Way to Manage Your Asset Privacy PolicyLicense Agreement' or . = 'Log in with PasswordSign in and start managing your asset Email *Password *Enter a passwordPlease input all required field!Log inForgot PasswordLog in with OTP The Simplest Way to Manage Your Asset Privacy PolicyLicense Agreement')]</value>
+      <webElementGuid>1d6a96ea-bf09-4faa-b8dc-2a984b09983b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

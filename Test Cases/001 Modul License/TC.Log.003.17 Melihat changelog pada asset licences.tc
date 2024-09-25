@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.17 Melihat changelog pada asset licences</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1156f92b-a28f-4a9a-8176-b7a58d23faa1</testCaseGuid>
+</TestCaseEntity>

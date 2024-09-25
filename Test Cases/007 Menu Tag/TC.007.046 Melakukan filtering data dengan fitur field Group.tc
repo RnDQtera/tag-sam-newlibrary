@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.046 Melakukan filtering data dengan fitur field Group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>faa42e08-24e1-4f22-aa4c-75b972822881</testCaseGuid>
+</TestCaseEntity>

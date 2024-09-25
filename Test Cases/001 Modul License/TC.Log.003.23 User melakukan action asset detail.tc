@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.23 User melakukan action asset detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>76a1e789-6451-4d7f-b4aa-fbf883bae69f</testCaseGuid>
+</TestCaseEntity>

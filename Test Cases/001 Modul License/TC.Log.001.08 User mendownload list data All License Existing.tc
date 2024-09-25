@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.001.08 User mendownload list data All License Existing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f39e63ed-1357-4e07-8f25-3d0ad4b02ef7</testCaseGuid>
+</TestCaseEntity>

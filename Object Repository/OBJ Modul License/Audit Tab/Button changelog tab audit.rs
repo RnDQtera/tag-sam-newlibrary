@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button changelog tab audit</name>
+   <tag></tag>
+   <elementGuidId>77cc0b71-7c05-4207-a144-59eed4ccc2f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mx-0.text-base.icon.ic-file-lines.text-inherit.cursor-pointer.mx-0.text-base</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-license']/div/div[2]/div/div/div[4]/div[2]/div/button[4]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > .flex > button:nth-child(4)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8c9b9ce1-0005-4f20-af30-6c1d9fc7823a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-0 text-base icon ic-file-lines text-inherit cursor-pointer mx-0 text-base</value>
+      <webElementGuid>5b7f6448-b226-4175-9906-2cb368d58119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-license&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;rounded-lg bg-surface-0 dark:!bg-grayscale-900 text-general-800 dark:text-general-800&quot;]/div[@class=&quot;flex flex-col gap-3 p-6&quot;]/div[@class=&quot;flex flex-col gap-3 text-general-800 dark:text-general-100&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;flex items-center gap-2&quot;]/div[@class=&quot;flex items-center gap-1&quot;]/button[@class=&quot;relative items-center justify-center inline-flex text-center text-xs h-[26px] w-max min-w-[26px] w-[26px] p-0 ring-inset shadow-sm rounded bg-transparent text-general-500 dark:text-white ring-1 ring-general-500 dark:ring-white hover:bg-surface-300/20 transition duration-200 ease-in-out cursor-pointer overflow-hidden select-none&quot;]/i[@class=&quot;mx-0 text-base icon ic-file-lines text-inherit cursor-pointer mx-0 text-base&quot;]</value>
+      <webElementGuid>df16730f-3e4a-41de-ae31-c51586517248</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-license']/div/div[2]/div/div/div[4]/div[2]/div/button[4]/i</value>
+      <webElementGuid>772e7618-125e-42c8-9595-c58040c23c3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]/i</value>
+      <webElementGuid>a59df186-f5d7-44d6-9953-8f6f817de64c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

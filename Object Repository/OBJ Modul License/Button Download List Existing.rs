@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Download List Existing</name>
+   <tag></tag>
+   <elementGuidId>e9ddc12d-5f37-48c1-b460-8d1b33f4989f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mx-0.text-base.icon.ic-download.text-inherit.cursor-pointer.mx-0.text-base</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[6]/div[2]/button[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > button:nth-child(3)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dd58588b-1cdb-4b15-9092-1c9678274871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-0 text-base icon ic-download text-inherit cursor-pointer mx-0 text-base</value>
+      <webElementGuid>e0b4a3a1-2a68-45ee-b6df-61bdcf59839e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-license&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;rounded-lg bg-surface-0 dark:!bg-grayscale-900 text-general-800 dark:text-general-800&quot;]/div[@class=&quot;flex flex-col gap-3 p-6&quot;]/div[@class=&quot;flex flex-col gap-3 text-general-800 dark:text-general-100&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;flex items-center gap-1&quot;]/button[@class=&quot;relative items-center justify-center inline-flex text-center text-xs h-[26px] w-max min-w-[26px] w-[26px] p-0 ring-inset shadow-sm rounded bg-transparent text-success ring-1 ring-success focus-visible:bg-success-50 hover:bg-success-bg-weak dark:hover:bg-success-900 focus-visible:ring-1 focus-visible:ring-success-600 dark:focus-visible:ring-success-600 transition duration-200 ease-in-out cursor-pointer overflow-hidden select-none&quot;]/i[@class=&quot;mx-0 text-base icon ic-download text-inherit cursor-pointer mx-0 text-base&quot;]</value>
+      <webElementGuid>d033bacb-0a58-41c3-8650-74f8bab8646c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-license']/div/div[2]/div/div/div[6]/div[2]/button[3]/i</value>
+      <webElementGuid>23234f53-a557-4098-8243-e58766caacae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[3]/i</value>
+      <webElementGuid>ede8758f-91a6-491f-9624-c5f3f14b966b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

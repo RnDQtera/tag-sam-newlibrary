@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.002.06 User mendownload list data changelog allocation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d81570d-c01f-4f9f-9490-5c3bd68b8236</testCaseGuid>
+</TestCaseEntity>

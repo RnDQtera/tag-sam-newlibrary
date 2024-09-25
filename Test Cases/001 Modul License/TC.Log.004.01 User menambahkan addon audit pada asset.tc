@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.01 User menambahkan addon audit pada asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>420f4afd-67aa-4933-8112-c21fc7ba094e</testCaseGuid>
+</TestCaseEntity>

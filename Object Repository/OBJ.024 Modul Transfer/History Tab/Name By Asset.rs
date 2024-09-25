@@ -3,11 +3,11 @@
    <description></description>
    <name>Name By Asset</name>
    <tag></tag>
-   <elementGuidId>6c41c5f0-accb-49c8-998f-a594698ed815</elementGuidId>
+   <elementGuidId>b7ccf47a-a2a1-4549-a936-088179e43961</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[3]/div[1]/table/thead/tr/th[2]/div/span[1]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[2]/div[1]/div/div/div[2]/div</value>
       </entry>
       <entry>
          <key>BASIC</key>

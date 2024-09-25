@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.044 Melakukan filtering data dengan fitur field QR Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f98da5e1-a482-4cb3-84b8-646982ff5a69</testCaseGuid>
+</TestCaseEntity>

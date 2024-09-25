@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.005.02 Single Action User menghapus asset dari Maintenance Routine</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b84eb160-29b2-4d73-a20a-9199586ab521</testCaseGuid>
+</TestCaseEntity>

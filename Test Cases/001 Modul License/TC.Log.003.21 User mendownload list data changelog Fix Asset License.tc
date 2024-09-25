@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.21 User mendownload list data changelog Fix Asset License</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6323a124-72fc-4cbc-ba0c-ec5360745edf</testCaseGuid>
+</TestCaseEntity>

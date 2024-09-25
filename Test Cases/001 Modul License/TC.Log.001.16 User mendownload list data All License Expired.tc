@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.001.16 User mendownload list data All License Expired</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b793bf97-1b66-4a1c-9732-2ca566f28d81</testCaseGuid>
+</TestCaseEntity>

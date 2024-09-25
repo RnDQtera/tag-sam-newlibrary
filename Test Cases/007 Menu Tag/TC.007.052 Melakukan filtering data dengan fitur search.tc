@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.052 Melakukan filtering data dengan fitur search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58cc59d1-105c-4ef8-8d48-58f90830f91d</testCaseGuid>
+</TestCaseEntity>

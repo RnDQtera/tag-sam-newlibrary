@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.049 Melakukan filtering data dengan fitur field Reported By</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d21eaa9-6450-4c12-8b4b-30605456e442</testCaseGuid>
+</TestCaseEntity>

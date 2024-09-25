@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.005.03 Bulk Action User menghapus asset dari Maintenance Routine</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6547b04e-b733-4c9e-ab3b-6c0f045c6a99</testCaseGuid>
+</TestCaseEntity>

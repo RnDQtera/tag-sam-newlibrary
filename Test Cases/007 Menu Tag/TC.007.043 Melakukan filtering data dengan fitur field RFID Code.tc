@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.043 Melakukan filtering data dengan fitur field RFID Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0df3269a-a59f-4c9d-a1b3-d55b8c9188b1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select TAG</name>
+   <tag></tag>
+   <elementGuidId>78f728a3-8437-4195-b9a0-e4de1f6bbf48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-device-tag-reported']/div/div[2]/div/div/div[2]/div[2]/div[5]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Select TAG$/ >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>57801b8d-1ca5-412d-a4a6-94e2163b413f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>overflow-hidden flex flex-auto items-center cursor-pointer py-[3px] px-3 pr-0</value>
+      <webElementGuid>e307d2bf-1feb-413c-9729-68db46b70eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>labelcontainer</value>
+      <webElementGuid>7959796a-23dd-4bb7-bd40-e05fe0b9e038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select TAG</value>
+      <webElementGuid>e6b06ae8-9c57-439e-8ea4-5eaf031e835e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-device-tag-reported&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;rounded-lg bg-surface-0 dark:!bg-grayscale-900 text-general-800 dark:text-general-800&quot;]/div[@class=&quot;flex flex-col gap-3 p-6&quot;]/div[@class=&quot;flex flex-col gap-3 text-general-800 dark:text-general-100&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;bg-general-50 dark:bg-grayscale-800 rounded-lg [&amp;>*]:w-full [&amp;>*]min-w-0 grid items-end grid-cols-4 p-3 gap-y-4 gap-x-3&quot;]/div[@class=&quot;flex flex-col items-start justify-start relative gap-1 w-full shrink-0 overflow-hidden&quot;]/div[@class=&quot;[&amp;_.inputgroupaddon]:ring-general-200 [&amp;_.inputgroupaddon]:dark:ring-general-200 [&amp;:has(:focus)]:ring-primary-500 [&amp;:has(:focus)_.inputgroupaddon]:ring-primary-500 ring-[0.5px] [&amp;_.inputgroupaddon]:ring-[0.5px] [&amp;:has(input)]:cursor-text h-[26px] flex items-stretch w-full ring-inset ring-general-200 dark:ring-grayscale-600 rounded bg-white dark:bg-grayscale-900&quot;]/div[@class=&quot;inline-flex relative w-full cursor-default select-none&quot;]/div[@class=&quot;overflow-hidden flex flex-auto items-center cursor-pointer py-[3px] px-3 pr-0&quot;]</value>
+      <webElementGuid>4fc4857c-bf8a-4edd-990c-fdaced70698a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-device-tag-reported']/div/div[2]/div/div/div[2]/div[2]/div[5]/div/div/div[2]</value>
+      <webElementGuid>03c74d19-d4f7-4638-aa6d-49686c9285ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reported TAG'])[1]/following::div[4]</value>
+      <webElementGuid>e1adc517-8388-413b-af70-47d0038e41d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reported date'])[1]/preceding::div[3]</value>
+      <webElementGuid>2f722295-5c04-4294-86bd-981cdc9c4148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]</value>
+      <webElementGuid>ae985ab4-63fa-4fb0-83c4-0a1f43b02de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select TAG' or . = 'Select TAG')]</value>
+      <webElementGuid>eb0d46cc-ab74-4b66-a39a-3b9db588ea07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

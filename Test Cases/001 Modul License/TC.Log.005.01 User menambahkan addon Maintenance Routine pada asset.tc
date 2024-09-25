@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.005.01 User menambahkan addon Maintenance Routine pada asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31e289e0-188d-472a-9710-3aa75a8a67aa</testCaseGuid>
+</TestCaseEntity>

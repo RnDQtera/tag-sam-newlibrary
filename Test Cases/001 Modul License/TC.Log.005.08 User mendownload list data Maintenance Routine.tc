@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.005.08 User mendownload list data Maintenance Routine</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2648612b-d638-4bc6-a607-7f44c2855b7d</testCaseGuid>
+</TestCaseEntity>

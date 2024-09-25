@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Modules_module-shadow w-110px h-110px f_1c4ea5</name>
+   <tag></tag>
+   <elementGuidId>0ec55d04-28c5-4f32-898c-8ef78e4483c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-modules']/div/div/div[2]/div[2]/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Fixed Asset&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>41369e8e-530b-4b3d-a2d3-e4b8d97fedaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>module-shadow w-[110px] h-[110px] flex items-center justify-center rounded-lg bg-primary-50</value>
+      <webElementGuid>2a429cf9-f2aa-4361-b035-040ec8d70cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-modules&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;h-screen w-full flex flex-col bg-[#f7f7fc]&quot;]/div[@class=&quot;py-3 px-6 h-full flex flex-col items-stretch&quot;]/div[@class=&quot;mt-2 flex flex-col justify-start items-center gap-6 py-6 bg-white h-full rounded-lg&quot;]/div[@class=&quot;grid grid-cols-1 gap-12&quot;]/a[1]/div[@class=&quot;module-shadow w-[110px] h-[110px] flex items-center justify-center rounded-lg bg-primary-50&quot;]</value>
+      <webElementGuid>24f87a39-f29a-4197-83f8-95c3f304cd87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-modules']/div/div/div[2]/div[2]/div[2]/a/div</value>
+      <webElementGuid>70e8942d-5846-41c0-8e75-20f69f633acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modules'])[1]/following::div[2]</value>
+      <webElementGuid>53fc75e4-39f4-4ec2-95d8-21ca995b3efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT 10'])[1]/following::div[4]</value>
+      <webElementGuid>87e5b7fc-9a43-42e0-a83e-51e5fbe7c23f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fixed Asset'])[1]/preceding::div[1]</value>
+      <webElementGuid>b16df1fc-5b09-4ce4-be91-5821920dc9db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>c0e001c0-60c4-478f-b480-94c84dbaf453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

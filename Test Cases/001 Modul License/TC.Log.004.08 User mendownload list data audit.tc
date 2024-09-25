@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.08 User mendownload list data audit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2662bf4-11eb-4f85-a2a5-71a2c59f7be9</testCaseGuid>
+</TestCaseEntity>
