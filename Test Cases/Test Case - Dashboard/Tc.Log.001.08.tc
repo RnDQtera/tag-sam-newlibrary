@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.001.001 Create New Group</name>
+   <name>Tc.Log.001.08</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>2b0b38a7-02e2-4cfa-974b-2b754806e4c4</testCaseGuid>
+   <testCaseGuid>feab3b38-128f-4ecf-88b5-c24e19ee61d4</testCaseGuid>
 </TestCaseEntity>
