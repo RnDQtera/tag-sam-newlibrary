@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.12 Melakukan Filtering dengan Field Repair Ticketing License</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a915ad3c-a577-46d2-b576-9879694d0b6e</testCaseGuid>
+</TestCaseEntity>

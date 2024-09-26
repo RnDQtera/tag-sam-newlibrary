@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.10 Melakukan Filtering dengan field Audit License</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb3e5715-fc1c-4816-b8d8-b917abf742e5</testCaseGuid>
+</TestCaseEntity>

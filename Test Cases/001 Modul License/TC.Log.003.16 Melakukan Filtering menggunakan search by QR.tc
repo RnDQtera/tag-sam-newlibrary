@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.16 Melakukan Filtering menggunakan search by QR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8d5e60b-aa8e-4687-9805-e97abb87ddf6</testCaseGuid>
+</TestCaseEntity>

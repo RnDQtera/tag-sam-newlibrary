@@ -39,24 +39,26 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('OBJ Dashboard/Button Next Summary'))
 
+WebUI.click(findTestObject('OBJ Dashboard/Button Next Summary'))
+
+WebUI.click(findTestObject('OBJ Dashboard/Button Next Summary'))
+
+WebUI.click(findTestObject('OBJ Dashboard/Button Next Summary'))
+
+WebUI.click(findTestObject('OBJ Dashboard/Button Next Summary'))
+
+WebUI.click(findTestObject('OBJ Dashboard/Button Next Summary'))
+
+WebUI.click(findTestObject('OBJ Dashboard/Button Next Summary'))
+
 WebUI.click(findTestObject('OBJ Dashboard/Button Select Group'))
 
 WebUI.click(findTestObject('OBJ Dashboard/Summary - Group - Kantor Pusat Jakarta'))
 
 WebUI.click(findTestObject('OBJ Dashboard/Button Select'))
 
-WebUI.click(findTestObject('OBJ Dashboard/Dropdown Select Time Interval'))
-
-WebUI.click(findTestObject('OBJ Dashboard/Select Time Interval - Custom Date'))
-
-WebUI.click(findTestObject('OBJ Dashboard/Date 1 September'))
-
-WebUI.click(findTestObject('OBJ Dashboard/Date 26 September'))
-
-WebUI.click(findTestObject('OBJ Dashboard/Button apply custom date'))
-
 WebUI.delay(1)
 
-WebUI.takeScreenshot('Screenshot/Dashboard/TC.001.26 - User menampilkan data user summary sesuai dengan group dan time interval (Custom Date).png', 
+WebUI.takeScreenshot('Screenshot/Dashboard/TC.001.32 - User menampilkan data Purchase summary (admin) sesuai dengan group.png', 
     FailureHandling.STOP_ON_FAILURE)
 

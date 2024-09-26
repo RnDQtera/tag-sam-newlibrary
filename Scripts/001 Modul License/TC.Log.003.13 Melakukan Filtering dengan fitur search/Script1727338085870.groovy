@@ -19,43 +19,40 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://dev-fixedasset-v2.tagsamurai.com/')
+WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
-WebUI.maximizeWindow()
+WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/button_Log in with OTP'))
+WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/OBJ Modul License/input__ts-inputtext max-h-42px flex py-1 px_15dae7'), 
-    'user10@mailnesia.com')
+WebUI.setText(findTestObject('00-01 ID'), GlobalVariable.id)
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/button_Request OTP'))
+WebUI.setText(findTestObject('00-02 PASS'), GlobalVariable.pass)
 
-WebUI.setText(findTestObject('Object Repository/OBJ Modul License/input_Re-Send OTP_leading-none font-medium _39674b'), 
-    '')
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(10)
+WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/button_Verify and Log in'))
+WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/i_Modules_text-78.82px text-primary-500 ico_505ec3'))
+WebUI.delay(5)
 
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/div_License'))
-
-WebUI.delay(2)
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Menu Licenses'))
 
 WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Tab Asset'))
 
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Grup Kantor Pusat Jakarta (1)'))
+
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Show child group data'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button Search'))
 
-WebUI.delay(3)
+WebUI.sendKeys(findTestObject('OBJ Modul License/Asset Tab/Field Button Search'), 'mobil')
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button Action detail'))
+WebUI.sendKeys(findTestObject('OBJ Modul License/Asset Tab/Field Button Search'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button asset detail'))
+WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/015. License/TC.003.23 - User melakukan action asset detail.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/015. License/TC.003.13 - Melakukan filtering Dengan Fitur Search.png',
+	FailureHandling.STOP_ON_FAILURE)
 

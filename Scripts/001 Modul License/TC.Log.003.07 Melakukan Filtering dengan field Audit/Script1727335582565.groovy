@@ -37,26 +37,28 @@ WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.S
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Dashboard/Button Next Summary'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Menu Licenses'))
 
-WebUI.click(findTestObject('OBJ Dashboard/Button Select Group'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Tab Asset'))
 
-WebUI.click(findTestObject('OBJ Dashboard/Summary - Group - Kantor Pusat Jakarta'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Grup Kantor Pusat Jakarta (1)'))
 
-WebUI.click(findTestObject('OBJ Dashboard/Button Select'))
+WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Dashboard/Dropdown Select Time Interval'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button Filter'))
 
-WebUI.click(findTestObject('OBJ Dashboard/Select Time Interval - Custom Date'))
+WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Dashboard/Date 1 September'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Dropdown Field Audit'))
 
-WebUI.click(findTestObject('OBJ Dashboard/Date 26 September'))
+WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Dashboard/Button apply custom date'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Field 1'))
 
-WebUI.delay(1)
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button Apply'))
 
-WebUI.takeScreenshot('Screenshot/Dashboard/TC.001.26 - User menampilkan data user summary sesuai dengan group dan time interval (Custom Date).png', 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/015. License/TC.003.07 - Melakukan filter Menampilkan Data Sesuai Field Audit.png', FailureHandling.STOP_ON_FAILURE)
+
 

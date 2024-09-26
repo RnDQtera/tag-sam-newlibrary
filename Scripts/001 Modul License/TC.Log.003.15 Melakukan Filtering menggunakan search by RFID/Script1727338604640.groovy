@@ -21,7 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
+WebUI.navigateToUrl('https://localhost:9001')
+
+WebUI.click(findTestObject('00-05 Advance Localhost9001'))
+
+WebUI.click(findTestObject('00-06 Proceed to Localhost'))
+
+WebUI.delay(2)
+
+WebUI.navigateToUrl('https://localhost:9002')
+
+WebUI.delay(2)
+
 WebUI.navigateToUrl(GlobalVariable.URL)
+
+WebUI.delay(5)
 
 WebUI.delay(5)
 
@@ -37,26 +51,28 @@ WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.S
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Dashboard/Button Next Summary'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Menu Licenses'))
 
-WebUI.click(findTestObject('OBJ Dashboard/Button Select Group'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Tab Asset'))
 
-WebUI.click(findTestObject('OBJ Dashboard/Summary - Group - Kantor Pusat Jakarta'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Grup Kantor Pusat Jakarta (1)'))
 
-WebUI.click(findTestObject('OBJ Dashboard/Button Select'))
+WebUI.click(findTestObject('00-07 Sync'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ Dashboard/Dropdown Select Time Interval'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button sync'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ Dashboard/Select Time Interval - Custom Date'))
+WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ Dashboard/Date 1 September'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Close sync'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ Dashboard/Date 26 September'))
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ Dashboard/Button apply custom date'))
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button Search By Scan'))
 
-WebUI.delay(1)
+WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Scan RFID'))
 
-WebUI.takeScreenshot('Screenshot/Dashboard/TC.001.26 - User menampilkan data user summary sesuai dengan group dan time interval (Custom Date).png', 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(8)
+
+WebUI.takeScreenshot('Screenshot/015. License/TC.003.15 - Melakukan filtering Menggunakan  Search By RFID.png',
+	FailureHandling.STOP_ON_FAILURE)
 

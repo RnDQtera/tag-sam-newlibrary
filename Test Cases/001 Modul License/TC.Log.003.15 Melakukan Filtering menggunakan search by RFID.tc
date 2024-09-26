@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.15 Melakukan Filtering menggunakan search by RFID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b380f3d3-5199-4f58-a947-dcba21531937</testCaseGuid>
+</TestCaseEntity>

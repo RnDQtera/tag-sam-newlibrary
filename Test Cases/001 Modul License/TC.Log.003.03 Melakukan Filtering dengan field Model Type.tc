@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.03 Melakukan Filtering dengan field Model Type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf6229be-4426-4b1e-882c-f014e5ff7452</testCaseGuid>
+</TestCaseEntity>
