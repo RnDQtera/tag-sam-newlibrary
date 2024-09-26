@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Kantor Regional Bali</name>
+   <name>Summary - Group - Kantor Pusat Jakarta</name>
    <tag></tag>
-   <elementGuidId>da9672a6-53d5-4fe1-92d5-4e9aa1ce66ca</elementGuidId>
+   <elementGuidId>272625eb-d5ac-4b1f-bb28-a08921fdc4b9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[5]/div/div[2]/div/div/ul/li/ul/li[2]/div</value>
+         <value>/html/body/div[5]/div/div[2]/div/div/ul/li/ul/li[1]/div</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
