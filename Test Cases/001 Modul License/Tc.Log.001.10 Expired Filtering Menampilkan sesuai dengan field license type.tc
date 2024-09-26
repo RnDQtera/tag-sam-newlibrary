@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.10 Expired Filtering Menampilkan sesuai dengan field license type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61798f6b-1d4f-4aed-88fc-9b997d64e70f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.11 Expired Filtering Menampilkan sesuai dengan field purchase type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf4f15da-d91c-422e-a3bf-d193aaf89805</testCaseGuid>
+</TestCaseEntity>
