@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.002.01 All Melihat changelog pada allocation all license</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c83bd27-b536-4011-9065-751e08840629</testCaseGuid>
+</TestCaseEntity>

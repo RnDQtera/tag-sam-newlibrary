@@ -23,41 +23,41 @@ WebUI.navigateToUrl('https://dev-fixedasset-v2.tagsamurai.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/Audit Tab/button_Log in with OTP'))
+WebUI.click(findTestObject('Object Repository/OBJ Modul License/Tab Audit/button_Log in with OTP'))
 
-WebUI.setText(findTestObject('Object Repository/OBJ Modul License/Audit Tab/input__ts-inputtext max-h-42px flex py-1 px_15dae7'), 
+WebUI.setText(findTestObject('Object Repository/OBJ Modul License/Tab Audit/input__ts-inputtext max-h-42px flex py-1 px_15dae7'), 
     'user10@mailnesia.com')
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/Audit Tab/button_Request OTP'))
+WebUI.click(findTestObject('Object Repository/OBJ Modul License/Tab Audit/button_Request OTP'))
 
-WebUI.setText(findTestObject('Object Repository/OBJ Modul License/Audit Tab/input_Re-Send OTP_leading-none font-medium _39674b'), 
+WebUI.setText(findTestObject('Object Repository/OBJ Modul License/Tab Audit/input_Re-Send OTP_leading-none font-medium _39674b'), 
     '')
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/Audit Tab/button_Verify and Log in'))
+WebUI.click(findTestObject('Object Repository/OBJ Modul License/Tab Audit/button_Verify and Log in'))
 
 WebUI.delay(5)
 
 WebUI.click(findTestObject('OBJ Modul License/i_Modules_text-78.82px text-primary-500 ico_505ec3'))
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/Audit Tab/div_License'))
+WebUI.click(findTestObject('Object Repository/OBJ Modul License/Tab Audit/div_License'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/Audit Tab/Tab Audit'))
+WebUI.click(findTestObject('Object Repository/OBJ Modul License/Tab Audit/Tab Audit'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Modul License/Audit Tab/Changelog/Button changelog tab audit'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Audit/Changelog/Button changelog tab audit'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ Modul License/Audit Tab/Changelog/Button filter'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Audit/Changelog/Button filter'))
 
-WebUI.click(findTestObject('OBJ Modul License/Audit Tab/Changelog/Button select action'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Audit/Changelog/Button select action'))
 
-WebUI.click(findTestObject('OBJ Modul License/Audit Tab/Changelog/Select action'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Audit/Changelog/Select action'))
 
-WebUI.click(findTestObject('OBJ Modul License/Audit Tab/Changelog/Button apply'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Audit/Changelog/Button apply'))
 
 WebUI.delay(7)
 

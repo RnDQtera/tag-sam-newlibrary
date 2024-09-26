@@ -43,11 +43,11 @@ WebUI.click(findTestObject('Object Repository/OBJ Modul License/div_License'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Allocation Tab/Tab Allocation'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Allocation/Tab Allocation'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Allocation Tab/Button Download Allocation'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Allocation/Button Download Allocation'))
 
 WebUI.delay(8)
 

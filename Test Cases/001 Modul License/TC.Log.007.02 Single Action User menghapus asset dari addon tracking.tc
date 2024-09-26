@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.007.02 Single Action User menghapus asset dari addon tracking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9254f297-a4d5-47ee-92f5-fc461e24da5d</testCaseGuid>
+</TestCaseEntity>

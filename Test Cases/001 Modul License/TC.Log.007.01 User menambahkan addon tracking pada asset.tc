@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.007.01 User menambahkan addon tracking pada asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7ad2b7d-c82a-40a8-b71d-b8ce09dd50ff</testCaseGuid>
+</TestCaseEntity>

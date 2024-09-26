@@ -43,11 +43,11 @@ WebUI.click(findTestObject('Object Repository/OBJ Modul License/div_License'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Maintenance Tab/Maintenance Tab'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Maintenance/Maintenance Tab'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Maintenance Tab/Button download list tab maintenance'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Maintenance/Button download list tab maintenance'))
 
 WebUI.delay(8)
 

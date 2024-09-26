@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.006.11 Melakukan filtering data menggunakan fitur field Modify By</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a99aa1db-6cdf-4bcb-9bdf-27a284e82b2f</testCaseGuid>
+</TestCaseEntity>

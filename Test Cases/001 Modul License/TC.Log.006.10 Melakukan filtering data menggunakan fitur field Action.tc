@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.006.10 Melakukan filtering data menggunakan fitur field Action</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b041bf30-b4b0-4c1a-8af2-e2aae4d483b3</testCaseGuid>
+</TestCaseEntity>

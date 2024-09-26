@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.006.14 User menampilkan child group data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a89879d3-1ea8-431f-8f6c-209d714aa0ae</testCaseGuid>
+</TestCaseEntity>

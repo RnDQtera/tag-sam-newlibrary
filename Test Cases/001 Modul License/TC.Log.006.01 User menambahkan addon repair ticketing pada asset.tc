@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.006.01 User menambahkan addon repair ticketing pada asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fda7d880-a7f4-41db-8eac-e23bb9f97663</testCaseGuid>
+</TestCaseEntity>

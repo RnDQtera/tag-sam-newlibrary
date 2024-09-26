@@ -43,15 +43,15 @@ WebUI.click(findTestObject('Object Repository/OBJ Modul License/div_License'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Allocation Tab/Tab Allocation'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Allocation/Tab Allocation'))
 
-WebUI.click(findTestObject('OBJ Modul License/Allocation Tab/Button Changelog Allocation'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Allocation/Button Changelog Allocation'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Allocation Tab/Button Download Changelog Allocation'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Allocation/Button Download Changelog Allocation'))
 
 WebUI.delay(5)
 
-WebUI.takeScreenshot('Screenshot/015. License/TC.003.14 - User mendownload list data changelog allocation.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/015. License/TC.002.06 - User mendownload list data changelog allocation.png', FailureHandling.STOP_ON_FAILURE)
 

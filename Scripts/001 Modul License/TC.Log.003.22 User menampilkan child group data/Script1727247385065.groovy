@@ -43,11 +43,11 @@ WebUI.click(findTestObject('Object Repository/OBJ Modul License/div_License'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Tab Asset'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Tab Asset'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Show child group data'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Show child group data'))
 
 WebUI.delay(8)
 

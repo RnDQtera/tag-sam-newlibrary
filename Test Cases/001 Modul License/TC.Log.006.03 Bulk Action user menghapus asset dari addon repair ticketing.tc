@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.006.03 Bulk Action user menghapus asset dari addon repair ticketing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da085881-0549-44f9-adc7-32ee5e55ab3b</testCaseGuid>
+</TestCaseEntity>

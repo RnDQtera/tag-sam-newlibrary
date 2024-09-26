@@ -23,41 +23,41 @@ WebUI.navigateToUrl('https://dev-fixedasset-v2.tagsamurai.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/Audit Tab/button_Log in with OTP'))
+WebUI.click(findTestObject('Object Repository/OBJ Modul License/Tab Audit/button_Log in with OTP'))
 
-WebUI.setText(findTestObject('Object Repository/OBJ Modul License/Audit Tab/input__ts-inputtext max-h-42px flex py-1 px_15dae7'), 
+WebUI.setText(findTestObject('Object Repository/OBJ Modul License/Tab Audit/input__ts-inputtext max-h-42px flex py-1 px_15dae7'), 
     'user10@mailnesia.com')
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/Audit Tab/button_Request OTP'))
+WebUI.click(findTestObject('Object Repository/OBJ Modul License/Tab Audit/button_Request OTP'))
 
-WebUI.setText(findTestObject('Object Repository/OBJ Modul License/Audit Tab/input_Re-Send OTP_leading-none font-medium _39674b'), 
+WebUI.setText(findTestObject('Object Repository/OBJ Modul License/Tab Audit/input_Re-Send OTP_leading-none font-medium _39674b'), 
     '')
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/Audit Tab/button_Verify and Log in'))
+WebUI.click(findTestObject('Object Repository/OBJ Modul License/Tab Audit/button_Verify and Log in'))
 
 WebUI.delay(5)
 
 WebUI.click(findTestObject('OBJ Modul License/i_Modules_text-78.82px text-primary-500 ico_505ec3'))
 
-WebUI.click(findTestObject('Object Repository/OBJ Modul License/Audit Tab/div_License'))
+WebUI.click(findTestObject('Object Repository/OBJ Modul License/Tab Audit/div_License'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ Modul License/Maintenance Tab/Maintenance Tab'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Maintenance/Maintenance Tab'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Modul License/Maintenance Tab/Checkbox select asset tab maintenance'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Maintenance/Checkbox select asset tab maintenance'))
 
-WebUI.click(findTestObject('OBJ Modul License/Maintenance Tab/Action remove asset tab maintenance'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Maintenance/Action remove asset tab maintenance'))
 
-WebUI.click(findTestObject('OBJ Modul License/Maintenance Tab/Single action remove from addon'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Maintenance/Single action remove from addon'))
 
-WebUI.click(findTestObject('OBJ Modul License/Maintenance Tab/Submit remove from addon'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Maintenance/Submit remove from addon'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Modul License/Maintenance Tab/Changelog/Button changelog tab maintenance'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Maintenance/Changelog/Button changelog tab maintenance'))
 
 WebUI.delay(7)
 

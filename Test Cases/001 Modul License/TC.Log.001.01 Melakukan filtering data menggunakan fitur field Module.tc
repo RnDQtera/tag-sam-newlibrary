@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.001.01 Melakukan filtering data menggunakan fitur field Module</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04281ee6-0ad1-4955-b32f-12f5d08bc5e1</testCaseGuid>
+</TestCaseEntity>

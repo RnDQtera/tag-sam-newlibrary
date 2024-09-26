@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.007.03 Bulk Action user menghapus asset dari addon tracking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da787852-420f-4439-80cb-cf3c0ea63e28</testCaseGuid>
+</TestCaseEntity>

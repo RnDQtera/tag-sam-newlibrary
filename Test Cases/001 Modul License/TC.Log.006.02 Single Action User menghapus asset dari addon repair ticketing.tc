@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.006.02 Single Action User menghapus asset dari addon repair ticketing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87f18e04-cc98-4124-82ec-ddb7f339c2b9</testCaseGuid>
+</TestCaseEntity>

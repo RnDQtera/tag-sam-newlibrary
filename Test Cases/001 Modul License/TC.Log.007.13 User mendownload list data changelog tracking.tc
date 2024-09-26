@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.007.13 User mendownload list data changelog tracking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a5cad8c-a7d9-406d-bb17-67cac4ba5648</testCaseGuid>
+</TestCaseEntity>

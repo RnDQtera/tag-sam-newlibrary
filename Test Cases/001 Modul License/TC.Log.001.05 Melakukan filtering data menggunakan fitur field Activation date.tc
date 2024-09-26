@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.001.05 Melakukan filtering data menggunakan fitur field Activation date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae9c3bb4-8d25-46d2-8606-13a1c821e3b7</testCaseGuid>
+</TestCaseEntity>

@@ -45,17 +45,21 @@ WebUI.click(findTestObject('Object Repository/OBJ Modul License/div_License'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Tab Asset'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Tab Asset'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Show child group data'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Show child group data'))
 
 WebUI.delay(3)
 
+<<<<<<< Updated upstream
 WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button Action detail'))
+=======
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Action detail child group'))
+>>>>>>> Stashed changes
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button asset detail'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Button asset detail'))
 
 WebUI.takeScreenshot('Screenshot/015. License/TC.003.23 - User melakukan action asset detail.png', FailureHandling.STOP_ON_FAILURE)
 
