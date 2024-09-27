@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.001.02 Existing Melakukan filtering data menggunakan fitur field License Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70534d7c-3e6e-41f7-8a79-1b43a63b7ad0</testCaseGuid>
+</TestCaseEntity>

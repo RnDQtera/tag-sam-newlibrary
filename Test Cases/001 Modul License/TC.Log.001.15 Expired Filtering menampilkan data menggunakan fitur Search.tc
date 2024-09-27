@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.001.15 Expired Filtering menampilkan data menggunakan fitur Search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4f78939-0c22-4539-8201-403265e0d6c5</testCaseGuid>
+</TestCaseEntity>

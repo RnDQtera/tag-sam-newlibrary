@@ -54,7 +54,7 @@ WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Show child group data'))
 WebUI.delay(3)
 
 <<<<<<< Updated upstream
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button Action detail'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Button Action detail'))
 =======
 WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Action detail child group'))
 >>>>>>> Stashed changes

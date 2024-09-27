@@ -37,21 +37,21 @@ WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.S
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Menu Licenses'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Menu Licenses'))
 
-WebUI.click(findTestObject('OBJ Modul License/All Licenses Tab/Expired tab'))
+WebUI.click(findTestObject('OBJ Modul License/Tab All Licenses/Tab Expired/Expired tab'))
 
-WebUI.click(findTestObject('OBJ Modul License/All Licenses Tab/Button filter expired tab'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ Modul License/All Licenses Tab/Dropdown License Type Expired Tab'))
+WebUI.click(findTestObject('OBJ Modul License/Tab All Licenses/Tab Expired/Button filter expired tab'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/All Licenses Tab/List Field (1) Expired Tab'))
+WebUI.click(findTestObject('OBJ Modul License/Tab All Licenses/Tab Expired/Dropdown License Type Expired Tab'))
 
-WebUI.click(findTestObject('OBJ Modul License/All Licenses Tab/Button Aply Expired Tab'))
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Modul License/Tab All Licenses/Tab Expired/List Field (1) Expired Tab'))
+
+WebUI.click(findTestObject('OBJ Modul License/Tab All Licenses/Tab Expired/Button Aply Expired Tab'))
 
 WebUI.delay(1)
 

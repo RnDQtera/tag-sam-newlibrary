@@ -37,25 +37,25 @@ WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.S
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Menu Licenses'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Menu Licenses'))
 
 WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Tab Asset'))
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Grup Kantor Pusat Jakarta (1)'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Grup Kantor Pusat Jakarta (1)'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button Filter'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Button Filter'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Dropdown Field Audit'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Dropdown Field Audit'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Field 1'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Field 1'))
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button Apply'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Button Apply'))
 
 WebUI.delay(2)
 

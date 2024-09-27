@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.002.09 Parent Group Melakukan filtering data menggunakan fitur Search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8037d9c0-564c-4c25-ab53-2bbed73ce7d6</testCaseGuid>
+</TestCaseEntity>

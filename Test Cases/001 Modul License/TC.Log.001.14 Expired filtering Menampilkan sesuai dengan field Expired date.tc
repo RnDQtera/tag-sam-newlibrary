@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.001.14 Expired filtering Menampilkan sesuai dengan field Expired date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22351b50-8c21-458d-9140-6633a12fdf14</testCaseGuid>
+</TestCaseEntity>

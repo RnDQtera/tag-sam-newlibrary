@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.001.13 Expired filtering Menampilkan sesuai dengan field Activation date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23310bbd-6592-4696-868d-2a8154d39306</testCaseGuid>
+</TestCaseEntity>

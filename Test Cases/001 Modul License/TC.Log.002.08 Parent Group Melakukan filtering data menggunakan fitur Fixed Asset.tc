@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.002.08 Parent Group Melakukan filtering data menggunakan fitur Fixed Asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>14865885-607f-48af-bf32-25b6212e6692</testCaseGuid>
+</TestCaseEntity>

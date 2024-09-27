@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.001.03 Existing Melakukan filtering data menggunakan fitur field Purchase Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36be0b75-e717-4086-a44d-91c1ae21cda8</testCaseGuid>
+</TestCaseEntity>

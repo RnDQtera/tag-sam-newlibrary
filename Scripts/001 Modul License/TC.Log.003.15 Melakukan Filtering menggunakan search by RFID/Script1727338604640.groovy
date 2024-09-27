@@ -51,25 +51,25 @@ WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.S
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Menu Licenses'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Menu Licenses'))
 
 WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Tab Asset'))
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Grup Kantor Pusat Jakarta (1)'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Grup Kantor Pusat Jakarta (1)'))
 
 WebUI.click(findTestObject('00-07 Sync'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button sync'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Button sync'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Close sync'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Close sync'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button Search By Scan'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Button Search By Scan'))
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Scan RFID'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Scan RFID'))
 
 WebUI.delay(8)
 

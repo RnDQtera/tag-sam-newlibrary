@@ -37,19 +37,19 @@ WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.S
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Menu Licenses'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Menu Licenses'))
 
 WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Tab Asset'))
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Grup Kantor Pusat Jakarta (1)'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Grup Kantor Pusat Jakarta (1)'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Button Search'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Button Search'))
 
-WebUI.sendKeys(findTestObject('OBJ Modul License/Asset Tab/Field Button Search'), 'mobil')
+WebUI.sendKeys(findTestObject('OBJ Modul License/Tab Asset/Field Button Search'), 'mobil')
 
-WebUI.sendKeys(findTestObject('OBJ Modul License/Asset Tab/Field Button Search'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('OBJ Modul License/Tab Asset/Field Button Search'), Keys.chord(Keys.ENTER))
 
 WebUI.delay(2)
 

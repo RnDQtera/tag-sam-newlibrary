@@ -37,24 +37,26 @@ WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.S
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Modul License/Asset Tab/Menu Licenses'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Asset/Menu Licenses'))
 
-WebUI.click(findTestObject('OBJ Modul License/All Licenses Tab/Expired tab'))
+WebUI.click(findTestObject('OBJ Modul License/Tab All Licenses/Tab Expired/Expired tab'))
 
-WebUI.click(findTestObject('OBJ Modul License/All Licenses Tab/Button filter expired tab'))
+WebUI.delay(4)
 
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ Modul License/All Licenses Tab/Dropdown Purchase Type Expired Tab'))
+WebUI.click(findTestObject('OBJ Modul License/Tab All Licenses/Tab Expired/Button filter expired tab'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Modul License/All Licenses Tab/List Field (1) Expired Tab'))
+WebUI.click(findTestObject('OBJ Modul License/Tab All Licenses/Tab Expired/Dropdown Purchase Type Expired Tab'))
 
-WebUI.click(findTestObject('OBJ Modul License/All Licenses Tab/Button Aply Expired Tab'))
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Modul License/Tab All Licenses/Tab Expired/List Field (1) Expired Tab'))
+
+WebUI.click(findTestObject('OBJ Modul License/Tab All Licenses/Tab Expired/Button Aply Expired Tab'))
 
 WebUI.delay(1)
 
-WebUI.takeScreenshot('Screenshot/015. License/TC.001.11 - Expired filtering menampilkan sesuai dengan field purchase type.png',
-	FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/015. License/TC.001.11 - Expired filtering menampilkan sesuai dengan field purchase type.png', 
+    FailureHandling.STOP_ON_FAILURE)
 

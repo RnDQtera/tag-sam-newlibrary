@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.002.03 Changelog Melakukan filtering data menggunakan fitur field Group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ddcafc9-8b7c-4c55-a962-03e80ce649a4</testCaseGuid>
+</TestCaseEntity>

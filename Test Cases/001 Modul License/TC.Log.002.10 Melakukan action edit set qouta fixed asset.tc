@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.002.10 Melakukan action edit set qouta fixed asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9cc0b854-1df9-4375-8bb1-6ff9c046c0f2</testCaseGuid>
+</TestCaseEntity>

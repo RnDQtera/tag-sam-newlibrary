@@ -45,7 +45,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Modul License/Tab Allocation/Tab Allocation'))
 
-WebUI.click(findTestObject('OBJ Modul License/Tab Allocation/Button Changelog Allocation'))
+WebUI.click(findTestObject('OBJ Modul License/Tab Allocation/Changelog/Button Changelog Allocation'))
 
 WebUI.delay(2)
 
