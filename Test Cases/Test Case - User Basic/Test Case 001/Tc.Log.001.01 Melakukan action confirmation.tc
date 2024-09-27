@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.01 Melakukan action confirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>682da46a-9192-43c5-81c5-88464c5319dc</testCaseGuid>
+</TestCaseEntity>
