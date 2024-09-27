@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.002.01 Filtering Melakukan filtering data menggunakan fitur filter Active Status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d6a1e4b-4d03-47d5-952f-07a87a0aa07d</testCaseGuid>
+</TestCaseEntity>

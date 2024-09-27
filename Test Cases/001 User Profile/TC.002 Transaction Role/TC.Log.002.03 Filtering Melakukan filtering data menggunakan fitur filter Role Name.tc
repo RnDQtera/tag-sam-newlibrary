@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.002.03 Filtering Melakukan filtering data menggunakan fitur filter Role Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92623e89-45ac-4864-af7b-d9aa1829e3e1</testCaseGuid>
+</TestCaseEntity>
