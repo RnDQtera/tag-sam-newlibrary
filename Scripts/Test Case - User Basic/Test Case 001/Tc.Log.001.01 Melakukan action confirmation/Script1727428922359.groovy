@@ -53,7 +53,7 @@ WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Button confirm
 
 WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Button Continue'))
 
-WebUI.takeScreenshot('Screenshot/User Basic/Tc.Log.001.01- Melakukan action confirmation pada asset.png.png',
-	FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(1)
 
+WebUI.takeScreenshot('Screenshot/User Basic/Tc.Log.001.01- Melakukan action confirmation pada asset.png.png', FailureHandling.STOP_ON_FAILURE)
 

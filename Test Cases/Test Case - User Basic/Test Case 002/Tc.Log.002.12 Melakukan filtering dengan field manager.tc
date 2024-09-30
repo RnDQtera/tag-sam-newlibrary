@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.002.12 Melakukan filtering dengan field manager</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6326dec-ea77-4402-bfda-8ad2bb42eeae</testCaseGuid>
+</TestCaseEntity>

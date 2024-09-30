@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.002.15 Melakukan filtering sesuai keyword dicari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee2b2c00-b6c9-42cc-bbe7-865909bdcf00</testCaseGuid>
+</TestCaseEntity>
