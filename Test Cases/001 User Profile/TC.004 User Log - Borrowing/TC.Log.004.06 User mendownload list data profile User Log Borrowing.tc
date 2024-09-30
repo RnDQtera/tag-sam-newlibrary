@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.06 User mendownload list data profile User Log Borrowing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2d958a5-c1bc-46d7-aca2-8b0b92b36169</testCaseGuid>
+</TestCaseEntity>

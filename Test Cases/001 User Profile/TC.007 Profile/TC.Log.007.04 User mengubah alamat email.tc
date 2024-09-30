@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.007.04 User mengubah alamat email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8a6e1c5-a59f-4add-bd13-84ddf68a9bf7</testCaseGuid>
+</TestCaseEntity>

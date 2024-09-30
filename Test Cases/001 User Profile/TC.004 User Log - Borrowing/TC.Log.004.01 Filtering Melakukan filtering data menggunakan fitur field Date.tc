@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.01 Filtering Melakukan filtering data menggunakan fitur field Date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>518ce888-ec0c-469e-a2bc-6b8c83f57131</testCaseGuid>
+</TestCaseEntity>

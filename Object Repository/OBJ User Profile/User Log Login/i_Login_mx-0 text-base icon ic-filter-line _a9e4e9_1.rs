@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Login_mx-0 text-base icon ic-filter-line _a9e4e9_1</name>
+   <tag></tag>
+   <elementGuidId>d5c7db4c-2845-4af1-b729-80e00a962259</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-settings-user']/div/div[2]/div/div/div/div[3]/div[2]/div[2]/div/div/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.mx-0.text-base.icon.ic-filter-line.text-inherit.cursor-pointer.mx-0.text-base</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > div:nth-child(2) > div > .flex > button:nth-child(2) >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>db8e7c87-68e0-4c46-afac-8bc3771213b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-0 text-base icon ic-filter-line text-inherit cursor-pointer mx-0 text-base</value>
+      <webElementGuid>215a6255-e624-4346-91e4-960b857bb26b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-settings-user&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;rounded-lg bg-surface-0 dark:!bg-grayscale-900 text-general-800 dark:text-general-800&quot;]/div[@class=&quot;flex flex-col gap-3 p-6&quot;]/div[@class=&quot;flex flex-col gap-3 text-general-800 dark:text-general-100&quot;]/div[@class=&quot;flex flex-col gap-[10px]&quot;]/div[@class=&quot;flex flex-col mt-2 gap-2&quot;]/div[@class=&quot;flex flex-col gap-3&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;flex flex-row justify-end items-center&quot;]/div[@class=&quot;flex flex-row items-center gap-1&quot;]/button[@class=&quot;relative items-center justify-center inline-flex text-center text-xs h-[26px] w-max min-w-[26px] w-[26px] p-0 ring-inset shadow-sm rounded text-surface-0 dark:text-surface-0 bg-general-500 dark:bg-general-500 ring-1 ring-general-500 dark:ring-general-500 focus-visible:bg-general-600 focus-visible:ring-general-600 focus-visible:ring-offset-0 hover:bg-general-600 dark:hover:bg-general-600 hover:ring-general-600 dark:hover:ring-general-600 transition duration-200 ease-in-out cursor-pointer overflow-hidden select-none&quot;]/i[@class=&quot;mx-0 text-base icon ic-filter-line text-inherit cursor-pointer mx-0 text-base&quot;]</value>
+      <webElementGuid>e60a9943-a891-41ee-85ba-c9a44e84ab52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-settings-user']/div/div[2]/div/div/div/div[3]/div[2]/div[2]/div/div/button[2]/i</value>
+      <webElementGuid>464f42db-69f9-4b9f-932f-d1bb5642f7e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button[2]/i</value>
+      <webElementGuid>08f636ee-d7cd-47e9-9dd9-03313007fc24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

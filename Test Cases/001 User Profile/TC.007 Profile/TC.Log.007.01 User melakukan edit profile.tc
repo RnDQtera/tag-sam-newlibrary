@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.007.01 User melakukan edit profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27b8f77a-4457-409f-b34e-b5ac54a7d0e8</testCaseGuid>
+</TestCaseEntity>

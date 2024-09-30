@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.005.04 Filtering Melakukan filtering data menggunakan fitur filter field Manager</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fbcbbbcb-5f57-4d95-b72e-649342b41a42</testCaseGuid>
+</TestCaseEntity>

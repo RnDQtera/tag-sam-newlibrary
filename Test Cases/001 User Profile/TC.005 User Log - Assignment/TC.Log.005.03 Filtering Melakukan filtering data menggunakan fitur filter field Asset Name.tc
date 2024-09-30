@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.005.03 Filtering Melakukan filtering data menggunakan fitur filter field Asset Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91c3df67-dc81-46c9-b365-645848782c6b</testCaseGuid>
+</TestCaseEntity>

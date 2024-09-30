@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.005.06 User mendownload list data profile User Log Assignment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>822914b6-ee72-4931-acc4-a18a1286b141</testCaseGuid>
+</TestCaseEntity>
