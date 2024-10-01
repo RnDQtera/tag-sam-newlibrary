@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.03 Melihat detail dari asset dalam list task</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7fed33c-6b89-45eb-8217-623eaa642e74</testCaseGuid>
+</TestCaseEntity>

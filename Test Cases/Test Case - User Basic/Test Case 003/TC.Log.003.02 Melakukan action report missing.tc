@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.02 Melakukan action report missing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bc039b7-3f3a-42f5-8fb7-e2ece03845a1</testCaseGuid>
+</TestCaseEntity>

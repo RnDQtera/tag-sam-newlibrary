@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.02 Melakukan cacel assignment pada asset</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e3e4410-cc3b-443b-b6ad-88ab831fe78a</testCaseGuid>
+</TestCaseEntity>

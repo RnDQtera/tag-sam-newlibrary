@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.09 Bulk action melakukan cancel assignment pada asset</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0324ef4a-bd59-4bd2-a548-3fef7f62e17f</testCaseGuid>
+</TestCaseEntity>

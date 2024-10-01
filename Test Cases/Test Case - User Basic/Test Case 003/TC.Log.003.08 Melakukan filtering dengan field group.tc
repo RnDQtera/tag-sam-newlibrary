@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.08 Melakukan filtering dengan field group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddfe6ae7-1b52-4c1e-9c8b-3b02063fd42d</testCaseGuid>
+</TestCaseEntity>
