@@ -35,29 +35,29 @@ WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILUR
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Login/Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ User Profile/006 User Log Login/Modul Fixed Asset'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(4, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Menu Setting'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Menu Setting'))
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Sub Menu User'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/User ASDF Tag Samurai'))
-
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Button Detail'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Sub Menu User'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Borrowing/Tab User Log'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/User ASDF Tag Samurai'))
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Assignment/Tab User Log Assignment'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Button Detail'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Assignment/Button Download User Log Assignment'))
+WebUI.click(findTestObject('OBJ User Profile/004 User Log Borrowing/Tab User Log'))
+
+WebUI.click(findTestObject('OBJ User Profile/005 User Log Assignment/Tab User Log Assignment'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ User Profile/005 User Log Assignment/Button Download User Log Assignment'))
 
 WebUI.delay(3)
 

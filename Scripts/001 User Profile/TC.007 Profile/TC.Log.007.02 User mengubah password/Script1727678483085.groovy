@@ -23,39 +23,39 @@ WebUI.navigateToUrl('https://console.tagsamurai.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/OBJ User Profile/User Log Login/Set Username'), 'user23@mailnesia.com')
+WebUI.setText(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Set Username'), 'user23@mailnesia.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/OBJ User Profile/User Log Login/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Login/Button Login'))
+WebUI.click(findTestObject('OBJ User Profile/006 User Log Login/Button Login'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Modul Fixed Asset'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Modul Fixed Asset'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Menu Settings'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Menu Settings'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ User Profile/Profile/Icon Profile'))
+WebUI.click(findTestObject('OBJ User Profile/007 Profile/Icon Profile'))
 
-WebUI.click(findTestObject('OBJ User Profile/Profile/Button Profile'))
+WebUI.click(findTestObject('OBJ User Profile/007 Profile/Button Profile'))
 
-WebUI.click(findTestObject('OBJ User Profile/Profile/Button Change Password'))
-
-WebUI.delay(3)
-
-WebUI.sendKeys(findTestObject('OBJ User Profile/Profile/Input Text Old Password'), 'Moderator12@')
-
-WebUI.sendKeys(findTestObject('OBJ User Profile/Profile/Input Text New Password'), 'Jakarta@2002')
-
-WebUI.sendKeys(findTestObject('OBJ User Profile/Profile/Input Text Re-enter New Password'), 'Jakarta@2002')
+WebUI.click(findTestObject('OBJ User Profile/007 Profile/Button Change Password'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ User Profile/Profile/Button Save Change Password'), FailureHandling.STOP_ON_FAILURE)
+WebUI.sendKeys(findTestObject('OBJ User Profile/007 Profile/Input Text Old Password'), 'Moderator12@')
+
+WebUI.sendKeys(findTestObject('OBJ User Profile/007 Profile/Input Text New Password'), 'Jakarta@2002')
+
+WebUI.sendKeys(findTestObject('OBJ User Profile/007 Profile/Input Text Re-enter New Password'), 'Jakarta@2002')
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ User Profile/007 Profile/Button Save Change Password'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2)
 

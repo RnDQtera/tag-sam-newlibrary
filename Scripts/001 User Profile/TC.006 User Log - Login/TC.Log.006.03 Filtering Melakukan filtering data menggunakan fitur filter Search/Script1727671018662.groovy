@@ -23,43 +23,43 @@ WebUI.navigateToUrl('https://console.tagsamurai.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/OBJ User Profile/User Log Login/Set Username'), 'user23@mailnesia.com')
+WebUI.setText(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Set Username'), 'user23@mailnesia.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/OBJ User Profile/User Log Login/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Login/Button Login'))
+WebUI.click(findTestObject('OBJ User Profile/006 User Log Login/Button Login'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Modul Fixed Asset'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Modul Fixed Asset'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Menu Settings'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Menu Settings'))
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Sub Menu User'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Sub Menu User'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Select User'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Select User'))
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Action Detail'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Tab User Log'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Action Detail'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Sub Tab Login'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Tab User Log'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Sub Tab Login'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Login/Filter/Button Search User Log Login'))
+WebUI.click(findTestObject('OBJ User Profile/006 User Log Login/Filter/Button Search User Log Login'))
 
-WebUI.setText(findTestObject('OBJ User Profile/User Log Login/Filter/Searchbox User Log Login'), 'login')
+WebUI.setText(findTestObject('OBJ User Profile/006 User Log Login/Filter/Searchbox User Log Login'), 'login')
 
-WebUI.setText(findTestObject('OBJ User Profile/User Log Login/Filter/Searchbox User Log Login'), Keys.chord(Keys.ENTER))
+WebUI.setText(findTestObject('OBJ User Profile/006 User Log Login/Filter/Searchbox User Log Login'), Keys.chord(Keys.ENTER))
 
 WebUI.delay(4)
 

@@ -23,45 +23,45 @@ WebUI.navigateToUrl('https://dev-fixedasset-v2.tagsamurai.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Login OTP'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Login OTP'))
 
-WebUI.setText(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Set Username'), 'user23@mailnesia.com')
+WebUI.setText(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Set Username'), 'user23@mailnesia.com')
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Request OTP'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Request OTP'))
 
-WebUI.setText(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Input OTP'), '')
+WebUI.setText(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Input OTP'), '')
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Button Verify Login'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Modul Fixed Asset'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Button Verify Login'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Menu Setting'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Modul Fixed Asset'))
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Sub Menu User'))
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Menu Setting'))
+
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Sub Menu User'))
 
 WebUI.delay(4)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/User ASDF Tag Samurai'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/User ASDF Tag Samurai'))
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/Transaction Role/Button Detail'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/002 Transaction Role/Button Detail'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Borrowing/Tab User Log'))
+WebUI.click(findTestObject('OBJ User Profile/004 User Log Borrowing/Tab User Log'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Borrowing/Button Filter Borrowing'))
+WebUI.click(findTestObject('OBJ User Profile/004 User Log Borrowing/Button Filter Borrowing'))
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Borrowing/Button Select Activity Borrowing'))
+WebUI.click(findTestObject('OBJ User Profile/004 User Log Borrowing/Button Select Activity Borrowing'))
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Borrowing/Select Activity Borrowing'))
+WebUI.click(findTestObject('OBJ User Profile/004 User Log Borrowing/Select Activity Borrowing'))
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Borrowing/Button Apply Borrowing'))
+WebUI.click(findTestObject('OBJ User Profile/004 User Log Borrowing/Button Apply Borrowing'))
 
 WebUI.delay(5)
 

@@ -23,39 +23,39 @@ WebUI.navigateToUrl('https://console.tagsamurai.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/OBJ User Profile/User Log Login/Set Username'), 'user23@mailnesia.com')
+WebUI.setText(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Set Username'), 'user23@mailnesia.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/OBJ User Profile/User Log Login/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Login/Button Login'))
+WebUI.click(findTestObject('OBJ User Profile/006 User Log Login/Button Login'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Modul Fixed Asset'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Modul Fixed Asset'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Menu Settings'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Menu Settings'))
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Sub Menu User'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Sub Menu User'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Select User'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Select User'))
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Action Detail'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Tab User Log'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Action Detail'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/User Log Login/Sub Tab Login'))
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Tab User Log'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/OBJ User Profile/006 User Log Login/Sub Tab Login'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ User Profile/User Log Login/Button download user log login'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ User Profile/006 User Log Login/Button download user log login'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(4)
 

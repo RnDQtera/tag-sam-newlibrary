@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Modules_module-shadow w-110px h-110px f_1c4ea5</name>
+   <tag></tag>
+   <elementGuidId>f1319ace-dd0e-42b5-8f80-04479b104712</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-modules']/div/div/div[2]/div[2]/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Fixed Asset&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>05d37390-dcfb-40e4-8292-5be334f6b014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>module-shadow w-[110px] h-[110px] flex items-center justify-center rounded-lg bg-primary-50</value>
+      <webElementGuid>02b9ca14-4e99-4a4d-85f4-b8c6131830ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-modules&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;h-screen w-full flex flex-col bg-[#f7f7fc]&quot;]/div[@class=&quot;py-3 px-6 h-full flex flex-col items-stretch&quot;]/div[@class=&quot;mt-2 flex flex-col justify-start items-center gap-6 py-6 bg-white h-full rounded-lg&quot;]/div[@class=&quot;grid grid-cols-1 gap-12&quot;]/a[1]/div[@class=&quot;module-shadow w-[110px] h-[110px] flex items-center justify-center rounded-lg bg-primary-50&quot;]</value>
+      <webElementGuid>d6f621c7-80fa-4a06-9b39-c306237e141b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-modules']/div/div/div[2]/div[2]/div[2]/a/div</value>
+      <webElementGuid>48da06bc-db42-44eb-bb40-cbbdd7299b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modules'])[1]/following::div[2]</value>
+      <webElementGuid>fdbcfea1-9213-4c1d-b46b-6b036b075252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monster Inc.'])[1]/following::div[4]</value>
+      <webElementGuid>08abdda9-e33d-4be3-91ab-5d05c54c07a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fixed Asset'])[1]/preceding::div[1]</value>
+      <webElementGuid>651120e4-2581-4756-bfb4-d13851fdfee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>1866a685-6f18-4c12-9f4e-92196aaf4570</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

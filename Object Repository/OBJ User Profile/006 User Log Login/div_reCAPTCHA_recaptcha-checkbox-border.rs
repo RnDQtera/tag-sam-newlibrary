@@ -6,12 +6,12 @@
    <elementGuidId>3591fb90-09ad-4a87-aeef-6b3e8f52a6f4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='recaptcha-anchor']/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.recaptcha-checkbox-border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='recaptcha-anchor']/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -60,7 +60,7 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/OBJ User Profile/User Log Login/iframe_Enter a password_a-yrg3t045yogb</value>
+      <value>Object Repository/OBJ User Profile/006 User Log Login/iframe_Enter a password_a-yrg3t045yogb</value>
       <webElementGuid>9f8dfea7-9fd6-4c8f-8410-2e16af2932c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
