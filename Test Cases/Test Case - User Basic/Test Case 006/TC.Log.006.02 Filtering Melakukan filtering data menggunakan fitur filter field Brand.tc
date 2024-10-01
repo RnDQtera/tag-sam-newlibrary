@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.006.02 Filtering Melakukan filtering data menggunakan fitur filter field Brand</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea50884e-a500-44b3-a439-89f9377e3fe8</testCaseGuid>
+</TestCaseEntity>

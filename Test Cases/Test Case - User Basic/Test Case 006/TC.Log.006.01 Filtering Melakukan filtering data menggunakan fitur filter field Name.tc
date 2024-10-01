@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.Log.006.001 Filtering Melakukan filtering data menggunakan fitur filter field Name</name>
+   <name>TC.Log.006.01 Filtering Melakukan filtering data menggunakan fitur filter field Name</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

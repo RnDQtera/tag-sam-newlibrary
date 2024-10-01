@@ -29,9 +29,15 @@ WebUI.setEncryptedText(findTestObject('Object Repository/User Basic - My Asset T
 
 WebUI.click(findTestObject('Object Repository/User Basic - My Asset Task Assignment/OBJ 006 History My Asset/Page_TAG SAMURAI/Button Login_'))
 
+WebUI.delay(4)
+
 WebUI.click(findTestObject('Object Repository/User Basic - My Asset Task Assignment/OBJ 006 History My Asset/Page_TAG SAMURAI/div_Modules_module-shadow w-110px h-110px f_1c4ea5'))
 
+WebUI.delay(4)
+
 WebUI.click(findTestObject('Object Repository/User Basic - My Asset Task Assignment/OBJ 006 History My Asset/Page_Fixed Asset - TAG SAMURAI/Button History My Asset'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/User Basic - My Asset Task Assignment/OBJ 006 History My Asset/Page_Fixed Asset - TAG SAMURAI/Button Filter History My Asset'))
 
@@ -41,3 +47,5 @@ WebUI.click(findTestObject('Object Repository/User Basic - My Asset Task Assignm
 
 WebUI.click(findTestObject('Object Repository/User Basic - My Asset Task Assignment/OBJ 006 History My Asset/Page_Fixed Asset - TAG SAMURAI/button_Apply History My Asset'))
 
+WebUI.takeScreenshot('Screenshot/016. User Profile/TC.006.01 - Filtering Melakukan filtering data menggunakan fitur filter field Name.png',
+	FailureHandling.STOP_ON_FAILURE)

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.006.07 Filtering Melakukan filtering data menggunakan fitur filter field Last Update</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b83a93ba-28e3-4e17-8411-f3800d1ce7bc</testCaseGuid>
+</TestCaseEntity>
