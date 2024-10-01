@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button download asset</name>
+   <name>Field search - assigned asset</name>
    <tag></tag>
-   <elementGuidId>84a5fad2-4dd1-4452-a224-271baf571fd7</elementGuidId>
+   <elementGuidId>a14b2488-1cc5-4e46-8f77-beb54789bb91</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[1]/div[2]/div/button[3]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[1]/div/div/form/input</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

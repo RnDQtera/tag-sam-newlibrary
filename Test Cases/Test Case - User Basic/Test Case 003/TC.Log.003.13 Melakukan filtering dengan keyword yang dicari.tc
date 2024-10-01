@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.13 Melakukan filtering dengan keyword yang dicari</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4aa08b1-59c6-4a5c-99b5-d2e365da21a4</testCaseGuid>
+</TestCaseEntity>

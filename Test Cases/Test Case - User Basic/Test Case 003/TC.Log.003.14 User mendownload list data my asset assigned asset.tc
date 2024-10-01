@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.14 User mendownload list data my asset assigned asset</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f42ae8cc-9ef6-4b17-a54c-170f2b7d0b6e</testCaseGuid>
+</TestCaseEntity>

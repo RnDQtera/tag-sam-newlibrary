@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.12 Melakukan filtering dengan field assign date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>426d2b19-ca2b-4d48-9677-8bc8f9678718</testCaseGuid>
+</TestCaseEntity>
