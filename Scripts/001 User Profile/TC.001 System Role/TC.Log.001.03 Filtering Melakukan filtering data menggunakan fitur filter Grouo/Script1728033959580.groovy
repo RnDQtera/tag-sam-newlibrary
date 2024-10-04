@@ -43,9 +43,11 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ User Profile/001 System Role/Button Filter System Role'))
 
-WebUI.click(findTestObject('OBJ User Profile/001 System Role/Dropdown Active Status System Role'))
+WebUI.click(findTestObject('OBJ User Profile/001 System Role/Button Group System Role'))
 
-WebUI.click(findTestObject('OBJ User Profile/001 System Role/Option 1 Active Status System Role'))
+WebUI.click(findTestObject('OBJ User Profile/001 System Role/Checkbox Select Group System Role'))
+
+WebUI.click(findTestObject('OBJ User Profile/001 System Role/Button Select Group System Role'))
 
 WebUI.delay(3)
 
@@ -53,6 +55,6 @@ WebUI.click(findTestObject('OBJ User Profile/001 System Role/Button Apply System
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/016. User Profile/TC.001.01 - Filtering Melakukan filtering data menggunakan fitur filter Active Status.png', 
+WebUI.takeScreenshot('Screenshot/016. User Profile/TC.001.03 - Filtering Melakukan filtering data menggunakan fitur filter Group.png', 
     FailureHandling.STOP_ON_FAILURE)
 

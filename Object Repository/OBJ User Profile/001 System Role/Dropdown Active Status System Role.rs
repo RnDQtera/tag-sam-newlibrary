@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Select Role Group Role</name>
+   <name>Dropdown Active Status System Role</name>
    <tag></tag>
-   <elementGuidId>cf827268-5226-4f96-a8eb-a4a3fbc9e18d</elementGuidId>
+   <elementGuidId>48ba8d9f-b815-4464-a19a-a6b5dc538d25</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[6]/div[2]/ul/li[4]</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[1]/div/div/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

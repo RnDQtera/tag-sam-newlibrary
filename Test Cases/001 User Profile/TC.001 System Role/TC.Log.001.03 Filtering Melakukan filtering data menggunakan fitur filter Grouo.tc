@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.Log.001.03 Filtering Melakukan filtering data menggunakan fitur filter Group</name>
+   <name>TC.Log.001.03 Filtering Melakukan filtering data menggunakan fitur filter Grouo</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>4921ce6f-8242-41aa-a548-203303a8ab78</testCaseGuid>
+   <testCaseGuid>6eeb8d25-e2f7-4894-ba87-e697b46cd481</testCaseGuid>
 </TestCaseEntity>

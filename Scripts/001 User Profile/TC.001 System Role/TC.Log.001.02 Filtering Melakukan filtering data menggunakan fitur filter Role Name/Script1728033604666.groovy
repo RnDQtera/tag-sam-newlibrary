@@ -23,44 +23,35 @@ WebUI.navigateToUrl('https://console.tagsamurai.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/OBJ User Profile/001 System Role/006 User Log Login/Set Username'), 'user23@mailnesia.com')
+WebUI.setText(findTestObject('OBJ User Profile/001 System Role/Input Email'), 'user23@mailnesia.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/OBJ User Profile/001 System Role/006 User Log Login/Set Password'), 
-    '8+VvZnBZfpfG5HxfHfyGjg==')
+WebUI.setEncryptedText(findTestObject('OBJ User Profile/001 System Role/Input Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/001 System Role/006 User Log Login/Button Login'))
+WebUI.click(findTestObject('OBJ User Profile/006 User Log Login/Button Login'))
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/001 System Role/006 User Log Login/Modul Fixed Asset'))
+WebUI.click(findTestObject('OBJ User Profile/006 User Log Login/Modul Fixed Asset'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/001 System Role/Page_Fixed Asset - TAG SAMURAI/div_Settings'))
+WebUI.click(findTestObject('OBJ User Profile/007 Profile/Icon Profile'))
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/001 System Role/Page_Fixed Asset - TAG SAMURAI/div_User'))
+WebUI.click(findTestObject('OBJ User Profile/007 Profile/Button Profile'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/001 System Role/Page_Fixed Asset - TAG SAMURAI/i_ASDF .ai V2_button-icon-6454c4253dd1017f28689572'))
+WebUI.click(findTestObject('OBJ User Profile/001 System Role/Button Filter System Role'))
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/001 System Role/Page_Fixed Asset - TAG SAMURAI/a_Detail'))
+WebUI.click(findTestObject('OBJ User Profile/001 System Role/Dropdown Role Name System Role'))
 
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/001 System Role/Tab Group Role'))
+WebUI.click(findTestObject('OBJ User Profile/001 System Role/Option Role Name System Role'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/001 System Role/Button Filter Group Role'))
+WebUI.click(findTestObject('OBJ User Profile/001 System Role/Button Apply System Role'))
 
-WebUI.click(findTestObject('OBJ User Profile/001 System Role/Button Select Role Group Role'))
-
-WebUI.click(findTestObject('OBJ User Profile/001 System Role/Select Role Group Role'))
-
-WebUI.click(findTestObject('Object Repository/OBJ User Profile/001 System Role/Button Apply Group Role'))
-
-WebUI.delay(4)
+WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/016. User Profile/TC.001.02 - Filtering Melakukan filtering data menggunakan fitur filter Role Name.png', 
     FailureHandling.STOP_ON_FAILURE)

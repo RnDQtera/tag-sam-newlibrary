@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button Profile</name>
+   <name>Option 1 Active Status System Role</name>
    <tag></tag>
-   <elementGuidId>e6ad8b29-cce9-493b-a80b-e17103ff0ae2</elementGuidId>
+   <elementGuidId>7b228d39-da4b-44f3-ac67-f25f4b7f5e1f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div/div/div[2]/ul/li[1]/a/span</value>
+         <value>/html/body/div[7]/div[2]/ul/li[1]/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

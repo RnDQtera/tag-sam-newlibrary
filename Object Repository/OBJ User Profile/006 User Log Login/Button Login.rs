@@ -6,12 +6,11 @@
    <elementGuidId>a1521401-6a7b-43e6-bd96-b6fa69ef2947</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='button']</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div/div/div/div[1]/div[1]/div/div/div[1]/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5fddb083-03a1-4d4f-a4c9-83707b9be230</webElementGuid>
+      <webElementGuid>0f5899ec-f90d-4e3e-9e93-3cfbf4a11d6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>755d2ef2-ef2f-4a47-bc87-af36dc9f836c</webElementGuid>
+      <webElementGuid>cc157ea6-47cb-477d-aec5-eaa0270d0e77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>db567287-1e84-40d2-956e-842941637447</webElementGuid>
+      <webElementGuid>271ee6d0-9202-4003-a6ca-bb9ad1c61d3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full min-w-full !h-[42px] !text-base !font-semibold relative items-center justify-center inline-flex text-center text-xs h-[26px] w-max min-w-[26px] px-3 py-[7.6px] min-w-[26px] ring-inset shadow-sm rounded text-white dark:!text-primary-800 bg-primary dark:bg-primary-300 ring-1 ring-primary dark:ring-primary-300 focus-visible:bg-primary-600 focus-visible:ring-primary-600 focus-visible:ring-offset-0 hover:bg-primary-strong dark:hover:bg-primary-400 hover:ring-primary-strong dark:hover:ring-primary-400 focus-visible:ring-1 focus-visible:ring-primary-600 dark:focus-visible:ring-primary-600 transition duration-200 ease-in-out cursor-pointer overflow-hidden select-none</value>
-      <webElementGuid>d7891975-4c05-4604-909a-3916cb043cbd</webElementGuid>
+      <webElementGuid>6fc60f5e-b035-4b9e-8b0c-bc4abf9c1d77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>data-ts-name</name>
       <type>Main</type>
       <value>btn-login</value>
-      <webElementGuid>6d51ada1-4c16-4598-8a64-56b36a6d6b14</webElementGuid>
+      <webElementGuid>e05f757c-f7a7-484c-a8bd-9238fae23be1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a2153501-ed82-4429-b3a1-e5226db4f1ac</webElementGuid>
+      <webElementGuid>3080efce-585e-4e89-a119-294cfb90a295</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>root</value>
-      <webElementGuid>18961551-6a6d-48a8-b607-354bffa97035</webElementGuid>
+      <webElementGuid>c5372c23-9645-4364-8957-d989155a3902</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +84,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>80e00bde-2aef-437f-9c69-86d28dc4253d</webElementGuid>
+      <webElementGuid>c8437c91-b66a-4349-aa33-d04e966fc440</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-auth&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;h-screen p-6 bg-primary-50&quot;]/div[@class=&quot;h-full flex flex-col gap-6 py-[47.5px] px-6 bg-white&quot;]/div[@class=&quot;grid grid-cols-2 items-center gap-12 w-full h-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-[420px] mx-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-3&quot;]/div[@class=&quot;flex flex-col gap-3 w-full&quot;]/button[@class=&quot;w-full min-w-full !h-[42px] !text-base !font-semibold relative items-center justify-center inline-flex text-center text-xs h-[26px] w-max min-w-[26px] px-3 py-[7.6px] min-w-[26px] ring-inset shadow-sm rounded text-white dark:!text-primary-800 bg-primary dark:bg-primary-300 ring-1 ring-primary dark:ring-primary-300 focus-visible:bg-primary-600 focus-visible:ring-primary-600 focus-visible:ring-offset-0 hover:bg-primary-strong dark:hover:bg-primary-400 hover:ring-primary-strong dark:hover:ring-primary-400 focus-visible:ring-1 focus-visible:ring-primary-600 dark:focus-visible:ring-primary-600 transition duration-200 ease-in-out cursor-pointer overflow-hidden select-none&quot;]</value>
-      <webElementGuid>c7f8a5a4-887c-482f-b13f-ccc082e6ab55</webElementGuid>
+      <webElementGuid>79c3694d-362b-402b-9cb8-d0aed39e803a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>9fa52ec4-2cfb-431c-997e-a34e73c2b5c3</webElementGuid>
+      <webElementGuid>705d87d1-751c-4dde-9e39-7e7abcf8ffe8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-auth']/div/div/div/div/div/div/div/div/div[2]/button</value>
-      <webElementGuid>834833db-981e-4a4b-8be9-c083ba386dec</webElementGuid>
+      <webElementGuid>4f6c4593-6f22-497f-99c6-6da064bf1c09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please input all required field!'])[1]/following::button[1]</value>
-      <webElementGuid>290aec70-ee77-4989-8b39-0b99f51c7d70</webElementGuid>
+      <webElementGuid>752e7a69-0d93-4a8f-8d9c-3b3cb7419ce6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please verify that you are not a robot.'])[1]/following::button[1]</value>
-      <webElementGuid>b1630a31-ea43-4758-bbeb-04d2ed7d99a6</webElementGuid>
+      <webElementGuid>b56fdfdb-f775-4d52-a224-fa50c53016c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +132,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/preceding::button[1]</value>
-      <webElementGuid>99577ad6-fc6d-49d7-8b08-c49343274076</webElementGuid>
+      <webElementGuid>47a11b1a-58d9-477d-a4b7-6405bdf5d8ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +140,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/div/div/div/div/div[2]/button</value>
-      <webElementGuid>43002cd1-8972-4869-9a26-27c6a4bf4510</webElementGuid>
+      <webElementGuid>d855e8b0-6a7e-40fe-a467-9b0e443698a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +148,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>9eb8bb65-83fa-4135-903b-85c52f962d26</webElementGuid>
+      <webElementGuid>b0259155-5827-4d37-9635-b598dcc72f8b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

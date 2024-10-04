@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button Select Group Role</name>
+   <name>Dropdown Role Name System Role</name>
    <tag></tag>
-   <elementGuidId>01c922cf-6aa1-49f7-9e69-8548f061e106</elementGuidId>
+   <elementGuidId>ff3139f4-533d-4f4f-9a96-0bdd15f79b68</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[3]/div[2]/div[2]/div[2]/div[3]/div/button</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div[2]/div/div[2]/div[2]/div[3]/div[2]/div[2]/div/div/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

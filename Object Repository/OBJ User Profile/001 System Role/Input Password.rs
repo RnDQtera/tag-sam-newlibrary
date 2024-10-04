@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Tab Group Role</name>
+   <name>Input Password</name>
    <tag></tag>
-   <elementGuidId>a5f94858-fa0e-47b6-91dc-e51c9abffbb9</elementGuidId>
+   <elementGuidId>ab5cf015-ca63-46a7-9eee-1f0ef81dc37e</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[3]/div[2]/div[1]/div[2]/a</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div/div/div/div[1]/div[1]/div/div/div[1]/div[1]/form/div[1]/div/div[2]/div/div/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

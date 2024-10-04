@@ -6,12 +6,11 @@
    <elementGuidId>ee2039f0-30e9-4db2-b780-8c804eb7f337</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-modules']/div/div/div[2]/div[2]/div[2]/a/div</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div/div/div[2]/div[2]/div[2]/a/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3a3d4c03-c9fb-4335-9dfd-2224da582e55</webElementGuid>
+      <webElementGuid>efc0dbc0-ad80-4c6c-9957-f1ea03234602</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>module-shadow w-[110px] h-[110px] flex items-center justify-center rounded-lg bg-primary-50</value>
-      <webElementGuid>c1abf157-86a7-410b-acce-6a9442ee8159</webElementGuid>
+      <webElementGuid>b7815140-7687-4191-bd8d-65dd9b98eed7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-modules&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;h-screen w-full flex flex-col bg-[#f7f7fc]&quot;]/div[@class=&quot;py-3 px-6 h-full flex flex-col items-stretch&quot;]/div[@class=&quot;mt-2 flex flex-col justify-start items-center gap-6 py-6 bg-white h-full rounded-lg&quot;]/div[@class=&quot;grid grid-cols-1 gap-12&quot;]/a[1]/div[@class=&quot;module-shadow w-[110px] h-[110px] flex items-center justify-center rounded-lg bg-primary-50&quot;]</value>
-      <webElementGuid>24a7c9ab-ab80-4573-b5de-7e32ed9ab6b3</webElementGuid>
+      <webElementGuid>1f120b9f-8241-443f-a06b-8ee18a74e6b3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-modules']/div/div/div[2]/div[2]/div[2]/a/div</value>
-      <webElementGuid>e94385d5-8d3b-4cb8-9411-bb475d1d5146</webElementGuid>
+      <webElementGuid>52733b31-5331-4481-936a-d937d0793549</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Modules'])[1]/following::div[2]</value>
-      <webElementGuid>2369fec1-ff6d-46e6-8c69-a3cbcde24561</webElementGuid>
+      <webElementGuid>608a703c-66c8-4150-bc28-1f17df70b886</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Monster Inc.'])[1]/following::div[4]</value>
-      <webElementGuid>ab6f56fb-6bc9-45d7-8888-c48f7d2626ba</webElementGuid>
+      <webElementGuid>32a51d69-ff15-485c-8e14-40cd7ce22ea1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fixed Asset'])[1]/preceding::div[1]</value>
-      <webElementGuid>88355570-b99b-40ac-95ab-e5e9073877e2</webElementGuid>
+      <webElementGuid>e61ce96c-9f1a-466a-9b14-5f73352394ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +84,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div</value>
-      <webElementGuid>e411c065-2e82-4644-95fd-884b13fb41b2</webElementGuid>
+      <webElementGuid>a369a043-c462-44cb-a5e0-eed82cd41bdf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

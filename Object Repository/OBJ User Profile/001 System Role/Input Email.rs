@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Checkbox Group Role</name>
+   <name>Input Email</name>
    <tag></tag>
-   <elementGuidId>065033c1-d1f7-4e19-82c2-4295506f6f11</elementGuidId>
+   <elementGuidId>de25ca8f-fb75-4777-a432-66c8ba12fe3b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[6]/div/div[2]/div/div/ul/li/ul/li[1]/div</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/div/div/div/div/div[1]/div[1]/div/div/div[1]/div[1]/form/div[1]/div/div[1]/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

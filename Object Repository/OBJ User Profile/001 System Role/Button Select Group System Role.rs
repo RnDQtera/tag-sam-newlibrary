@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Searchbox Group Role</name>
+   <name>Button Select Group System Role</name>
    <tag></tag>
-   <elementGuidId>03b781eb-2b2f-4117-94e0-9e29e2cd1542</elementGuidId>
+   <elementGuidId>7e400c5c-ec54-4e0d-b52d-d2c013c2b22b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[3]/div[2]/div[2]/div[1]/div[2]/div/form/input</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[7]/div/div[3]/button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
