@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button action asset</name>
+   <name>Request extension - borrowed asset</name>
    <tag></tag>
-   <elementGuidId>692548d4-aed0-4c05-9498-793066a80d03</elementGuidId>
+   <elementGuidId>84f7dfd2-902a-4bbe-9ddf-22b1000e0e1f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div[3]/div[1]/table/tbody/tr/td[9]/div/button&#xd;
-</value>
+         <value>/html/body/div[4]/ul/li[2]/div/a</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

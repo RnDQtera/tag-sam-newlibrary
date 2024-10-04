@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.04 Melakukan action cancel report missing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>874be3ff-c6c8-4eb2-8fae-db99e0042b2d</testCaseGuid>
+</TestCaseEntity>

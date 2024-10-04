@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('00-01 ID'), 'codygakpo1@mailnesia.com')
 
 WebUI.setText(findTestObject('00-02 PASS'), 'Moderator12@')
 
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILURE)
 
@@ -49,21 +49,13 @@ WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Menu borrowed 
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Button action asset - borrowed asset'))
+WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Button action asset (2) - borrowed asset'))
 
-WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Report damaged - borrowed asset'))
+WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Report missing - borrowed asset'))
 
-WebUI.delay(5)
+WebUI.delay(3)
 
-WebUI.uploadFile(findTestObject('User Basic - My Asset Task Assignment/Input image - assigned asset'), 'C:\\Users\\HP\\OneDrive\\Pictures\\meja rusak.jpg')
-
-WebUI.delay(5)
-
-WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Button apply adjust photo'))
-
-WebUI.delay(5)
-
-WebUI.sendKeys(findTestObject('User Basic - My Asset Task Assignment/Field enter note'), 'rusak')
+WebUI.sendKeys(findTestObject('User Basic - My Asset Task Assignment/Field enter note - report missing'), 'hilanggg')
 
 WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Button submit'))
 
@@ -71,5 +63,5 @@ WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Button continu
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/User Basic/Tc.Log.004.01- Melakukan action report damage.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/User Basic/Tc.Log.004.02- Melakukan action report missing.png', FailureHandling.STOP_ON_FAILURE)
 
