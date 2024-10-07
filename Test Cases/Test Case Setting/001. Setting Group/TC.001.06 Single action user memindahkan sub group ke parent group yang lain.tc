@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.001.06 Single action user memindahkan sub group ke parent group yang lain</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6a0b8caa-e010-4798-b80e-61bae8b10d85</testCaseGuid>
+</TestCaseEntity>

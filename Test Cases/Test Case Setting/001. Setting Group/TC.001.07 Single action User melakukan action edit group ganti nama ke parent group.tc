@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.001.07 Single action User melakukan action edit group ganti nama ke parent group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e1d13d1-0552-40c2-bdc6-05c03abbb3ac</testCaseGuid>
+</TestCaseEntity>

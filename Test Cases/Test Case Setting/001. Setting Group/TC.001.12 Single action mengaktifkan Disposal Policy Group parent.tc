@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.001.12 Single action mengaktifkan Disposal Policy Group parent</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3925aa52-1a36-46dd-941b-49f5b9d48806</testCaseGuid>
+</TestCaseEntity>

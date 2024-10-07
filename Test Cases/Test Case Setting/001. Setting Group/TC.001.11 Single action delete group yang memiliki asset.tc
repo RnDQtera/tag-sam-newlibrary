@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.001.11 Single action delete group yang memiliki asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e611de7d-1d8a-4b9b-9ab0-e1939a4d6eef</testCaseGuid>
+</TestCaseEntity>

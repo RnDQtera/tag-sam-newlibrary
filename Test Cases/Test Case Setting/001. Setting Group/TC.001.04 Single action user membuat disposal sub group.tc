@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.001.04 Single action user membuat disposal sub group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>648ed08c-8740-4b3a-9dab-a02dfb3f43b3</testCaseGuid>
+</TestCaseEntity>

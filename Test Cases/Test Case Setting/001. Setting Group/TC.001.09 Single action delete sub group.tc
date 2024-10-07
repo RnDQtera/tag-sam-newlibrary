@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.001.09 Single action delete sub group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>451391f7-2114-4aa3-ad28-ada8df29ab07</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.001.05 Single action user memindahkan group ke group yang lain</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2225c5f0-d516-48b8-ba42-632a65e0a489</testCaseGuid>
+</TestCaseEntity>
