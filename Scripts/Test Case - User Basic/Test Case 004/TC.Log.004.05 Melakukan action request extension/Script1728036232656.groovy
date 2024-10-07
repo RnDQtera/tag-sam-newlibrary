@@ -17,3 +17,53 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
+
+WebUI.navigateToUrl('https://console.tagsamurai.com/auth/login')
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('00-01 ID'), 'codygakpo1@mailnesia.com')
+
+WebUI.setText(findTestObject('00-02 PASS'), 'Moderator12@')
+
+WebUI.delay(10)
+
+WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Profil'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Menu my asset'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Menu borrowed asset'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Button action asset - borrowed asset'))
+
+WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Request extension - borrowed asset'))
+
+WebUI.delay(2)
+
+WebUI.clearText(findTestObject('User Basic - My Asset Task Assignment/Field duration day - borrowed asset'))
+
+WebUI.delay(1)
+
+WebUI.sendKeys(findTestObject('User Basic - My Asset Task Assignment/Field duration day - borrowed asset'), '4')
+
+WebUI.click(findTestObject('User Basic - My Asset Task Assignment/Button submit extension request'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/User Basic/Tc.Log.004.05 - Melakukan request extension.png', FailureHandling.STOP_ON_FAILURE)
+

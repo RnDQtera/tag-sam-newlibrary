@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.12 Melakukan filtering sesuai dengan field name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e043b7fc-8370-48c1-972e-42affe761633</testCaseGuid>
+</TestCaseEntity>

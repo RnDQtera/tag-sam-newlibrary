@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.08 Melakukan pengecekan pada borrowing log</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e03991e-c249-4933-9f54-5310403ce5d4</testCaseGuid>
+</TestCaseEntity>

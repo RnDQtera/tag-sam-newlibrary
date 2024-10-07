@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.09 Bulk action melakukan action request extension</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5857d5c0-69bf-4505-833c-6ef3bfb15995</testCaseGuid>
+</TestCaseEntity>
