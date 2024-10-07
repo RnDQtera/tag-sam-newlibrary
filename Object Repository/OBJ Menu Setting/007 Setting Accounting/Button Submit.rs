@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Submit</name>
+   <tag></tag>
+   <elementGuidId>334022a5-869c-4f8a-a8d8-e6e29d8442f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Field'])[2]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>972cd956-e61c-4b88-8886-6865a9fc2c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>duration-200 whitespace-nowrap font-medium tracking-[0.24px] leading-3 flex-1</value>
+      <webElementGuid>b7ae4c15-5dbe-4739-b15d-7801bb929628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0cca5c88-27a3-4698-bef6-99d1c4924d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>cd202adc-47b2-48b1-9b54-9281f586978e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;transition duration-300 has-[.mask-active]:bg-transparent dark:has-[.mask-active]:bg-transparent bg-dialog-mask dark:dialog-mask has-[.mask-active]:backdrop-blur-none backdrop-blur-sm&quot;]/div[@class=&quot;dark:!bg-grayscale-900 [&amp;_h3]:dark:text-general-100 [&amp;_label]:dark:text-general-100 rounded-[0.4375em] shadow-[box-shadow: -4px 4px 20px 0px #0000001A] flex flex-col p-6 gap-3 bg-white dark:bg-grayscale-900 max-h-[90vh] sm:max-w-[90vw] m-0 transform scale-100 max-w-[90vw] !w-[500px]&quot;]/div[@class=&quot;flex items-center justify-end shrink-0 text-right gap-1 mt-2 border-t-0 rounded-b-lg bg-inherit dark:bg-inherit text-surface-700 dark:text-surface-0/80 flex flex-col !items-end justify-end !gap-1&quot;]/div[@class=&quot;flex gap-1 items-center justify-end&quot;]/button[@class=&quot;relative items-center justify-center inline-flex text-center text-xs h-[26px] w-max min-w-[26px] px-3 py-[7.6px] min-w-[26px] ring-inset shadow-sm rounded text-white dark:!text-success-900 bg-success dark:bg-success-300 ring-1 ring-success dark:ring-success-300 focus-visible:bg-success-600 focus-visible:ring-success-600 focus-visible:ring-offset-0 hover:bg-success-strong dark:hover:bg-success-400 hover:ring-success-strong dark:hover:ring-success-400 focus-visible:ring-1 focus-visible:ring-success-600 dark:focus-visible:ring-success-600 transition duration-200 ease-in-out cursor-pointer overflow-hidden select-none&quot;]/span[@class=&quot;duration-200 whitespace-nowrap font-medium tracking-[0.24px] leading-3 flex-1&quot;]</value>
+      <webElementGuid>48270968-0bc6-45a9-9e9e-0ceb7f158a4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Field'])[2]/following::span[1]</value>
+      <webElementGuid>b799ac2b-133f-4731-9b90-89ba919e081d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stay on this form after submitting'])[1]/following::span[2]</value>
+      <webElementGuid>9187f8a6-dd51-4443-8883-95eff745f166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
+      <webElementGuid>6fcc2c0b-c095-4c75-a7c1-eaf519b41896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button[2]/span</value>
+      <webElementGuid>627a4333-9800-4547-b10c-1d0e209f7ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>4bf03467-8f0e-409e-8684-ead352163c66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
