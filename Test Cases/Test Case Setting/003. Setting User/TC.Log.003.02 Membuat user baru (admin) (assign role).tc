@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.02 Membuat user baru (admin) (assign role)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1217c888-d7ac-4bce-ad10-11f4b94ea36a</testCaseGuid>
+</TestCaseEntity>

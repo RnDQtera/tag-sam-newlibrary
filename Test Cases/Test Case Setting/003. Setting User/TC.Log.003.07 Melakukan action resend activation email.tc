@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.07 Melakukan action resend activation email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3143674-bbdd-4515-a7ad-1d2621182a79</testCaseGuid>
+</TestCaseEntity>
