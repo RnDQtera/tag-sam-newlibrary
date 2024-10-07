@@ -39,14 +39,15 @@ WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Group'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Slider 1 Disposal Policy Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Search Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Checkbox List 2 Disposal Group'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/001 Setting Group/Searchbox Group'), 'Barcelona')
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/001 Setting Group/Searchbox Group'), Keys.chord(Keys.ENTER))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log Group'))
-
-WebUI.delay(2)
-
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.12 - Single action mengaktifkan Disposal Policy Group parent.png', 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.19 - Mencari group menggunakan fitur search.png', FailureHandling.STOP_ON_FAILURE)
 

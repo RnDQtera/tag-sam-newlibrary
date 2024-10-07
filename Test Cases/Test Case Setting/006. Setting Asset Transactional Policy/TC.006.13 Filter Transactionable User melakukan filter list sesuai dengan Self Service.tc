@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.13 Filter Transactionable User melakukan filter list sesuai dengan Self Service</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74ddcbf0-bd1f-4f45-aef5-9bf7dbcb50bc</testCaseGuid>
+</TestCaseEntity>

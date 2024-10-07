@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[6]/ul/li[1]/div</value>
+         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[7]/ul/li[1]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f637837c-f276-498a-ae6b-a1e47cd41070</webElementGuid>
+      <webElementGuid>6b305073-1b27-411a-ba48-b7d68a9b6967</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-center relative rounded-md px-[8px] py-[6px] gap-[6px] hover:bg-general-50 inactive group transition-shadow duration-200 select-none cursor-pointer</value>
-      <webElementGuid>76fd7b5a-c65e-49b2-8d40-7318dc3fe022</webElementGuid>
+      <webElementGuid>bb96dacc-be64-49d6-8c3f-9702355d762b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>content</value>
-      <webElementGuid>91f48869-c38d-4566-ab84-bc79274a282b</webElementGuid>
+      <webElementGuid>411ef406-f426-4f4f-af46-ed84323953c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-p-highlight</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a396740e-02aa-4bf6-af41-83985444b069</webElementGuid>
+      <webElementGuid>2eb71838-4a14-4e2a-b1f0-26f25fadf413</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-p-selectable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c700c44f-01b7-4bd7-a3e6-6b30f9ff017f</webElementGuid>
+      <webElementGuid>d1af1732-11d7-45d2-87e7-d3a3c71bc39d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Group</value>
-      <webElementGuid>ca18c79f-0dc9-45a8-955f-5105ebcd703a</webElementGuid>
+      <webElementGuid>839af9c5-5fca-4212-8900-b9c334c23914</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sidebar-left-app&quot;)/div[@class=&quot;relative pb-3 rounded-md&quot;]/div[@class=&quot;overflow-auto&quot;]/ul[@class=&quot;grid m-0 p-0 gap-1 list-none overflow-auto&quot;]/li[@class=&quot;rounded-md grid gap-0.5 focus:outline-none focus:outline-offset-0&quot;]/ul[@class=&quot;m-0 list-none p-0 !pl-2 gap-0.5 grid duration-300 transition-all ease-in&quot;]/li[@class=&quot;m-0 list-none p-0 !pl-2 gap-0.5 grid duration-300 transition-all ease-in&quot;]/div[@class=&quot;flex items-center relative rounded-md px-[8px] py-[6px] gap-[6px] hover:bg-general-50 inactive group transition-shadow duration-200 select-none cursor-pointer&quot;]</value>
-      <webElementGuid>50c1c357-c04f-436c-bb48-e8702f3ac9f5</webElementGuid>
+      <webElementGuid>f93d7a70-1066-4449-8acf-7378fb2e0023</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sidebar-left-app']/div[2]/div/ul/li[6]/ul/li/div</value>
-      <webElementGuid>54109c6c-d686-4480-991a-68f0ba3cfc0b</webElementGuid>
+      <webElementGuid>ebea75cb-b363-48bf-ae6d-e17a0e361d2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::div[1]</value>
-      <webElementGuid>e20064c5-e831-4951-a4a5-cde0ec90a446</webElementGuid>
+      <webElementGuid>9f896d97-d622-4d61-896c-57d535382a81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Report &amp; Log'])[1]/following::div[2]</value>
-      <webElementGuid>fc19a562-ca30-4543-b006-64e66b70d482</webElementGuid>
+      <webElementGuid>c00a36c0-cb24-4324-aac0-f034f3a08dc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/preceding::div[1]</value>
-      <webElementGuid>65452ccd-8b35-4d6e-a057-d8497c23f209</webElementGuid>
+      <webElementGuid>755e7306-d3cd-45e5-9029-66061c274eb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/ul/li/div</value>
-      <webElementGuid>658cb407-e97e-453e-874c-1e947278adfa</webElementGuid>
+      <webElementGuid>20e93866-02b3-443a-a31d-6bd2a9d429c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Group' or . = 'Group')]</value>
-      <webElementGuid>1f17ee43-3cf5-4566-a3f4-77c486bee12a</webElementGuid>
+      <webElementGuid>3f0c5915-843b-48da-8a84-05f9f1d7862f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

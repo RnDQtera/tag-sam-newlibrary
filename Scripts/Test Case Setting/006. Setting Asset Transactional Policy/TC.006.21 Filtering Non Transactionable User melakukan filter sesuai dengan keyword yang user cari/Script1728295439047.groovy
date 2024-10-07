@@ -35,18 +35,22 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Asset Transactional Policy'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Slider 1 Disposal Policy Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.02 Tab Non Transactionable/Tab Non Transactionable'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/Button Search ATP'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/Searchbox ATP'), 'ikea')
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/Searchbox ATP'), Keys.chord(Keys.ENTER))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.12 - Single action mengaktifkan Disposal Policy Group parent.png', 
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.006.21 - Filtering Non Transaction User melakukan filter sesuai dengan keyword yang user cari.png', 
     FailureHandling.STOP_ON_FAILURE)
 

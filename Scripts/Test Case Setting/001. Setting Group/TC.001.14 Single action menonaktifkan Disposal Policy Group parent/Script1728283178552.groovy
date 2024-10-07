@@ -47,6 +47,6 @@ WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log G
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.12 - Single action mengaktifkan Disposal Policy Group parent.png', 
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.14 - Single action menonaktifkan Disposal Policy Group parent.png', 
     FailureHandling.STOP_ON_FAILURE)
 

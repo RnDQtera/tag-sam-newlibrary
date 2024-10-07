@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.001.15 Bulk action mengaktifkan Disposal Policy Group parent</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6866ee83-5b46-417d-b245-1ad63a257157</testCaseGuid>
+</TestCaseEntity>

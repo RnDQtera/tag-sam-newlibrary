@@ -35,18 +35,13 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Asset Transactional Policy'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Slider 1 Disposal Policy Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/Button Download ATP'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log Group'))
-
-WebUI.delay(2)
-
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.12 - Single action mengaktifkan Disposal Policy Group parent.png', 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.006.16 - Download list transactionable.png', FailureHandling.STOP_ON_FAILURE)
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.06 Bulk action Transactionable melakukan action Remove from service self asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b4e1192-14a9-4a2d-884e-477b0109bd30</testCaseGuid>
+</TestCaseEntity>

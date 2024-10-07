@@ -35,18 +35,22 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Asset Transactional Policy'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Slider 1 Disposal Policy Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Action List 1 Transactionable'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Button Mark As Self Service Asset'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Button Continue Submit ATP'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Button Change Log ATP'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.12 - Single action mengaktifkan Disposal Policy Group parent.png', 
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.006.02 - Single action Transactionable melakukan action Remove from self service asset.png', 
     FailureHandling.STOP_ON_FAILURE)
 

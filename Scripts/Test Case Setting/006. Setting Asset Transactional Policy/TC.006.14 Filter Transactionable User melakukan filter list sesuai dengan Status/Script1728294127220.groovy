@@ -35,18 +35,22 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Asset Transactional Policy'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Slider 1 Disposal Policy Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/Button Filter ATP'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/Dropdown Select Status ATP'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/Field 1 Filter Transactionable'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Button Apply Transactionable'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.12 - Single action mengaktifkan Disposal Policy Group parent.png', 
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.006.14 - Filter Transactionable User melakukan filter list sesuai dengan Status.png', 
     FailureHandling.STOP_ON_FAILURE)
 

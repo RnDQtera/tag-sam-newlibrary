@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.001.18 Bulk action verifikasi menonaktifkan disposal policy group inactive dan active</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4413382e-9b86-4dc6-a008-2f0286911ed3</testCaseGuid>
+</TestCaseEntity>

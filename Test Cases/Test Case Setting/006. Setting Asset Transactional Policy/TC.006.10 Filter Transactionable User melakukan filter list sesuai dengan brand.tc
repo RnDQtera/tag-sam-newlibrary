@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.10 Filter Transactionable User melakukan filter list sesuai dengan brand</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53bf7b11-101b-4c3c-9441-8b27307344ac</testCaseGuid>
+</TestCaseEntity>

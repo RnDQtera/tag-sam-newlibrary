@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.15 Filtering Transactionable User melakukan filter sesuai dengan keyword yang user cari</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e4b7d4d-ffe9-48c8-9a2c-82069e1d018d</testCaseGuid>
+</TestCaseEntity>

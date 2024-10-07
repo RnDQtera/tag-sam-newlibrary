@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.14 Filter Transactionable User melakukan filter list sesuai dengan Status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>acae37e4-b9c7-43e9-82e1-314cb671e540</testCaseGuid>
+</TestCaseEntity>

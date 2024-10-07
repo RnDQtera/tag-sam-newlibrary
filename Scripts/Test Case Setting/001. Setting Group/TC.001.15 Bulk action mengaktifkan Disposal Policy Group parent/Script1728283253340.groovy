@@ -39,7 +39,11 @@ WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Group'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Slider 1 Disposal Policy Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Checkbox Bulk Action Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Bulk Action Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Activate Disposal Policy Group'))
 
 WebUI.delay(2)
 
@@ -47,6 +51,6 @@ WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log G
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.12 - Single action mengaktifkan Disposal Policy Group parent.png', 
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.15 - Bulk action mengaktifkan Disposal Policy Group parent .png', 
     FailureHandling.STOP_ON_FAILURE)
 

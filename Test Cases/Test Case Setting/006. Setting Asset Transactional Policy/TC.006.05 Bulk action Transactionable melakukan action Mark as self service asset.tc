@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.05 Bulk action Transactionable melakukan action Mark as self service asset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>337670b1-5e9e-4c5a-ac88-dcd3f1faaef4</testCaseGuid>
+</TestCaseEntity>

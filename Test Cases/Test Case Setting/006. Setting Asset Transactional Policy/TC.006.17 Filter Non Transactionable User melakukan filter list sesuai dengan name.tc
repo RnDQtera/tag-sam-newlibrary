@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.006.17 Filter Non Transactionable User melakukan filter list sesuai dengan name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>871f063d-62f5-48d8-b558-f9e4eeef2b53</testCaseGuid>
+</TestCaseEntity>
