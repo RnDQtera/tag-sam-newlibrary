@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.24 (Account code list) User mendownload Account code list</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ed33340-4bf8-43d8-b0f3-b99003ca7d95</testCaseGuid>
+</TestCaseEntity>

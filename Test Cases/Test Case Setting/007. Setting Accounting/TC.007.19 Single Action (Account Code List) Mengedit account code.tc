@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.19 Single Action (Account Code List) Mengedit account code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>14ca7ac6-38ec-46b8-a8e6-32bcb160d364</testCaseGuid>
+</TestCaseEntity>

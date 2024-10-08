@@ -49,7 +49,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Chang
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Depreciation Settings'))
 
 WebUI.delay(2)
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.31 (Changelog Account code list) User mendownload list Changelog Account code list</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2471778-bde8-47ae-80b3-34b1c38fa0d1</testCaseGuid>
+</TestCaseEntity>

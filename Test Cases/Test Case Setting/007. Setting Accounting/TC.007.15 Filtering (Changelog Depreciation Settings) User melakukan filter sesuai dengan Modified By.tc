@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.15 Filtering (Changelog Depreciation Settings) User melakukan filter sesuai dengan Modified By</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2b142b6-63e6-4037-80af-f35afc8fadc9</testCaseGuid>
+</TestCaseEntity>

@@ -39,19 +39,19 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Sub Menu Acc
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Action Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Action Depreciation Settings'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Edit Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Edit Depreciation Settings'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life Edit'))
 
 WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life Edit'), '10')
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Save Edit Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Save Edit Depreciation Group'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Depreciation Settings'))
 
 WebUI.delay(2)
 

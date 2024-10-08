@@ -39,23 +39,21 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Sub Menu Acc
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Depreciation Settings'))
 
-WebUI.delay(2)
+WebUI.delay(5)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Filter Depreciation Settings'))
 
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Action Changelog Choose Date'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Action Changelog Choose Date Depreciation Settings'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Item Changelog Date'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Item Changelog Date Depreciation Settings'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Apply Filter'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Apply Filter Depreciation Settings'))
 
 WebUI.delay(2)
 

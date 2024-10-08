@@ -39,15 +39,15 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Sub Menu Acc
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Action Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Action Depreciation Settings'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Delete Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Delete Depreciation Settings'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Dialog Delete'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Dialog Delete Depriciation Group'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Depreciation Settings'))
 
 WebUI.delay(2)
 

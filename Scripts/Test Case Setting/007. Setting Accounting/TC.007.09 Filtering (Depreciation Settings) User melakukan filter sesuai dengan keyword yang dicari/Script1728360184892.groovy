@@ -39,11 +39,11 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Sub Menu Acc
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Search Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Search Depreciation Settings'))
 
-WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Search Accounting'), 'Inventaris Kantor Asset')
+WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Search Depreciation Settings'), 'Inventaris Kantor Asset')
 
-WebUI.sendKeys(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Search Accounting'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Search Depreciation Settings'), Keys.chord(Keys.ENTER))
 
 WebUI.delay(2)
 

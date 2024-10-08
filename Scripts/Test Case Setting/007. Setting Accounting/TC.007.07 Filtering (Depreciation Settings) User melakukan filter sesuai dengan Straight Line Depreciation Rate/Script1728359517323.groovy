@@ -39,7 +39,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Sub Menu Acc
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Filter Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Filter Depreciation Settings'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Action Choose Straight Line Depreciation Rate'))
 

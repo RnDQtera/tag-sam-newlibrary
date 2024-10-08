@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.26 Filtering (Changelog Account code list) User melakukan filter sesuai dengan Date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1a893c04-9618-44d0-87aa-cdfad182a5be</testCaseGuid>
+</TestCaseEntity>

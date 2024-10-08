@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.23 Filtering (Account code list) User melakukan filter sesuai dengan keyword yang dicari</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0626738b-4c94-4942-ab74-6b7a00f6b967</testCaseGuid>
+</TestCaseEntity>

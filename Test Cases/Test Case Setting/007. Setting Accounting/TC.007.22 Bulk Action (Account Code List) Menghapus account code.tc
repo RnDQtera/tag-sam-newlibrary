@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.22 Bulk Action (Account Code List) Menghapus account code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4937482d-9135-4c66-9f26-61a4054260b7</testCaseGuid>
+</TestCaseEntity>

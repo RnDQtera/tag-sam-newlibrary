@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.20 Single Action (Account Code List) Menghapus account code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>886d5edd-735f-492a-b752-83c25bf99fcb</testCaseGuid>
+</TestCaseEntity>
