@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.11 Menambahkan approver pada role disposal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fa5f8a02-3b25-4480-b4aa-db97353cc288</testCaseGuid>
+</TestCaseEntity>

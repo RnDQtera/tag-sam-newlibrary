@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.22 Melakukan action remove approval level dari borrowing assigment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a2c916f-53b9-4601-b68e-52d8c90131c4</testCaseGuid>
+</TestCaseEntity>

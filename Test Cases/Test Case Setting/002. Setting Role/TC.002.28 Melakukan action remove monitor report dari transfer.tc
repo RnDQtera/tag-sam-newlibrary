@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.28 Melakukan action remove monitor report dari transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>464419c8-60bf-4efa-b037-d83e94c8317f</testCaseGuid>
+</TestCaseEntity>

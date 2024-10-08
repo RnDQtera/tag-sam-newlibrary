@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.29 Melakukan action remove approval dari transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5fe7fb70-0ad5-4f42-bac6-371ae3ac24b7</testCaseGuid>
+</TestCaseEntity>

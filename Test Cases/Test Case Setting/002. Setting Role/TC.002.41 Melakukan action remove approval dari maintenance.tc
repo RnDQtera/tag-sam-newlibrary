@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.41 Melakukan action remove approval dari maintenance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec139f16-d08d-436b-b4c8-f89a5fc0d113</testCaseGuid>
+</TestCaseEntity>

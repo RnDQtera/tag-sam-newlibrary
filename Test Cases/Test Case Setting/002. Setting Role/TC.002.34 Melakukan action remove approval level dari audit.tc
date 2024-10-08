@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.34 Melakukan action remove approval level dari audit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f663e3e5-b87b-40f0-88ca-d625253055df</testCaseGuid>
+</TestCaseEntity>

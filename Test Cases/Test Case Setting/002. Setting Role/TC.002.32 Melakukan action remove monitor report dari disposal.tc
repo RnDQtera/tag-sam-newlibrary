@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.32 Melakukan action remove monitor report dari disposal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b412d84f-745f-4087-8f71-361e26155954</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.36 Melakukan action remove monitor report dari audit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ff7809b-48f7-45ce-92e5-8708d3565793</testCaseGuid>
+</TestCaseEntity>

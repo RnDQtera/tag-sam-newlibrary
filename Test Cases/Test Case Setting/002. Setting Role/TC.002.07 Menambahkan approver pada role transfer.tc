@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.07 Menambahkan approver pada role transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73e875aa-7211-41e1-835d-c50ef78e3c7e</testCaseGuid>
+</TestCaseEntity>

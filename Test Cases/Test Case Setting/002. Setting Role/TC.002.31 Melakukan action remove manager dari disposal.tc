@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.31 Melakukan action remove manager dari disposal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37b1a92c-764f-4c45-a0d9-43e43c138c66</testCaseGuid>
+</TestCaseEntity>

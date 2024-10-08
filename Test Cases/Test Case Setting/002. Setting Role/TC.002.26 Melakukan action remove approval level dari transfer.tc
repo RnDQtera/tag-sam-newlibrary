@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.26 Melakukan action remove approval level dari transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f5b2f25-a644-498e-a0ea-cc99b0c65db4</testCaseGuid>
+</TestCaseEntity>

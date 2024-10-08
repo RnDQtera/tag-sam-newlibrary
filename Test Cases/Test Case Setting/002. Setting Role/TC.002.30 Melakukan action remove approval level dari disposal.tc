@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.30 Melakukan action remove approval level dari disposal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc02f873-4c31-4803-ae78-b11c4ae8a938</testCaseGuid>
+</TestCaseEntity>

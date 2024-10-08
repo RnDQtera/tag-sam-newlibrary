@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.39 Melakukan action remove manager dari maintenance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fa25a38-d0fc-480f-9635-764598f6f25d</testCaseGuid>
+</TestCaseEntity>
