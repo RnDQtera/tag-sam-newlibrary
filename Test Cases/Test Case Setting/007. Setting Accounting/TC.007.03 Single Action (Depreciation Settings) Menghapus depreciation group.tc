@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007.03 Single Action (Depreciation Settings) Menghapus depreciation group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b875aa4f-37e1-4c46-a8b9-f67b1c22fffc</testCaseGuid>
+</TestCaseEntity>

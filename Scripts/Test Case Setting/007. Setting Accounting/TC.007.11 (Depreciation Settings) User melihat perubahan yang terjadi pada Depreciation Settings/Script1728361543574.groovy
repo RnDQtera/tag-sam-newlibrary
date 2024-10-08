@@ -39,22 +39,10 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Sub Menu Acc
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Depreciation Group'))
-
-WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Text Tangible Asset Group'), 
-    'Inventaris Kantor Asset')
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'))
-
-WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'), '5')
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Button Submit'))
-
-WebUI.delay(2)
-
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Accounting'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.007.01 - Membuat tangible asset group baru.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.007.11 - (Depreciation Settings) User melihat perubahan yang terjadi pada Depreciation Settings.png', 
+    FailureHandling.STOP_ON_FAILURE)
 

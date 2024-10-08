@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button Changelog Accounting</name>
+   <name>Input Number of Useful Life Edit</name>
    <tag></tag>
-   <elementGuidId>0f61b632-a38a-47f8-9625-faacc1fbe9ff</elementGuidId>
+   <elementGuidId>42039e51-a908-4a32-b8eb-48cc7aaa5fac</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/button[4]</value>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div[2]/div/span/span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

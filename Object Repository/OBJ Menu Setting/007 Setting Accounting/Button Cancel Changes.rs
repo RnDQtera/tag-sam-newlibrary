@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button Changelog Accounting</name>
+   <name>Button Cancel Changes</name>
    <tag></tag>
-   <elementGuidId>0f61b632-a38a-47f8-9625-faacc1fbe9ff</elementGuidId>
+   <elementGuidId>c6d8e2db-d23b-4ae9-bf12-7d464e28faf8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/button[4]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[1]/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

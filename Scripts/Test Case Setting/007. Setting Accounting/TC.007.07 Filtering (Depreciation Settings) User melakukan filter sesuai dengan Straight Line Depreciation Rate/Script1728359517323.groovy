@@ -39,22 +39,20 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Sub Menu Acc
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Depreciation Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Filter Accounting'))
 
-WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Text Tangible Asset Group'), 
-    'Inventaris Kantor Asset')
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Action Choose Straight Line Depreciation Rate'))
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'))
+WebUI.delay(3)
 
-WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'), '5')
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Button Submit'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Item Straight Line Depreciation Rate'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Apply Filter Accounting'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.007.01 - Membuat tangible asset group baru.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.007.07 - Filtering (Depreciation Settings) User melakukan filter sesuai dengan Straight Line Depreciation Rate.png', 
+    FailureHandling.STOP_ON_FAILURE)
 

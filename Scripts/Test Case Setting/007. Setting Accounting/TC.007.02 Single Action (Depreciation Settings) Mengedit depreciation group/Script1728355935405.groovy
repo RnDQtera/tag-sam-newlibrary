@@ -39,16 +39,15 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Sub Menu Acc
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Depreciation Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Action Accounting'))
 
-WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Text Tangible Asset Group'), 
-    'Inventaris Kantor Asset')
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Edit Accounting'))
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life Edit'))
 
-WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'), '5')
+WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life Edit'), '10')
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Button Submit'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Save Edit Accounting'))
 
 WebUI.delay(2)
 
@@ -56,5 +55,6 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Chang
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.007.01 - Membuat tangible asset group baru.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.007.02 - Single Action (Depreciation Settings) Mengedit depreciation group.png', 
+    FailureHandling.STOP_ON_FAILURE)
 

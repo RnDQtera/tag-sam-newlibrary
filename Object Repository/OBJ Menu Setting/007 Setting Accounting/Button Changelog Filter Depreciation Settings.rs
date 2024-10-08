@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button Changelog Accounting</name>
+   <name>Button Changelog Filter Depreciation Settings</name>
    <tag></tag>
-   <elementGuidId>0f61b632-a38a-47f8-9625-faacc1fbe9ff</elementGuidId>
+   <elementGuidId>ee167ba5-bd5c-4702-9b44-4826d2edca7e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/button[4]</value>
+         <value>/html/body/div[5]/div/div[2]/div/div[1]/button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
