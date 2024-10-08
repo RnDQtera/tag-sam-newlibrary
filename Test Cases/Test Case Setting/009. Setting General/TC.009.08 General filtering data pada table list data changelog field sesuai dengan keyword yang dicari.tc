@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.009.08 General filtering data pada table list data changelog field sesuai dengan keyword yang dicari</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>26ceb960-7112-4086-a0af-92b34ce61ea7</testCaseGuid>
+</TestCaseEntity>

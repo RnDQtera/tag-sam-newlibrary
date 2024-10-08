@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.009.02 User mengatur time zone pada general settings</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30eef64f-ada1-4c4b-bd17-295199eb826f</testCaseGuid>
+</TestCaseEntity>

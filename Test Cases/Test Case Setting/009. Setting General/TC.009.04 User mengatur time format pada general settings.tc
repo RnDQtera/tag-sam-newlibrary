@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.009.04 User mengatur time format pada general settings</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1d6c730-bc49-4948-b811-f13326668808</testCaseGuid>
+</TestCaseEntity>

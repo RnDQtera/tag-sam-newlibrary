@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.009.09 General User mendownload list data pada table list data changelog</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0172de40-106f-4148-bc5c-e7736af7f57c</testCaseGuid>
+</TestCaseEntity>

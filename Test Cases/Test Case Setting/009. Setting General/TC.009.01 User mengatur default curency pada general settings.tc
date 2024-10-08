@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.009.01 User mengatur default curency pada general settings</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a5140070-927f-4a65-ac58-a43163d3d13a</testCaseGuid>
+</TestCaseEntity>

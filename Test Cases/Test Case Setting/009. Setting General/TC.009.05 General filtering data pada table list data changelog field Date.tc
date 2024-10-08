@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.009.05 General filtering data pada table list data changelog field Date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8bbbaef4-543c-479c-bff1-f82486c551f3</testCaseGuid>
+</TestCaseEntity>
