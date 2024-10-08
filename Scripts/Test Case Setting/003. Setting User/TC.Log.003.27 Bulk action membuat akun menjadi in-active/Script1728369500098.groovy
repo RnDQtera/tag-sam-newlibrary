@@ -41,15 +41,19 @@ WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setti
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Setting - User'))
 
-WebUI.delay(2)
+WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Slider user list (4)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Checkbox user list (4)'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button bulk action'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Bulk action - inactive'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button delete - delete group role'))
 
 WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.16 - Mengnonaktifkan user.png',
-	FailureHandling.STOP_ON_FAILURE)
-
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.27 - Bulk action membuat akun menjadi inactive.png', FailureHandling.STOP_ON_FAILURE)
 

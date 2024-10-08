@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button edit</name>
+   <name>Dropdown field last update (2)</name>
    <tag></tag>
-   <elementGuidId>f4259231-5c96-434e-bba2-3027e7051000</elementGuidId>
+   <elementGuidId>12973354-4586-4957-87cb-bcd84fea6a36</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/ul/li[1]/div/a</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[8]/div/span/i</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

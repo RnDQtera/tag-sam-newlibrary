@@ -43,13 +43,35 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Sett
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Slider user list (4)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (3)'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (3) - detail'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button plus assign role'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Dropdown select role - assign role'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/List (1) Assign Role'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/List (2) assign role'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Dropdown pointer assign role'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button submit - assign role'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Balik halaman user'))
 
 WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.16 - Mengnonaktifkan user.png',
-	FailureHandling.STOP_ON_FAILURE)
-
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.20 - Menambahkan system role.png', FailureHandling.STOP_ON_FAILURE)
 

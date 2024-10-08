@@ -43,13 +43,12 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Sett
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Slider user list (4)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (3)'))
 
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (3) - detail'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.16 - Mengnonaktifkan user.png',
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.19 - Melihat detail user.png',
 	FailureHandling.STOP_ON_FAILURE)
-
 

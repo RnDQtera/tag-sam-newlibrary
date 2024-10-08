@@ -49,4 +49,5 @@ WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.017 - Mengaktifkan user.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.17 - Mengaktifkan user.png',
+	FailureHandling.STOP_ON_FAILURE)

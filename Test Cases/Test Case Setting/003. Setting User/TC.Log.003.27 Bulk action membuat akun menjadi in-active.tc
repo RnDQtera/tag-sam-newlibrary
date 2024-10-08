@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.27 Bulk action membuat akun menjadi in-active</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f159057-77d1-46fb-a4dc-fd27bd8a16e0</testCaseGuid>
+</TestCaseEntity>

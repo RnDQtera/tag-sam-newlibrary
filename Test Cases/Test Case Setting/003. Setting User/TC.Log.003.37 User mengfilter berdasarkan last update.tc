@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.37 User mengfilter berdasarkan last update</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9cb7d9a-fa02-494f-a825-46e0b3d639cf</testCaseGuid>
+</TestCaseEntity>

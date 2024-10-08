@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.31 User mengfilter berdasarkan user type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49756e63-f91d-4e45-bfa0-46b6c7263bc0</testCaseGuid>
+</TestCaseEntity>

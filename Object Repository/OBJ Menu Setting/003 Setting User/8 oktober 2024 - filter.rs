@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button edit</name>
+   <name>8 oktober 2024 - filter</name>
    <tag></tag>
-   <elementGuidId>f4259231-5c96-434e-bba2-3027e7051000</elementGuidId>
+   <elementGuidId>35842d2d-5798-4441-bf0c-82f8f4c16898</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/ul/li[1]/div/a</value>
+         <value>/html/body/div[6]/div/div/div[2]/table/tbody/tr[2]/td[3]/span</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

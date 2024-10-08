@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.28 Bulk action membuat akun menjadi active</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb69f0dd-b48f-4671-87d7-e4c8df829445</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.26 Menghapus user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b91ba5b0-1a8c-49de-86e1-8332552e18f2</testCaseGuid>
+</TestCaseEntity>

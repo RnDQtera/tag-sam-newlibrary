@@ -41,15 +41,34 @@ WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setti
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Setting - User'))
 
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (3)'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (3) - detail'))
+
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Slider user list (4)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Role - Transaction Role'))
 
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - Transaction role'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.16 - Mengnonaktifkan user.png',
-	FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button edit'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button select group - edit transaction role'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Select group - jawa timur'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button select - select group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button save'))
+
+WebUI.delay(1)
+
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.23 - Mengedit transaction role pada user.png', FailureHandling.STOP_ON_FAILURE)
 
 

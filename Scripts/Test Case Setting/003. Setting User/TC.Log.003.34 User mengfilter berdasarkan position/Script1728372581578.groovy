@@ -41,15 +41,19 @@ WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setti
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Setting - User'))
 
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button filter'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Dropdown field position'))
+
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Slider user list (4)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/List (2) filter'))
 
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button apply filter'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.16 - Mengnonaktifkan user.png',
-	FailureHandling.STOP_ON_FAILURE)
-
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.34 - User mengfilter position.png', FailureHandling.STOP_ON_FAILURE)
 

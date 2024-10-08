@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.33 User mengfilter berdasarkan transaction role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81de2586-b0ea-42a8-8f03-b1ad9c3b24be</testCaseGuid>
+</TestCaseEntity>

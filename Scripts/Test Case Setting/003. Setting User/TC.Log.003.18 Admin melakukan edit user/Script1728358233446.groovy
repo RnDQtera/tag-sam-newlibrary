@@ -43,13 +43,26 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Sett
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Slider user list (4)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (4)'))
+
+WebUI.delay(4)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button edit'))
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('OBJ Menu Setting/003 Setting User/Field position edit user'), 'IT')
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button save'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button continue edit user'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.16 - Mengnonaktifkan user.png',
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.18 - Admin melakukan edit user.png',
 	FailureHandling.STOP_ON_FAILURE)
-
 

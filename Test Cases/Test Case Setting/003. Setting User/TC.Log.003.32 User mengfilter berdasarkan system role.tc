@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.32 User mengfilter berdasarkan system role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75eac5a9-9c01-46a9-860e-582f09eb9966</testCaseGuid>
+</TestCaseEntity>

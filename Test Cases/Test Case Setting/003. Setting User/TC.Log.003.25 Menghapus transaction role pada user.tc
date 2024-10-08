@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.25 Menghapus transaction role pada user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0259a0f-c669-4276-9558-58dbac420afc</testCaseGuid>
+</TestCaseEntity>
