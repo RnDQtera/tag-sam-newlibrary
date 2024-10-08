@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field 1 Select Role</name>
+   <tag></tag>
+   <elementGuidId>b76c2452-015e-47e9-9e87-d7cb9e5d94c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pv_id_119_0 > div.relative.w-4.h-4.shrink-0.inline-flex.align-bottom.transition-all.duration-200 > input.peer.w-full.h-full.absolute.top-0.left-0.z-10.p-0.m-0.rounded.border.opacity-0.rounded-md.outline-none.appareance-none.transition-all.duration-200.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;ASDF Tag Samurai V2&quot;i >> internal:role=checkbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f580359c-086e-4b64-9c34-9004e861a34e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>61945ea9-247d-4d80-907c-48909e4e5747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>peer w-full h-full absolute top-0 left-0 z-10 p-0 m-0 rounded border opacity-0 rounded-md outline-none appareance-none transition-all duration-200 cursor-pointer</value>
+      <webElementGuid>9b172822-43b2-4dbf-ab69-1f576a0ab80d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>09ccb3ea-fdd5-4ece-8dac-22f510c0f54c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bf410830-5bd8-414f-82e1-a85c986a3bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pv_id_119_0&quot;)/div[@class=&quot;relative w-4 h-4 shrink-0 inline-flex align-bottom transition-all duration-200&quot;]/input[@class=&quot;peer w-full h-full absolute top-0 left-0 z-10 p-0 m-0 rounded border opacity-0 rounded-md outline-none appareance-none transition-all duration-200 cursor-pointer&quot;]</value>
+      <webElementGuid>b10bbc54-d3f1-437e-9125-aa06b8b75985</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[3]</value>
+      <webElementGuid>10462788-7d37-4f97-ab72-ca4198f2a5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='pv_id_119_0']/div/input</value>
+      <webElementGuid>4682d78c-cd87-4c1b-9d66-f0c897e3df4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/input</value>
+      <webElementGuid>80db9d73-0503-44c0-b2cf-fcadf2893e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>9655f83d-0085-4bf8-a40f-f1b0cf3b0544</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

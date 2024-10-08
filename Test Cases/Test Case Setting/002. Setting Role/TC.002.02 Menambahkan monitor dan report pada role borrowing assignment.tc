@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.02 Menambahkan monitor dan report pada role borrowing assignment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f13d9a2-8f6e-48c7-ba83-29674c427519</testCaseGuid>
+</TestCaseEntity>

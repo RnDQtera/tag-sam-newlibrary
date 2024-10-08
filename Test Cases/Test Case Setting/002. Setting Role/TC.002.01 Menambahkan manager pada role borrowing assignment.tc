@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.01 Menambahkan manager pada role borrowing assignment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>227df85f-7b6f-4181-8b5f-ce539531d232</testCaseGuid>
+</TestCaseEntity>
