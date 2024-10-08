@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.07 Borrowing Assignment filtering data pada table list data changelog field modified by</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>16695ae0-2c7c-4e00-9f05-b83c9390450a</testCaseGuid>
+</TestCaseEntity>

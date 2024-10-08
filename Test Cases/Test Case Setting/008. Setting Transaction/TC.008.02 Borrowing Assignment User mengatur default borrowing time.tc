@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.02 Borrowing Assignment User mengatur default borrowing time</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9798e3c-ca4e-451c-8682-b6fe78379b00</testCaseGuid>
+</TestCaseEntity>

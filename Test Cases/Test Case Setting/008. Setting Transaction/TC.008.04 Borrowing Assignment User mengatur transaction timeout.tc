@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.04 Borrowing Assignment User mengatur transaction timeout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78edad1f-ca18-4e1f-93fc-a5ce02674c61</testCaseGuid>
+</TestCaseEntity>

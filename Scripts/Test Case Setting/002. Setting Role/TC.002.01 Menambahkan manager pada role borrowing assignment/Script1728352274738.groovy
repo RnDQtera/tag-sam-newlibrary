@@ -35,7 +35,7 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/002 Setting Role/Sub Menu Role'))
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Sub Menu Role'))
 
 WebUI.delay(2)
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.03 Borrowing Assignment User mengatur confirmation email timeout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3f27d29-f7a5-4aec-86dd-f9c240664d09</testCaseGuid>
+</TestCaseEntity>

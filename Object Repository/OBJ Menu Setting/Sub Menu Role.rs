@@ -6,12 +6,11 @@
    <elementGuidId>a1457d1d-0a94-470d-a486-ed37b7b87e85</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sidebar-left-app']/div[2]/div/ul/li[7]/ul/li[2]/div</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-left-app']/div[2]/div/ul/li[7]/ul/li[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

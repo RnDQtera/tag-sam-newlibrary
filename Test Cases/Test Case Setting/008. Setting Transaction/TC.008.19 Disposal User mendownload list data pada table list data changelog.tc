@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.19 Disposal User mendownload list data pada table list data changelog</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35753278-7833-4f54-89bb-a4abf7e0cfee</testCaseGuid>
+</TestCaseEntity>

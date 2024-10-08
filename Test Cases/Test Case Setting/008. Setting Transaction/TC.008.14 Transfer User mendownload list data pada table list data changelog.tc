@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.14 Transfer User mendownload list data pada table list data changelog</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b16205d-8d1a-41a4-988b-ad629045d3b5</testCaseGuid>
+</TestCaseEntity>

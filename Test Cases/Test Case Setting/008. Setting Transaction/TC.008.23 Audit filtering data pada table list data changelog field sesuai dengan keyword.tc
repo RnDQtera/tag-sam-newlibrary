@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.23 Audit filtering data pada table list data changelog field sesuai dengan keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75c44a6d-8f3c-4914-8fce-3113da389e2d</testCaseGuid>
+</TestCaseEntity>

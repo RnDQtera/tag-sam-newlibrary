@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.18 Disposal filtering data pada table list data changelog field sesuai dengan keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f599a11b-9468-4548-9065-2531950c775c</testCaseGuid>
+</TestCaseEntity>

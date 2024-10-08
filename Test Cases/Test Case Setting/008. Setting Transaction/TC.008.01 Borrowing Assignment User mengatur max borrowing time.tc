@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.01 Borrowing Assignment User mengatur max borrowing time</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ddbb0b87-f4a6-4a1d-9b02-aac4f825be40</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.08 Borrowing Assignment filtering data pada table list data changelog field sesuai dengan keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f91fa8f2-f2b3-4e27-a571-951d7c75fd67</testCaseGuid>
+</TestCaseEntity>

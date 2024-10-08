@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.15 Disposal User mengatur transaction timeout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03705962-d130-4beb-bb90-e0176e46ce54</testCaseGuid>
+</TestCaseEntity>

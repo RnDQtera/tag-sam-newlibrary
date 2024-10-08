@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.09 Borrowing Assignment User mendownload list data pada table list data changelog</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e2ad57f-5e0b-4da8-a81d-6529ab5cec02</testCaseGuid>
+</TestCaseEntity>

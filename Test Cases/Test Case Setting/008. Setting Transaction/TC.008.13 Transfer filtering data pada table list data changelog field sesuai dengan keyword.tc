@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.13 Transfer filtering data pada table list data changelog field sesuai dengan keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83cb652b-67fb-433b-bc3a-3eda6c62797c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.22 Audit filtering data pada table list data changelog field Modified By</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>952b5b3f-091e-44cd-ac8f-f1df36bb086d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008.12 Transfer filtering data pada table list data changelog field Modified By</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d86187fa-52c6-49f0-9707-202e3b39aeff</testCaseGuid>
+</TestCaseEntity>
