@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.07 Purchase mengaktifkan custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>018b4198-27de-4c53-8b62-9899ab3afbb9</testCaseGuid>
+</TestCaseEntity>

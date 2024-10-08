@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://console.tagsamurai.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'user23@mailnesia.com')
+WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'user22@mailnesia.com')
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
@@ -39,18 +39,21 @@ WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Sub Menu Custom Field'))
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Sub Menu Custom Field'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/009 Setting General/Button Changelog General'))
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Tab Accounting'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/009 Setting General/Button Download General'))
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Slider 1 Active Custom Field'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.009.09 - General user mendownload list data pada table list data changelog.png', 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Changelog Custom Field'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.12 - Accounting mengaktifkan custom field.png', FailureHandling.STOP_ON_FAILURE)
 

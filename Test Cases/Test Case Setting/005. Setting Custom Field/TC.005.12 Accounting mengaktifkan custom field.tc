@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.12 Accounting mengaktifkan custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2057df5d-a4e8-4fe3-97b3-3ab4a6042c91</testCaseGuid>
+</TestCaseEntity>

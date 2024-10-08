@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.05 General Information menghapus custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62ef60e6-ebd8-4fb9-94df-32ddec2d0fa9</testCaseGuid>
+</TestCaseEntity>

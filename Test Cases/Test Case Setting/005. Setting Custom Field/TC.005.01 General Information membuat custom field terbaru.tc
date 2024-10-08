@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.01 General Information membuat custom field terbaru</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a0d42ae-718a-4fbd-a907-ffc68b412d6a</testCaseGuid>
+</TestCaseEntity>

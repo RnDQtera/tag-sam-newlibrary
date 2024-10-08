@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.10 Purchase menghapus custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e2ac63b-7a8e-43f8-81b4-c53bb3866fc4</testCaseGuid>
+</TestCaseEntity>

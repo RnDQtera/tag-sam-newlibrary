@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.11 Accounting membuat custom field terbaru</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1764950-18aa-4421-87af-78c8c7de71f0</testCaseGuid>
+</TestCaseEntity>
