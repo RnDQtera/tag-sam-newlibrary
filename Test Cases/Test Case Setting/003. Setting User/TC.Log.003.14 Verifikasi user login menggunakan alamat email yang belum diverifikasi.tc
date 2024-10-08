@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.14 Verifikasi user login menggunakan alamat email yang belum diverifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b37bd6f1-708a-44c6-af9a-9744cda7eb42</testCaseGuid>
+</TestCaseEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>ccf81cf5-a991-4f3b-9795-7f4a65430b13</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@onclick='return false;']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.email</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='return false;']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5652768f-4eea-4a75-a668-e2f2a287463e</webElementGuid>
+      <webElementGuid>16b8c86f-9128-4d6a-8547-3608abce38a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>e064aaec-a97f-451a-9d71-6c9c7a732529</webElementGuid>
+      <webElementGuid>3afad638-5fd6-49be-a09f-bf60b597b96d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return false;</value>
-      <webElementGuid>3fcadfa8-6614-4213-ba56-4c63b46efcf2</webElementGuid>
+      <webElementGuid>7496d935-62c8-42ac-a059-a676d43a2b7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/mailbox/indrafr/555380923</value>
-      <webElementGuid>a0276ed5-574d-4a57-b845-4a17c4d081ed</webElementGuid>
+      <value>/mailbox/indrafri/556894984</value>
+      <webElementGuid>bf08ddcb-9856-4da1-9e23-8b6e9939c9db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Open email</value>
-      <webElementGuid>aff56498-ca7b-4580-b581-a3bd2e2b8930</webElementGuid>
+      <webElementGuid>40597c71-453e-4850-8a87-4e9027613988</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,15 +62,15 @@
       <name>text</name>
       <type>Main</type>
       <value>no-reply@tagsamurai.com</value>
-      <webElementGuid>88bc0fe9-cb6d-4e44-80d0-5ea36ee691f9</webElementGuid>
+      <webElementGuid>523eea6e-95bd-4566-952a-2a9e5e9f7021</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;555380923&quot;)/td[2]/a[@class=&quot;email&quot;]</value>
-      <webElementGuid>4c0d9d7f-e7e2-4a62-aea6-9a0b3ee21618</webElementGuid>
+      <value>id(&quot;556894984&quot;)/td[2]/a[@class=&quot;email&quot;]</value>
+      <webElementGuid>a1473614-a528-456f-b2f2-61ad6964f44f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,47 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@onclick='return false;']</value>
-      <webElementGuid>5a483375-2e42-45bd-8fb3-3b08d5d8947a</webElementGuid>
+      <webElementGuid>7d8601fc-1f0e-4945-8ee6-a420f00b8fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='556894984']/td[2]/a</value>
+      <webElementGuid>ae571920-d706-4041-8d49-cc64c83881f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'no-reply@tagsamurai.com')]</value>
+      <webElementGuid>549536ea-65c1-4924-9255-075f8600ac3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/mailbox/indrafri/556894984')]</value>
+      <webElementGuid>c4fb05aa-829f-4cd7-9a02-6f8ba426e935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>db2a6266-9df7-42fd-aa15-6757b4f0726d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/mailbox/indrafri/556894984' and @title = 'Open email' and (text() = 'no-reply@tagsamurai.com' or . = 'no-reply@tagsamurai.com')]</value>
+      <webElementGuid>263c96c9-d408-4c02-9518-c84f472f20d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,26 +131,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'no-reply@tagsamurai.com')]</value>
-      <webElementGuid>ec96de58-2ca7-4716-a0ac-41c2258a5d5d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/mailbox/indrafr/555380923')]</value>
       <webElementGuid>5f5eaac6-6711-458f-a990-07027b8417b7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//td[2]/a</value>
-      <webElementGuid>f9b3689a-a77e-4e4a-b3a0-82f59671067c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

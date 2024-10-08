@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button continue edit user</name>
+   <name>Button cancel email change</name>
    <tag></tag>
-   <elementGuidId>21015650-e8f8-4eb9-b525-a066e3f9d6e5</elementGuidId>
+   <elementGuidId>c8b39cb0-f337-42d0-8c8b-550b1eb5c7cb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[8]/div/div[3]/button[2]</value>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div/div/div[7]/div[3]/span/button</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

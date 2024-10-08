@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.11 Verifikasi user melakukan cancel pada pending email change</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e290a633-6944-4364-a3db-4cba27be8c02</testCaseGuid>
+</TestCaseEntity>

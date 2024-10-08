@@ -6,22 +6,15 @@
    <elementGuidId>d4261d97-9dda-444c-9961-5a97b053ba9e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[6]/div/div[2]/form/div/div/div/div/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-auth']/div/div/div/div/div/div/div/div/div/form/div/div/div/div/input</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Enter group name&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5d674064-ad6e-4a5f-8b99-1ea4ad9510b2</webElementGuid>
+      <webElementGuid>341af30a-3072-489a-a9bc-ef6ec1b0af8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ts-inputtext flex py-1 px-3 items-center space-x-1 flex-shrink-0 self-stretch rounded bg-transparent w-full h-full max-h-[26px] text-general-800 dark:text-general-100 text-xs leading-[133.333%] tracking-[0.24px] !font-medium placeholder:text-general-200 dark:placeholder:text-grayscale-800 placeholder:!font-light appearance-none outline-none focus:ring-primary-500 dark:focus:ring-primary-400</value>
-      <webElementGuid>79598dfe-e038-42ed-b2de-63801990426b</webElementGuid>
+      <value>ts-inputtext !max-h-[42px] flex py-1 px-3 items-center space-x-1 flex-shrink-0 self-stretch rounded bg-transparent w-full h-full max-h-[26px] text-general-800 dark:text-general-100 text-xs leading-[133.333%] tracking-[0.24px] !font-medium placeholder:text-general-200 dark:placeholder:text-grayscale-800 placeholder:!font-light appearance-none outline-none focus:ring-primary-500 dark:focus:ring-primary-400</value>
+      <webElementGuid>f4538eb0-a8b8-4fef-b1a1-ece91a39f7ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Enter group name</value>
-      <webElementGuid>dc564a93-e5ba-4a12-8db6-c9cbf74c72f1</webElementGuid>
+      <value>Enter your email</value>
+      <webElementGuid>59939ce2-4e36-4d60-b1b4-4db012e59311</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +46,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>ts-inputtext</value>
-      <webElementGuid>aaa9229c-87f2-433d-9827-b8293ef5c624</webElementGuid>
+      <webElementGuid>95b96fd6-0b6f-465a-8474-f1f9991f3dcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +54,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>inputtext</value>
-      <webElementGuid>dd124516-9ba8-4696-8681-ed729f07a67e</webElementGuid>
+      <webElementGuid>41750cb5-07ae-47ce-8063-cf5d7bef95c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,18 +62,42 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>root</value>
-      <webElementGuid>a8186c29-03e5-4b2c-8435-b2c2977ff243</webElementGuid>
+      <webElementGuid>da97a6a3-d329-4c43-8b10-4cb2abb7e650</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;transition duration-300 has-[.mask-active]:bg-transparent dark:has-[.mask-active]:bg-transparent bg-dialog-mask dark:dialog-mask has-[.mask-active]:backdrop-blur-none backdrop-blur-sm&quot;]/div[@class=&quot;py-3 !gap-4 rounded-[0.4375em] shadow-[box-shadow: -4px 4px 20px 0px #0000001A] flex flex-col p-6 gap-3 bg-white dark:bg-grayscale-900 max-h-[90vh] sm:max-w-[90vw] m-0 transform scale-100 max-w-[90vw] !w-[400px]&quot;]/div[@class=&quot;!text-header-weak text-xs font-medium tracking-[0.02em] pr-1.5 -mr-1.5 pl-1.5 -ml-1.5 pt-1.5 -mt-1.5 !pb-1.5 -mb-1.5 flex flex-col gap-3 text-surface-600 dark:text-surface-0/70 overflow-y-auto !pb-0&quot;]/form[@class=&quot;ts-form&quot;]/div[@class=&quot;ts-form-fields-outer-wrapper&quot;]/div[@class=&quot;grid gap-y-3 gap-x-6&quot;]/div[@class=&quot;flex flex-col items-start justify-start relative gap-1 w-full shrink-0 overflow-hidden&quot;]/div[@class=&quot;[&amp;_.inputgroupaddon]:ring-general-200 [&amp;_.inputgroupaddon]:dark:ring-general-200 [&amp;:has(:focus)]:ring-primary-500 [&amp;:has(:focus)_.inputgroupaddon]:ring-primary-500 ring-[0.5px] [&amp;_.inputgroupaddon]:ring-[0.5px] [&amp;:has(input)]:cursor-text h-[26px] grid grid flex items-stretch w-full ring-inset ring-general-200 dark:ring-grayscale-600 rounded bg-white dark:bg-grayscale-900&quot;]/input[@class=&quot;ts-inputtext flex py-1 px-3 items-center space-x-1 flex-shrink-0 self-stretch rounded bg-transparent w-full h-full max-h-[26px] text-general-800 dark:text-general-100 text-xs leading-[133.333%] tracking-[0.24px] !font-medium placeholder:text-general-200 dark:placeholder:text-grayscale-800 placeholder:!font-light appearance-none outline-none focus:ring-primary-500 dark:focus:ring-primary-400&quot;]</value>
-      <webElementGuid>1ef3c20d-2a78-4a7e-a7a9-7a3e7618e86f</webElementGuid>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-auth&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;h-screen p-6 bg-primary-50&quot;]/div[@class=&quot;h-full flex flex-col gap-6 py-[47.5px] px-6 bg-white&quot;]/div[@class=&quot;grid grid-cols-2 items-center gap-12 w-full h-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-[420px] mx-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-3&quot;]/div[@class=&quot;flex flex-col gap-3 w-full&quot;]/form[@class=&quot;ts-form !gap-0&quot;]/div[@class=&quot;ts-form-fields-outer-wrapper&quot;]/div[@class=&quot;grid gap-y-3 gap-x-6&quot;]/div[@class=&quot;flex flex-col items-start justify-start relative gap-1 w-full shrink-0 overflow-hidden&quot;]/div[@class=&quot;[&amp;_.inputgroupaddon]:ring-general-200 [&amp;_.inputgroupaddon]:dark:ring-general-200 [&amp;:has(:focus)]:ring-primary-500 [&amp;:has(:focus)_.inputgroupaddon]:ring-primary-500 ring-[0.5px] [&amp;_.inputgroupaddon]:ring-[0.5px] [&amp;:has(input)]:cursor-text h-[26px] !h-[42px] !h-[42px] flex items-stretch w-full ring-inset ring-general-200 dark:ring-grayscale-600 rounded bg-white dark:bg-grayscale-900&quot;]/input[@class=&quot;ts-inputtext !max-h-[42px] flex py-1 px-3 items-center space-x-1 flex-shrink-0 self-stretch rounded bg-transparent w-full h-full max-h-[26px] text-general-800 dark:text-general-100 text-xs leading-[133.333%] tracking-[0.24px] !font-medium placeholder:text-general-200 dark:placeholder:text-grayscale-800 placeholder:!font-light appearance-none outline-none focus:ring-primary-500 dark:focus:ring-primary-400&quot;]</value>
+      <webElementGuid>9b4ed092-e2e5-4469-a926-ef3bab47fe3e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-auth']/div/div/div/div/div/div/div/div/div/form/div/div/div/div/input</value>
+      <webElementGuid>0ae12798-2e7d-4524-bc2f-2753746c5881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>00e7c41f-871f-4564-bf2d-9055d0aebd7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter your email']</value>
+      <webElementGuid>82e69c47-aed1-4c78-bd44-1d73cb487755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>

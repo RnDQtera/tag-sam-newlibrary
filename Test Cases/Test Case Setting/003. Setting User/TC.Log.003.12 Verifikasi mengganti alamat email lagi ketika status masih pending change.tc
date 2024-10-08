@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.003.12 Verifikasi mengganti alamat email lagi ketika status masih pending change</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ee68917-7f86-49cf-9707-6808504f1a11</testCaseGuid>
+</TestCaseEntity>

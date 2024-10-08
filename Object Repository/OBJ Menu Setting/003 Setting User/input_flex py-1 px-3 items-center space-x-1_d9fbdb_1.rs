@@ -6,12 +6,12 @@
    <elementGuidId>c03bb55c-3a85-45f8-bc95-b2510a59f500</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='password'])[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[7]/div/div[2]/form/div[1]/div/div[2]/div/div/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2208d68a-f601-418f-8e2d-aa4b719fd34d</webElementGuid>
+      <webElementGuid>53935319-3ff7-4220-b411-16778ebdf6ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>61a89f88-956d-4b72-9f89-54cbfca29987</webElementGuid>
+      <webElementGuid>968151cb-fb30-4018-8496-080dd9b5d5e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>flex py-1 px-3 items-center space-x-1 flex-shrink-0 self-stretch rounded bg-transparent w-full h-full max-h-[43px] text-general-800 dark:text-general-100 text-xs leading-[133.333%] tracking-[0.24px] !font-medium placeholder:text-general-200 dark:placeholder:text-grayscale-800 placeholder:!font-light appearance-none outline-none focus:ring-primary-500 dark:focus:ring-primary-400</value>
-      <webElementGuid>e206563a-dd08-41fc-89b4-653e0dc8e7b6</webElementGuid>
+      <webElementGuid>ac524bb9-ac9d-490e-9ac8-cc942c1522c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-controls</name>
       <type>Main</type>
-      <value>pv_id_2_panel</value>
-      <webElementGuid>5eaae64c-be3c-4959-99d2-24fdbaa2d109</webElementGuid>
+      <value>pv_id_45_panel</value>
+      <webElementGuid>8ac66a36-65a5-4aef-8470-7a7db4220338</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>852f1e9b-d59a-43e2-bed3-d84d9addbc76</webElementGuid>
+      <webElementGuid>02ee4e73-6513-4dac-90de-b791edb96680</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>39dcc29c-dc3e-48c3-b03c-45b8ef4dea36</webElementGuid>
+      <webElementGuid>47c89773-03a1-4cdc-bdf1-9a1200c5725d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Re-enter your password</value>
-      <webElementGuid>f32b78f0-83fd-4049-869f-c14e3b73dea5</webElementGuid>
+      <value>Enter new password</value>
+      <webElementGuid>b2c45ab3-846b-4b88-b4fd-00c345a955a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>ts-inputtext</value>
-      <webElementGuid>9c003b65-1379-4c4b-aca2-e381aa09b273</webElementGuid>
+      <webElementGuid>b4bda0fd-54d5-47e4-ab9f-7c2cc5dbd62c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fad0feee-4f5b-4c82-a87c-83575a5c7583</webElementGuid>
+      <webElementGuid>7ad80b90-9b1b-425a-8dba-74b60d55887a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>data-pc-extend</name>
       <type>Main</type>
       <value>inputtext</value>
-      <webElementGuid>05941263-9bf1-4955-8e7a-0e81be42294a</webElementGuid>
+      <webElementGuid>74fa70a3-7d8a-440b-b0f4-592b55130494</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,15 +102,15 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>root</value>
-      <webElementGuid>d68a5573-de51-4d43-8f49-0f85b51a1e56</webElementGuid>
+      <webElementGuid>09c06e70-4e50-4f36-b781-60a13084b66f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-auth&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;h-screen p-6 bg-primary-50&quot;]/div[@class=&quot;h-full flex flex-col gap-6 py-[47.5px] px-6 bg-white&quot;]/div[@class=&quot;grid grid-cols-2 items-center gap-12 w-full h-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-[420px] mx-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-7&quot;]/div[@class=&quot;flex flex-col gap-3 w-full&quot;]/form[@class=&quot;ts-form !gap-0&quot;]/div[@class=&quot;ts-form-fields-outer-wrapper&quot;]/div[@class=&quot;grid gap-y-3 gap-x-6&quot;]/div[@class=&quot;flex flex-col items-start justify-start relative gap-1 w-full shrink-0 overflow-hidden&quot;]/div[@class=&quot;[&amp;_.inputgroupaddon]:ring-general-200 [&amp;_.inputgroupaddon]:dark:ring-general-200 [&amp;:has(:focus)]:ring-primary-500 [&amp;:has(:focus)_.inputgroupaddon]:ring-primary-500 ring-[0.5px] [&amp;_.inputgroupaddon]:ring-[0.5px] [&amp;:has(input)]:cursor-text h-[26px] !h-[42px] !h-[42px] flex items-stretch w-full ring-inset ring-general-200 dark:ring-grayscale-600 rounded bg-white dark:bg-grayscale-900&quot;]/div[@class=&quot;w-full inline-flex relative text-general-800&quot;]/input[@class=&quot;flex py-1 px-3 items-center space-x-1 flex-shrink-0 self-stretch rounded bg-transparent w-full h-full max-h-[43px] text-general-800 dark:text-general-100 text-xs leading-[133.333%] tracking-[0.24px] !font-medium placeholder:text-general-200 dark:placeholder:text-grayscale-800 placeholder:!font-light appearance-none outline-none focus:ring-primary-500 dark:focus:ring-primary-400&quot;]</value>
-      <webElementGuid>91b4e2f8-192c-4f87-8d6c-74ba6d3acf47</webElementGuid>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;p-dialog-mask p-component-overlay p-component-overlay-enter transition duration-300 has-[.mask-active]:bg-transparent dark:has-[.mask-active]:bg-transparent bg-dialog-mask dark:dialog-mask has-[.mask-active]:backdrop-blur-none backdrop-blur-sm&quot;]/div[@class=&quot;p-dialog p-component p-ripple-disabled w-[400px] max-w-[400px] rounded-[0.4375em] shadow-[box-shadow: -4px 4px 20px 0px #0000001A] flex flex-col p-6 gap-3 bg-white dark:bg-grayscale-900 max-h-[90vh] sm:max-w-[90vw] m-0 transform scale-100&quot;]/div[@class=&quot;p-dialog-content !text-header-weak text-xs font-medium tracking-[0.02em] pr-1.5 -mr-1.5 pl-1.5 -ml-1.5 pt-1.5 -mt-1.5 !pb-1.5 -mb-1.5 flex flex-col gap-3 text-surface-600 dark:text-surface-0/70 overflow-y-auto&quot;]/form[@class=&quot;ts-form !gap-0&quot;]/div[@class=&quot;ts-form-fields-outer-wrapper&quot;]/div[@class=&quot;grid gap-y-3 gap-x-6&quot;]/div[2]/div[@class=&quot;flex flex-col items-start justify-start relative gap-1 w-full shrink-0 overflow-hidden&quot;]/div[@class=&quot;[&amp;_.inputgroupaddon]:ring-general-200 [&amp;_.inputgroupaddon]:dark:ring-general-200 [&amp;:has(:focus)]:ring-primary-500 [&amp;:has(:focus)_.inputgroupaddon]:ring-primary-500 ring-[0.5px] [&amp;_.inputgroupaddon]:ring-[0.5px] [&amp;:has(input)]:cursor-text h-[26px] flex items-stretch w-full ring-inset ring-general-200 dark:ring-grayscale-600 rounded bg-white dark:bg-grayscale-900&quot;]/div[@class=&quot;w-full inline-flex relative text-general-800&quot;]/input[@class=&quot;flex py-1 px-3 items-center space-x-1 flex-shrink-0 self-stretch rounded bg-transparent w-full h-full max-h-[43px] text-general-800 dark:text-general-100 text-xs leading-[133.333%] tracking-[0.24px] !font-medium placeholder:text-general-200 dark:placeholder:text-grayscale-800 placeholder:!font-light appearance-none outline-none focus:ring-primary-500 dark:focus:ring-primary-400&quot;]</value>
+      <webElementGuid>4be0b5db-8e6e-4721-875e-14b8e3796c7d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +118,23 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='password'])[2]</value>
-      <webElementGuid>b015b1b7-4b84-4908-b54f-96a8555dd527</webElementGuid>
+      <webElementGuid>e1262120-22ec-4d70-8f86-6a30cd306a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]/div/div/div/input</value>
+      <webElementGuid>2cb7245b-72ec-426b-8b41-f37cf542ff88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @placeholder = 'Enter new password']</value>
+      <webElementGuid>002d33ec-cc74-40b1-84e6-6b885d816041</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +142,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-auth']/div/div/div/div/div/div/div/div/div/form/div/div/div[2]/div/div/input</value>
-      <webElementGuid>3504812d-4dd3-40f6-b19a-e380be119c02</webElementGuid>
+      <webElementGuid>de0c4c35-5581-4b3a-849d-8dbfc6233ff9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/input</value>
-      <webElementGuid>73cd7327-e9c9-4c1a-add6-05a0eb3140fd</webElementGuid>
+      <webElementGuid>55ba4b53-0164-4172-916b-b50cfec9df7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @placeholder = 'Re-enter your password']</value>
-      <webElementGuid>3e1f1d44-47d4-4c96-be61-c00314a19885</webElementGuid>
+      <webElementGuid>2f50ed2f-3e3b-4c9c-905e-c3692a1aa5f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

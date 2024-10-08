@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button continue edit user</name>
+   <name>Field re-enter new password</name>
    <tag></tag>
-   <elementGuidId>21015650-e8f8-4eb9-b525-a066e3f9d6e5</elementGuidId>
+   <elementGuidId>f1928c54-de57-4fa9-b163-0110e08e8a9d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[8]/div/div[3]/button[2]</value>
+         <value>/html/body/div[7]/div/div[2]/form/div[1]/div/div[3]/div/div/input</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

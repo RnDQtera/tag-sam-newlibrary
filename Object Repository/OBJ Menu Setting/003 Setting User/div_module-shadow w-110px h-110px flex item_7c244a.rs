@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_module-shadow w-110px h-110px flex item_7c244a</name>
+   <tag></tag>
+   <elementGuidId>4b616d68-9d6f-4028-9c58-3f04988f38f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-modules']/div/div/div[2]/div[2]/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c7bc3984-1f66-4781-ba42-0b7af02a6a27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>module-shadow w-[110px] h-[110px] flex items-center justify-center rounded-lg bg-primary-50</value>
+      <webElementGuid>3bb2061b-6e65-4c3a-8cbc-3f34df1d9f7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-modules&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;h-screen w-full flex flex-col bg-[#f7f7fc]&quot;]/div[@class=&quot;py-3 px-6 h-full flex flex-col items-stretch&quot;]/div[@class=&quot;mt-2 flex flex-col justify-start items-center gap-6 py-6 bg-white h-full rounded-lg&quot;]/div[@class=&quot;grid grid-cols-1 gap-12&quot;]/a[1]/div[@class=&quot;module-shadow w-[110px] h-[110px] flex items-center justify-center rounded-lg bg-primary-50&quot;]</value>
+      <webElementGuid>5c6cea46-a7ad-4375-b0e3-b4de7e8fc051</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-modules']/div/div/div[2]/div[2]/div[2]/a/div</value>
+      <webElementGuid>c29ee3ea-a90d-467b-ad2d-ebf9114db1a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>1fff597f-1113-4934-8082-0e825ed3d037</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
