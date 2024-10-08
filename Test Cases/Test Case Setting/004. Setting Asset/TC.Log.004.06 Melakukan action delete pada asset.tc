@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.06 Melakukan action delete pada asset</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adc2a973-b8a7-432c-86b1-e603c4f2d7db</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.11 Melakukan delete category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae831bc5-b105-4b91-a4c5-619a7b915261</testCaseGuid>
+</TestCaseEntity>
