@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.18 Melakukan edit pada measurement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db07e442-cb53-40e2-a552-e784e144015c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.30 Filter asset name sesuai dengan depreciation group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7374d1d7-bf8d-4439-9374-cb5c4cdce894</testCaseGuid>
+</TestCaseEntity>
