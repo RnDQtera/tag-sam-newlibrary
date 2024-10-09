@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.52 Filter Accounting User melakukan filter sesuai dengan Data Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b04fef24-4535-4e51-a35c-92b1f6f88d41</testCaseGuid>
+</TestCaseEntity>

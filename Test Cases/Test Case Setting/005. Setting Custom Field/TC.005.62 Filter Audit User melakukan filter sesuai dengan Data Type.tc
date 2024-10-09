@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.62 Filter Audit User melakukan filter sesuai dengan Data Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cce62bad-2149-4199-b17c-8ef17df90f71</testCaseGuid>
+</TestCaseEntity>

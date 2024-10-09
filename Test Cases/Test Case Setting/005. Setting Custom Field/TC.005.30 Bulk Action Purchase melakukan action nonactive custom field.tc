@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.30 Bulk Action Purchase melakukan action nonactive custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c56111a2-14a9-4c9f-bcaf-eba09e4fc295</testCaseGuid>
+</TestCaseEntity>

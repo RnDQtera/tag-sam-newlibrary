@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.27 Bulk Action General Information melakukan action nonactive custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f650cf02-3b31-4ccf-a7a7-8f31d3463af5</testCaseGuid>
+</TestCaseEntity>

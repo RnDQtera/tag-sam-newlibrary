@@ -39,37 +39,15 @@ WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Sub Menu Custom Field'))
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Sub Menu Custom Field'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Tab Accounting'))
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Tab Maintenance Routine'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Create Custom Field'))
-
-WebUI.delay(2)
-
-WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Input Text Field Name'), 'Custom Field 4')
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select Data Type'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Field 1 Data Type'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select Category'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Field 1 Category'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Submit Custom Field'))
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Slider 1 Active Custom Field'))
 
 WebUI.delay(2)
 
@@ -77,5 +55,5 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Cust
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.11 - Accounting membuat custom field terbaru.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.17 - Maintenance Routine mengaktifkan custom field.png', FailureHandling.STOP_ON_FAILURE)
 

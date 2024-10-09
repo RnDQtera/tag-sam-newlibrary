@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.55 Accounting User mendownload list accounting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8fe19ba9-d057-48f2-a07a-9bd47aaa58e0</testCaseGuid>
+</TestCaseEntity>

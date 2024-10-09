@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.36 Bulk Action Maintenance Routine melakukan action nonactive custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c92c99e-8f42-4cd3-b562-36a3b4503406</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.38 Bulk Action Audit melakukan action mengaktifkan custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>044114aa-e284-41bb-aed2-b9160d06585a</testCaseGuid>
+</TestCaseEntity>

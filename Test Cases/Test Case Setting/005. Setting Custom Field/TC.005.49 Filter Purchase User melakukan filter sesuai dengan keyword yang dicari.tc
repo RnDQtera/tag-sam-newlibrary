@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.49 Filter Purchase User melakukan filter sesuai dengan keyword yang dicari</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>204db459-1c44-4120-89fb-c30e980eafdb</testCaseGuid>
+</TestCaseEntity>

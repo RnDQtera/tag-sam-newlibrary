@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.45 General Information User mendownload list general information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bab47f75-3bf2-421b-bea5-d6b9cf6c8936</testCaseGuid>
+</TestCaseEntity>

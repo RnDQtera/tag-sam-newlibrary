@@ -23,19 +23,19 @@ WebUI.navigateToUrl('https://console.tagsamurai.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'user22@mailnesia.com')
+WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'user22@mailnesia.com')
 
-WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OBJ Menu Setting/Modul Fixed Asset'))
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Menu Settings'))
 
 WebUI.delay(2)
 
@@ -43,35 +43,26 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Cust
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Create Custom Field'))
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Tab Audit'))
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Input Text Field Name'), 'Custom Field 2')
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Filter Custom Field'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select Data Type'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Field 1 Data Type'))
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Select Required Filter'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select Category'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Field 1 Category'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select'))
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Select Data Type and Required Field 1'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Submit Custom Field'))
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Apply FIlter Custom Field'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Changelog Custom Field'))
-
-WebUI.delay(2)
-
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.01 - General Information membuat custom field terbaru.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.63 - Filter Audit User melakukan filter sesuai dengan Required.png', 
+    FailureHandling.STOP_ON_FAILURE)
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.29 Bulk Action Purchase melakukan action mengaktifkan custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eee428b0-6a67-45c2-bded-175a00468166</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.25 Audit Mengahapus custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9200dc1e-e485-4990-b9fb-41a1db71438e</testCaseGuid>
+</TestCaseEntity>

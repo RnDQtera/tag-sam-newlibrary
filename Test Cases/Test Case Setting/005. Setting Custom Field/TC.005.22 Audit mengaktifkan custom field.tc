@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.22 Audit mengaktifkan custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>afba7ae6-ff8b-4dc0-a041-dc276313d56f</testCaseGuid>
+</TestCaseEntity>

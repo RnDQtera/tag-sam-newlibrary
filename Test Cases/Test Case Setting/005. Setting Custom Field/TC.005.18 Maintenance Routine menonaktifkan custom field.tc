@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.18 Maintenance Routine menonaktifkan custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>570b1cef-22f5-4dfd-b890-3deab48730c9</testCaseGuid>
+</TestCaseEntity>

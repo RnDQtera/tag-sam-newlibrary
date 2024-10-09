@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.57 Filter Maintenance Routine User melakukan filter sesuai dengan Data Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74c39f6e-465c-44e7-9d22-7ee5a9967395</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.17 Maintenance Routine mengaktifkan custom field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4aebc566-b8fb-4bbb-9cf3-c0078be499ac</testCaseGuid>
+</TestCaseEntity>

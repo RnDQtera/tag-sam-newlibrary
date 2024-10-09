@@ -23,53 +23,39 @@ WebUI.navigateToUrl('https://console.tagsamurai.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'user22@mailnesia.com')
+WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'user22@mailnesia.com')
 
-WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OBJ Menu Setting/Modul Fixed Asset'))
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Menu Settings'))
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Sub Menu Custom Field'))
 
-WebUI.delay(2)
+WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Tab Accounting'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Create Custom Field'))
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Checkbox Bulk Action'))
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Input Text Field Name'), 'Custom Field 4')
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Bulk Action'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select Data Type'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Field 1 Data Type'))
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Delete Bulk Action'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select Category'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Field 1 Category'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Submit Custom Field'))
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Delete Custom Field'))
 
 WebUI.delay(2)
 
@@ -77,5 +63,6 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Cust
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.11 - Accounting membuat custom field terbaru.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.28 - Bulk Action General Information melakukan action delete custom field.png', 
+    FailureHandling.STOP_ON_FAILURE)
 

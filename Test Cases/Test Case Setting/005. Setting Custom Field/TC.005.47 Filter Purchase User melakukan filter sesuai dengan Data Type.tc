@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.47 Filter Purchase User melakukan filter sesuai dengan Data Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f059b46c-dff9-4f44-9022-814b2962e3e3</testCaseGuid>
+</TestCaseEntity>

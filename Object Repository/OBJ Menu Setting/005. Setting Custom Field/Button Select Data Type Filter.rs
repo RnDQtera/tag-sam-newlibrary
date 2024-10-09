@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Select Data Type Filter</name>
+   <tag></tag>
+   <elementGuidId>60385f6e-1b80-46cd-a669-78e1a77ff3e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-settings-custom-field']/div/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>380c736e-8cbf-409a-bd13-5eae5bdbab0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-full transition-transform !text-general-500 dark:!text-general-100 icon ic-arrow-drop-down text-inherit cursor-pointer w-full h-full transition-transform !text-general-500 dark:!text-general-100</value>
+      <webElementGuid>007a8589-f92c-4dc4-b414-51e49e1863d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-settings-custom-field&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;rounded-lg bg-surface-0 dark:!bg-grayscale-900 text-general-800 dark:text-general-800&quot;]/div[@class=&quot;flex flex-col gap-3 p-6&quot;]/div[@class=&quot;flex flex-col gap-3 text-general-800 dark:text-general-100&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;bg-general-50 dark:bg-grayscale-800 rounded-lg [&amp;>*]:w-full [&amp;>*]min-w-0 grid items-end grid-cols-4 p-3 gap-y-4 gap-x-3&quot;]/div[@class=&quot;flex flex-col items-start justify-start relative gap-1 w-full shrink-0 overflow-hidden&quot;]/div[@class=&quot;[&amp;_.inputgroupaddon]:ring-general-200 [&amp;_.inputgroupaddon]:dark:ring-general-200 [&amp;:has(:focus)]:ring-primary-500 [&amp;:has(:focus)_.inputgroupaddon]:ring-primary-500 ring-[0.5px] [&amp;_.inputgroupaddon]:ring-[0.5px] [&amp;:has(input)]:cursor-text h-[26px] flex items-stretch w-full ring-inset ring-general-200 dark:ring-grayscale-600 rounded bg-white dark:bg-grayscale-900&quot;]/div[@class=&quot;inline-flex relative w-full cursor-default select-none&quot;]/div[@class=&quot;mr-1 flex items-center justify-center shrink-0 bg-transparent text-surface-500 dark:text-general-100 w-6 rounded-tr-md rounded-br-md&quot;]/i[@class=&quot;w-full h-full transition-transform !text-general-500 dark:!text-general-100 icon ic-arrow-drop-down text-inherit cursor-pointer w-full h-full transition-transform !text-general-500 dark:!text-general-100&quot;]</value>
+      <webElementGuid>4f0b2e76-0b93-4fa4-ba97-15a9316d5fb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-settings-custom-field']/div/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div[3]/i</value>
+      <webElementGuid>39c15433-86ac-4577-92b1-37732c52e3e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/i</value>
+      <webElementGuid>8cd5c766-893a-427e-b08a-e304f4a70546</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

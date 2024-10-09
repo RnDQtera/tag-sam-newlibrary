@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.005.51 Filter Accounting User melakukan filter sesuai dengan Active</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36687079-0c89-4fd8-84f8-f65602bec5f1</testCaseGuid>
+</TestCaseEntity>
