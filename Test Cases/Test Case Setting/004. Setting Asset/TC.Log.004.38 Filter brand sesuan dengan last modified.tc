@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.38 Filter brand sesuan dengan last modified</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3081f15-00dd-4b21-92f7-9a0493fc7b69</testCaseGuid>
+</TestCaseEntity>

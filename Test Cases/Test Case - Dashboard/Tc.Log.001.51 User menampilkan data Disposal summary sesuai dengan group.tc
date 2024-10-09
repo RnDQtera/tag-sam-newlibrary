@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.51 User menampilkan data Disposal summary sesuai dengan group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7d99ed3-5107-460d-84c7-c52dd8ed5d24</testCaseGuid>
+</TestCaseEntity>

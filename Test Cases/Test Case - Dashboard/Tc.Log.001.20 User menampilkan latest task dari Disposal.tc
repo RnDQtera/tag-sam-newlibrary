@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.20 User menampilkan latest task dari Disposal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9386a477-cefc-49e9-bfa9-57d749e1f862</testCaseGuid>
+</TestCaseEntity>

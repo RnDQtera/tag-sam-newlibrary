@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.22 User menampilkan data user summary sesuai dengan group dan time interval Today</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3c027cb-2e61-4b3c-b00b-fb3f80a0e63c</testCaseGuid>
+</TestCaseEntity>

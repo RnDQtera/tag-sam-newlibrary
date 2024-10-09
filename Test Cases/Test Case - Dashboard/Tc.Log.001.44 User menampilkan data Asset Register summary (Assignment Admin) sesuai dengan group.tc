@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.44 User menampilkan data Asset Register summary (Assignment Admin) sesuai dengan group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0e32df4-a59a-40f8-ab62-a8be18e9f5ec</testCaseGuid>
+</TestCaseEntity>

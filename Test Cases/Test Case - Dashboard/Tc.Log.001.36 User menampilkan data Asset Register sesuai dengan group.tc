@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.36 User menampilkan data Asset Register sesuai dengan group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a91a08ce-9eae-4f92-8e50-ad30584a12ff</testCaseGuid>
+</TestCaseEntity>

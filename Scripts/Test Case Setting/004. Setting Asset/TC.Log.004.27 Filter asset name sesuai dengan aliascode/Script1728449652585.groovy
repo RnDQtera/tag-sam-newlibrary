@@ -49,7 +49,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/List (1) dropdown field'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button apply'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button apply - asset name'))
 
 WebUI.delay(3)
 

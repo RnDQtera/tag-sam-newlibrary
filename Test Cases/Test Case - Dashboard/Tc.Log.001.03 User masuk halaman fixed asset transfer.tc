@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.03 User masuk halaman fixed asset transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8bf3662-498e-4a0c-94ea-66a6ccb1ceec</testCaseGuid>
+</TestCaseEntity>

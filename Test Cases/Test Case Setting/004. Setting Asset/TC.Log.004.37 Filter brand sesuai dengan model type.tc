@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.37 Filter brand sesuai dengan model type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3752612-10f7-4d57-9e63-5b0e3935a18b</testCaseGuid>
+</TestCaseEntity>

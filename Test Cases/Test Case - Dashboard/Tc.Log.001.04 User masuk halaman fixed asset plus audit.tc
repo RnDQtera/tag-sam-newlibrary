@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.04 User masuk halaman fixed asset plus audit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>653a4d40-bf64-4778-9fd3-2d377dd1fd7a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.34 Filter asset name menggunakan fitur search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa4e3394-5329-4fc4-99fe-46948a9032f9</testCaseGuid>
+</TestCaseEntity>

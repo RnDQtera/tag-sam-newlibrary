@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc.Log.001.08 User masuk halaman fixed asset plus repair ticketing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>feab3b38-128f-4ecf-88b5-c24e19ee61d4</testCaseGuid>
+</TestCaseEntity>

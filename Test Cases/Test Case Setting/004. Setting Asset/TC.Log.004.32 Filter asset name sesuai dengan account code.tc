@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.32 Filter asset name sesuai dengan account code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f52ee910-ccbb-41ed-9031-0c5eac7cb177</testCaseGuid>
+</TestCaseEntity>

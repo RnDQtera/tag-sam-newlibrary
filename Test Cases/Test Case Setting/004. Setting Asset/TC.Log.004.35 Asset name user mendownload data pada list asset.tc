@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.35 Asset name user mendownload data pada list asset</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c798d7a9-5ac7-416f-8dbb-90f050fb7497</testCaseGuid>
+</TestCaseEntity>
