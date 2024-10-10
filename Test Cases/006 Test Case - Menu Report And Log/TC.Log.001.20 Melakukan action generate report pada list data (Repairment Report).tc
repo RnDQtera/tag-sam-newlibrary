@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.Log.001.20</name>
+   <name>TC.Log.001.20 Melakukan action generate report pada list data (Repairment Report)</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ac0a4fe6-4e85-4467-8819-12dc1d9ca098</testCaseGuid>

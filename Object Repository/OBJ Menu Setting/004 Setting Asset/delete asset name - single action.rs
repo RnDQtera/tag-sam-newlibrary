@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Field alias code</name>
+   <name>delete asset name - single action</name>
    <tag></tag>
-   <elementGuidId>90c5b376-2d43-47bf-9aaa-b7d5b251fd4a</elementGuidId>
+   <elementGuidId>074d93be-ae37-42ff-a220-b7e56ef746b4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/div/div[2]/form/div/div/div[5]/div/input</value>
+         <value>/html/body/div[6]/ul/li[5]/div/a</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

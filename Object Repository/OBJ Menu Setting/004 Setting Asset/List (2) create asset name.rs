@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Field alias code</name>
+   <name>List (2) create asset name</name>
    <tag></tag>
-   <elementGuidId>90c5b376-2d43-47bf-9aaa-b7d5b251fd4a</elementGuidId>
+   <elementGuidId>915d27c5-1cfd-47cb-9bb0-8635f344efea</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/div/div[2]/form/div/div/div[5]/div/input</value>
+         <value>/html/body/div[8]/div/ul/li[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

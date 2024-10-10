@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//tr[@id='555259853']/td[2]</value>
+         <value>/html/body/table/tbody/tr[1]/td[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>53c583d3-eae1-4058-86fc-ad2d07b37029</webElementGuid>
+      <webElementGuid>8a31b614-3c19-474b-b298-02e12c48da29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>no-reply@tagsamurai.com</value>
-      <webElementGuid>0a66e78c-03ab-4cf3-9dfb-5c05fbed65c5</webElementGuid>
+      <webElementGuid>ad8a7f15-64f9-47b2-89b5-4361006571ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;555259853&quot;)/td[2]</value>
-      <webElementGuid>ebfd2545-9e26-46fb-b501-c810e77d9fb9</webElementGuid>
+      <webElementGuid>589c9b89-97ba-40ce-9224-d58e1802f08e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='555259853']/td[2]</value>
-      <webElementGuid>59ac4ccb-33e2-46e5-a56d-5fdb437a2997</webElementGuid>
+      <webElementGuid>df1f958a-75fd-474f-ab39-53d1528db25a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]</value>
-      <webElementGuid>682498f2-a08e-4634-9237-cd7bff8778a2</webElementGuid>
+      <webElementGuid>aa0b7f07-26e5-4b68-bc27-658e1465bdf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'no-reply@tagsamurai.com' or . = 'no-reply@tagsamurai.com')]</value>
-      <webElementGuid>2a4431f8-62d3-4578-b84d-6492442faa4e</webElementGuid>
+      <webElementGuid>7a875097-46ac-4983-9fc5-e84dc3d8feb6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

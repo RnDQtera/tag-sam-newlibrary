@@ -6,12 +6,12 @@
    <elementGuidId>84155eab-188f-4e0c-9106-b2de38027cea</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#mailbox</value>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[2]/div/form/input[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='mailbox']</value>
+         <key>CSS</key>
+         <value>#mailbox</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2d31a7ee-dadc-4441-9838-bca275be77a5</webElementGuid>
+      <webElementGuid>fab1f147-2622-4453-9b18-94fb4318ff37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9074cdcd-13f2-418d-8443-976f55a3bae1</webElementGuid>
+      <webElementGuid>5e03bb5b-e04e-4032-846c-3e3ffed95be7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>mailbox</value>
-      <webElementGuid>56ffda9a-aa7f-41cb-ad06-1c6801376002</webElementGuid>
+      <webElementGuid>426fac15-fc6c-416c-a81e-7fa99d0e6a32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>9a52e9be-0758-46ba-9b43-9acc65d3f7f0</webElementGuid>
+      <webElementGuid>8ee1ed3b-902c-4932-abd3-1051ee8fedb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>size</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>0f25dbcd-85c6-43b7-910c-67facbebfa42</webElementGuid>
+      <webElementGuid>1f712e49-9d26-4b14-a449-01457b73f1d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>35</value>
-      <webElementGuid>e350f61f-249d-4cf4-9e55-84735b0bbde3</webElementGuid>
+      <webElementGuid>e92062c5-0b37-42be-a6c6-1d6884422c11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>onfocus</name>
       <type>Main</type>
       <value>this.value = this.value;</value>
-      <webElementGuid>8bab8286-94c9-4aca-9019-d8a84f207b34</webElementGuid>
+      <webElementGuid>17123423-6d1e-4026-83c4-a495b559df58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mailbox</value>
-      <webElementGuid>cf3f86f5-9e0c-4ffe-adb6-1b911d6a542b</webElementGuid>
+      <webElementGuid>d4f9a49e-faf1-4f20-a982-bdd14ead94b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Type mailbox and press ENTER</value>
-      <webElementGuid>1ba9d37f-3af8-4238-8b93-ea07a1b0eb18</webElementGuid>
+      <webElementGuid>2a156a0d-594b-4c7a-bd9d-35032a95ff86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mailbox&quot;)</value>
-      <webElementGuid>681b6c30-a589-489d-a824-b9fe00d74fb0</webElementGuid>
+      <webElementGuid>5f9bbf85-2a0c-4a35-b3ec-730525ad0913</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mailbox']</value>
-      <webElementGuid>e122145d-e3dd-4280-b28e-dd4485191cfd</webElementGuid>
+      <webElementGuid>b71bb939-e906-41a4-9fbb-f1664f021494</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='form']/form/input</value>
-      <webElementGuid>9897d1fc-6896-4484-a264-e57f7c017786</webElementGuid>
+      <webElementGuid>3e586b3e-984e-46ed-9dfc-c67adc01e6f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>8f517331-701d-455c-9146-12ef752690da</webElementGuid>
+      <webElementGuid>a0bbe696-790f-4761-b71c-653a6937512a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'mailbox' and @id = 'mailbox' and @placeholder = 'Type mailbox and press ENTER']</value>
-      <webElementGuid>07c94d67-0dd9-430e-b36e-b8b52b340d5b</webElementGuid>
+      <webElementGuid>a43d1470-48c4-4fb5-aa2e-76c800091500</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

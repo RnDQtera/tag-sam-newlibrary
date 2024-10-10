@@ -47,7 +47,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user
 
 WebUI.delay(4)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button edit'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - edit'))
 
 WebUI.delay(2)
 

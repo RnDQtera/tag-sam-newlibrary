@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='text_html_555380923']/div[2]/div[3]/a/button</value>
+         <value>/html/body/table/tbody/tr[2]/td/div/div/div/div/div/div[2]/div[3]/a/button</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9f062a9f-6d21-4a19-84a2-3dc6b4ca1e23</webElementGuid>
+      <webElementGuid>b365c488-f42f-4a7f-b33e-355733bb923a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -32,7 +32,7 @@
       <value>
             Activate Account
           </value>
-      <webElementGuid>b23a37aa-3dda-4055-af0b-d94221ad614e</webElementGuid>
+      <webElementGuid>773adf2f-03bb-4816-8e78-93aae903489a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,7 +40,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;text_html_555380923&quot;)/div[2]/div[3]/a[1]/button[1]</value>
-      <webElementGuid>621d2f8d-03f3-425a-b2a4-ec57f6cd4070</webElementGuid>
+      <webElementGuid>3b18a43c-2eaf-4101-8c84-7077e386354d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='text_html_555380923']/div[2]/div[3]/a/button</value>
-      <webElementGuid>62f320d0-2632-4af7-aba3-4d6c43ed915b</webElementGuid>
+      <webElementGuid>5068447c-476b-4034-bf25-513ed8737ce2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>4ef45124-d930-4304-bfaf-d5b94db92e48</webElementGuid>
+      <webElementGuid>f5ce7faf-d1ca-4e13-a572-c333307e7abf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
           ' or . = '
             Activate Account
           ')]</value>
-      <webElementGuid>7a803839-7064-4c77-ad3f-f27702bb1f7f</webElementGuid>
+      <webElementGuid>3e3ebb75-d193-4142-990a-f4b6ba33fd4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,6 +76,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='text_html_555259853']/div[2]/div[3]/a/button</value>
-      <webElementGuid>3f84c72d-ac3c-49ed-a318-48a99ec85ecd</webElementGuid>
+      <webElementGuid>9b23ac09-a94c-4e55-95de-a137aadde7d5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

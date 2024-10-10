@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Field alias code</name>
+   <name>Button action list (3) - delete</name>
    <tag></tag>
-   <elementGuidId>90c5b376-2d43-47bf-9aaa-b7d5b251fd4a</elementGuidId>
+   <elementGuidId>75b2f945-e0ca-4ccf-8d80-07073752c061</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/div/div[2]/form/div/div/div[5]/div/input</value>
+         <value>/html/body/div[6]/ul/li[3]/div/a</value>
       </entry>
       <entry>
          <key>BASIC</key>

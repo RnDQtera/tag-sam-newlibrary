@@ -73,3 +73,13 @@ WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.004.01 - Membuat asset baru.png', FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button search'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/004 Setting Asset/Field search'), Keys.chord('komputer', Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/single action'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/delete asset name - single action'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button delete - delete asset'))
+

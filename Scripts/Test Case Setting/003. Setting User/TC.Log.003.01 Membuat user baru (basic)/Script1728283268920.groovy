@@ -59,7 +59,7 @@ WebUI.setText(findTestObject('OBJ Menu Setting/003 Setting User/Field employee i
 
 WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.006 Field Phone Number'), '01236784')
 
-WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.007 Field Email'), 'Agusp@mailnesia.com')
+WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.007 Field Email'), 'agusp@mailnesia.com')
 
 WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.008 Button Select Group'))
 
@@ -93,7 +93,7 @@ WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field search - 
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (1)'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (4) - delete'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (3) - delete'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button delete - delete group role'))
 

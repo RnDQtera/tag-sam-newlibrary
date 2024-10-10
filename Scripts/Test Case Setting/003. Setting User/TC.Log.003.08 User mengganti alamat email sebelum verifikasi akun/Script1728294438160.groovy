@@ -43,17 +43,17 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Sett
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (4)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user (1)'))
 
-WebUI.delay(1)
+WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button edit'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - edit'))
 
 WebUI.delay(2)
 
 WebUI.clearText(findTestObject('OBJ Menu Setting/003 Setting User/Field email - edit user'))
 
-WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field email - edit user'), 'indrafr@mailnesia.com')
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field email - edit user'), 'aguspa@mailnesia.com')
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button save'))
 
@@ -67,4 +67,18 @@ WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.08 - User mengganti alamat email sebelum verifikasi akun.png', 
     FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button close change log'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button search'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field search - user'), Keys.chord('agus', Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (1)'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (3) - delete'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button delete - delete group role'))
 

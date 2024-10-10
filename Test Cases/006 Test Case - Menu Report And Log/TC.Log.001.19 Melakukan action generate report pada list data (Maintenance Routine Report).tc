@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.Log.001.19</name>
+   <name>TC.Log.001.19 Melakukan action generate report pada list data (Maintenance Routine Report)</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>dd6e63f8-9909-4e00-9700-0fe676f96a15</testCaseGuid>
