@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button confirm</name>
+   <name>10 oktober 2024 - repair ticketing</name>
    <tag></tag>
-   <elementGuidId>e1c84148-7d7a-46c6-8917-2ae598295708</elementGuidId>
+   <elementGuidId>696c8448-308d-430b-9c85-8eb32a70ed0b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[2]/div[4]/div/button[3]</value>
+         <value>/html/body/div[4]/div/div/div[2]/table/tbody/tr[2]/td[5]/span</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

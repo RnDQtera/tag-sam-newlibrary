@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button confirm</name>
+   <name>Dropdown field last update - repair ticketing</name>
    <tag></tag>
-   <elementGuidId>e1c84148-7d7a-46c6-8917-2ae598295708</elementGuidId>
+   <elementGuidId>89aa23ba-3401-4d10-b529-3152ec49f37d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[2]/div[4]/div/button[3]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[7]/div/span</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

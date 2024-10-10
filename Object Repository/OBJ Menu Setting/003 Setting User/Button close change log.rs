@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button confirm</name>
+   <name>Button close change log</name>
    <tag></tag>
-   <elementGuidId>e1c84148-7d7a-46c6-8917-2ae598295708</elementGuidId>
+   <elementGuidId>db493a7a-fb76-4328-ba8d-b4967ff708bc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[2]/div[4]/div/button[3]</value>
+         <value>/html/body/div[3]/div/div[1]/div/button</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button confirm</name>
+   <name>Button confirm repair ticketing</name>
    <tag></tag>
-   <elementGuidId>e1c84148-7d7a-46c6-8917-2ae598295708</elementGuidId>
+   <elementGuidId>35d12261-d471-4fc4-857b-a86b83892bdb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div/div[2]/div[4]/div/button[3]</value>
+         <value>/html/body/div[5]/div/div[2]/div/div[4]/form/div[2]/div/div/button</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

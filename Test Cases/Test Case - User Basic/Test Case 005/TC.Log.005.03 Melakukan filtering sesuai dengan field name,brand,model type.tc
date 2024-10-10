@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.005.03 Melakukan filtering sesuai dengan field name,brand,model type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f801db3d-7c97-41b5-936c-b53364c31ebe</testCaseGuid>
+</TestCaseEntity>

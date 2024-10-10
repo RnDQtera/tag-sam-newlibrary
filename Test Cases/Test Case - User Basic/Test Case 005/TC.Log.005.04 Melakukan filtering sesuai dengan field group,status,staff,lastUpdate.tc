@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.005.04 Melakukan filtering sesuai dengan field group,status,staff,lastUpdate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a71f9dd0-1187-44b8-97ad-6472d323336e</testCaseGuid>
+</TestCaseEntity>

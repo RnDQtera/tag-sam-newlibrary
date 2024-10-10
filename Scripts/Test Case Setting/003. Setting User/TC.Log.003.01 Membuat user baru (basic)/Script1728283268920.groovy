@@ -45,6 +45,8 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.002 Button Tambah User'))
 
+WebUI.delay(2)
+
 WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.003 Field First Name'), 'Agus')
 
 WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.004 Field Last Name'), 'Pamungkas')
@@ -52,6 +54,8 @@ WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.004 Field Last Name
 WebUI.setText(findTestObject('OBJ Menu Setting/003 Setting User/Field position'), 'IT')
 
 WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.005 Field Division'), 'IT QA')
+
+WebUI.setText(findTestObject('OBJ Menu Setting/003 Setting User/Field employee id'), '123')
 
 WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.006 Field Phone Number'), '01236784')
 
@@ -78,4 +82,18 @@ WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log
 WebUI.delay(3)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.01 - Membuat user basic.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button close change log'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button search'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field search - user'), Keys.chord('agus', Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (1)'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (4) - delete'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button delete - delete group role'))
 
