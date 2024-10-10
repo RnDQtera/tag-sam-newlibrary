@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.005.11 User mendownload list data my asset repair ticketing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2cdb36b-f94f-4c40-9d0c-69f13da650a2</testCaseGuid>
+</TestCaseEntity>
