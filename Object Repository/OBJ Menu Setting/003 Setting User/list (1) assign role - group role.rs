@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>List (1) Transaction role - borrowing assignment</name>
+   <name>list (1) assign role - group role</name>
    <tag></tag>
-   <elementGuidId>a5eb7fce-dedf-44b1-9506-9f9277d09f7c</elementGuidId>
+   <elementGuidId>88cd053a-9eeb-430a-bfb2-b04adc4e825a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,6 +11,7 @@
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

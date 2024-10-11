@@ -35,7 +35,7 @@ WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILUR
 
 WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'))
 
@@ -49,6 +49,18 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list
 
 WebUI.delay(2)
 
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) global role'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/action delete - global role'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button delete - delete group role'))
+
+WebUI.delay(2)
+
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button plus assign role'))
 
 WebUI.delay(2)
@@ -56,8 +68,6 @@ WebUI.delay(2)
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Dropdown select role - assign role'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/List (1) Assign Role'))
-
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/List (2) assign role'))
 
 WebUI.delay(2)
 

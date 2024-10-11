@@ -43,7 +43,81 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Sett
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Checkbox user list (4)'))
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.002 Button Tambah User'))
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.003 Field First Name'), 'Steven')
+
+WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.004 Field Last Name'), 'Gerrard')
+
+WebUI.setText(findTestObject('OBJ Menu Setting/003 Setting User/Field position'), 'IT')
+
+WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.005 Field Division'), 'IT QA')
+
+WebUI.setText(findTestObject('OBJ Menu Setting/003 Setting User/Field employee id'), '123')
+
+WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.006 Field Phone Number'), '01236784')
+
+WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.007 Field Email'), 'steveng@mailnesia.com')
+
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.008 Button Select Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Select group - jawa timur'))
+
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.011 Button Select'))
+
+WebUI.uploadFile(findTestObject('OBJ Menu Setting/003 Setting User/Upload foto'), 'C:\\Users\\HP\\OneDrive\\Pictures\\219983.png')
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button appyl adjust photo'))
+
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.012 Button Submit'))
+
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.015 Button Create'))
+
+WebUI.delay(4)
+
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.002 Button Tambah User'))
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.003 Field First Name'), 'Toni ')
+
+WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.004 Field Last Name'), 'Sucipto')
+
+WebUI.setText(findTestObject('OBJ Menu Setting/003 Setting User/Field position'), 'IT')
+
+WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.005 Field Division'), 'IT QA')
+
+WebUI.setText(findTestObject('OBJ Menu Setting/003 Setting User/Field employee id'), '0876')
+
+WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.006 Field Phone Number'), '0123678455')
+
+WebUI.setText(findTestObject('OBJ.003 - Setting User/OBJ.003.007 Field Email'), 'tonys@mailnesia.com')
+
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.008 Button Select Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Select group - jawa timur'))
+
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.011 Button Select'))
+
+WebUI.uploadFile(findTestObject('OBJ Menu Setting/003 Setting User/Upload foto'), 'C:\\Users\\HP\\OneDrive\\Pictures\\219983.png')
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button appyl adjust photo'))
+
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.012 Button Submit'))
+
+WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.015 Button Create'))
+
+WebUI.delay(4)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Checkbox user list (5)'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Checkbox user list (6)'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button bulk action'))
 
@@ -51,7 +125,9 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Bulk action - dele
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button delete - delete group role'))
 
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log'))
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button change log - halaman user'))
 
 WebUI.delay(2)
 

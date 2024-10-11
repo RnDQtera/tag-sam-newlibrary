@@ -57,6 +57,34 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list
 
 WebUI.delay(2)
 
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/action delete - transaction role'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button delete - delete group role'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button plus assign role'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button select group assign transaction role'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Select group - jawa barat'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button select - select group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Dropdown transaction role'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/List (1) Transaction role - borrowing assignment'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Dropdown select role'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/List (1) Transaction role - Manager'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button submit - transaction role'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - Transaction role'))
+
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - edit'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button select group - edit transaction role'))
@@ -67,8 +95,15 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button select - se
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button save'))
 
-WebUI.delay(1)
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Balik halaman user'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button change log - halaman user'))
+
+WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.23 - Mengedit transaction role pada user.png', FailureHandling.STOP_ON_FAILURE)
-
 

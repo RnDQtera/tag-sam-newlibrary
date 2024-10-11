@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>List (1) Transaction role - borrowing assignment</name>
+   <name>Button select category - menu search user</name>
    <tag></tag>
-   <elementGuidId>a5eb7fce-dedf-44b1-9506-9f9277d09f7c</elementGuidId>
+   <elementGuidId>f57cd8e2-ce97-4f0f-b9b1-bd8b826c2d82</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[8]/div/ul/li[1]</value>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div[6]/span/button</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://console.tagsamurai.com')
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('00-01 ID'), 'indrafri@mailnesia.com')
+WebUI.setText(findTestObject('00-01 ID'), 'indrafrim@mailnesia.com')
 
 WebUI.setText(findTestObject('00-02 PASS'), 'Moderator12@')
 

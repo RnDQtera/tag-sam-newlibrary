@@ -33,7 +33,11 @@ WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/button_Log in'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/div_module-shadow w-110px h-110px flex item_7c244a'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/div_Settings'))
 
@@ -43,12 +47,11 @@ WebUI.delay(6)
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button action asset list (1)'))
 
-WebUI.delay(2)
+WebUI.delay(4)
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Action - List (2) - detail'))
 
 WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.004.03 - Melihat detail asset.png', FailureHandling.STOP_ON_FAILURE)
-
 

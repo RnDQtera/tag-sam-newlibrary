@@ -41,11 +41,33 @@ WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Setti
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Setting - User'))
 
+WebUI.delay(5)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button search'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field search - user'), Keys.chord('indra', Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (1)'))
+
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (4)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - edit'))
 
-WebUI.delay(4)
+WebUI.delay(2)
+
+WebUI.clearText(findTestObject('OBJ Menu Setting/003 Setting User/Field email - edit user'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field email - edit user'), 'indrafr@mailnesia.com')
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button save'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button continue edit user'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (1)'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - edit'))
 
@@ -61,7 +83,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button continue ed
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button change log search user'))
 
 WebUI.delay(2)
 

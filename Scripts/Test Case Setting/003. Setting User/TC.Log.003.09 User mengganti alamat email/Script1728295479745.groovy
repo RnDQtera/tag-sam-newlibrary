@@ -209,7 +209,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Sett
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button change log'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button change log search user'))
 
 WebUI.delay(3)
 
@@ -225,8 +225,7 @@ WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field search - 
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (1)'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (3) - delete'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (4) delete - user temporary'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button delete - delete group role'))
-
 

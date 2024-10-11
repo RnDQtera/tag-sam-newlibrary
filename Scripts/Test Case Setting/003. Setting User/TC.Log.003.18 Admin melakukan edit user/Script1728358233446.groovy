@@ -35,7 +35,7 @@ WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILUR
 
 WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'))
 
@@ -43,15 +43,21 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Sett
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (4)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button search'))
 
-WebUI.delay(4)
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field search - user'), Keys.chord('indra', Keys.ENTER))
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - edit'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (1)'))
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('OBJ Menu Setting/003 Setting User/Field position edit user'), 'IT')
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - edit'))
+
+WebUI.delay(4)
+
+WebUI.clearText(findTestObject('OBJ Menu Setting/003 Setting User/Field position edit user'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('OBJ Menu Setting/003 Setting User/Field position edit user'), 'IT Manager')
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button save'))
 
@@ -59,10 +65,9 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button continue ed
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button change log search user'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.18 - Admin melakukan edit user.png',
-	FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.18 - Admin melakukan edit user.png', FailureHandling.STOP_ON_FAILURE)
 

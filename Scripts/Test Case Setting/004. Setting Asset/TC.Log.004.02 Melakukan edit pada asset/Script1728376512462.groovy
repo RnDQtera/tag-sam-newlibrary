@@ -45,7 +45,7 @@ WebUI.delay(8)
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button plus asset'))
 
-WebUI.delay(3)
+WebUI.delay(5)
 
 WebUI.setText(findTestObject('OBJ Menu Setting/004 Setting Asset/Field asset name - create asset name'), 'Komputer')
 
@@ -81,6 +81,18 @@ WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/single action'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Edit brand'))
 
+WebUI.delay(5)
+
+WebUI.clearText(findTestObject('OBJ Menu Setting/004 Setting Asset/Field asset name - create asset name'))
+
+WebUI.setText(findTestObject('OBJ Menu Setting/004 Setting Asset/Field asset name - create asset name'), 'komputer kantor')
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Dropdown measurement - create asset name'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/List (2) create asset name'))
+
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Dropdown tag type'))
 
 WebUI.delay(2)
@@ -97,6 +109,18 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Dropdown addon'))
 
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Field alias code'))
+
+WebUI.setText(findTestObject('OBJ Menu Setting/004 Setting Asset/Field alias code'), 'KMPTR-1')
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button select category - menu search user'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/List (1) - select category'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button select - select category'))
+
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button save edit asset name'))
 
 WebUI.delay(2)
@@ -105,7 +129,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.004.02 - Membuat edit pada asset.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.004.02 - Melakukan edit pada asset.png', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2)
 

@@ -23,15 +23,30 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://mailnesia.com/')
 
-WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/003 Setting User/input_mailbox'), 'indrafri')
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/003 Setting User/inputsm'))
+WebUI.sendKeys(findTestObject('Object Repository/OBJ Menu Setting/003 Setting User/input_mailbox'), Keys.chord('indrafrim', 
+        Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/003 Setting User/a_no-replytagsamurai.com'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button confirm email mailnesia'))
 
 WebUI.delay(5)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button back to login'))
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('00-01 ID'), 'indrafrim@mailnesia.com')
+
+WebUI.setText(findTestObject('00-02 PASS'), 'Moderator12@')
+
+WebUI.delay(10)
+
+WebUI.click(findTestObject('00-03 Button Login'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(6)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.13 - Verifikasi user mengganti perubahan alamat email.png', FailureHandling.STOP_ON_FAILURE)
 

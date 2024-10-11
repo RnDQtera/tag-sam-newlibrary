@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button change log</name>
+   <name>Checkbox user list (5)</name>
    <tag></tag>
-   <elementGuidId>d13a9da0-a425-4e58-8cef-5879a0599636</elementGuidId>
+   <elementGuidId>c7886d37-bed6-4444-b594-cae609679625</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[1]/div[2]/div/button[3]</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[3]/div/div[1]/table/tbody/tr[5]/td[1]/div/input</value>
       </entry>
       <entry>
          <key>BASIC</key>

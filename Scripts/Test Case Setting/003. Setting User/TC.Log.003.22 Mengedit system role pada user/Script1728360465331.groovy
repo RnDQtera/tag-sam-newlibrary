@@ -23,7 +23,7 @@ WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.navigateToUrl('https://console.tagsamurai.com/')
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.setText(findTestObject('00-01 ID'), 'user22@mailnesia.com')
 
@@ -57,9 +57,25 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - edit'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/action delete - transaction role'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button select group - edit group role'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button delete - delete group role'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button plus assign role'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Dropdown select role - assign role - group role'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/list (1) assign role - group role'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button select group - assign group role'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Select group - jawa timur'))
 
@@ -67,7 +83,31 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button select - se
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button save'))
 
-WebUI.delay(1)
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - group role'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (1) - edit'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button select group - edit group role'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Select group - jawa barat'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button select - select group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button save'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Balik halaman user'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button change log - halaman user'))
+
+WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.22 - Mengedit system role pada user.png', FailureHandling.STOP_ON_FAILURE)
 

@@ -65,7 +65,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Balik halaman user'))
 
-WebUI.click(findTestObject('OBJ.003 - Setting User/OBJ.003.014 Button Change Log'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button change log - halaman user'))
 
 WebUI.delay(2)
 

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>List (1) Transaction role - borrowing assignment</name>
+   <name>Action asset list (1) - update</name>
    <tag></tag>
-   <elementGuidId>a5eb7fce-dedf-44b1-9506-9f9277d09f7c</elementGuidId>
+   <elementGuidId>104c6dfa-7a02-4e3b-be7c-a413f4e02fba</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[8]/div/ul/li[1]</value>
+         <value>/html/body/div[6]/ul/li[3]/div/a</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

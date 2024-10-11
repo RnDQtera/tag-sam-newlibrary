@@ -43,11 +43,21 @@ WebUI.delay(6)
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button action asset list (1)'))
 
+WebUI.delay(5)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Action asset list (1) - update'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button clear field'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Dropdown depreciaton group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/List - Update deprectiation setting'))
+
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Action - List (3) - Update'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Dropdown account code'))
 
-WebUI.delay(2)
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/List - Update deprectiation setting'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Dropdown depreciaton group'))
 
