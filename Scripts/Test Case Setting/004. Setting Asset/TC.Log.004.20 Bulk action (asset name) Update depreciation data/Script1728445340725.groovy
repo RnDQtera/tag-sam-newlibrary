@@ -35,6 +35,8 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/div_module-shadow w-110px h-110px flex item_7c244a'))
 
+WebUI.delay(8)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/div_Settings'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/div_Asset'))
@@ -43,11 +45,15 @@ WebUI.delay(6)
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Checkbox asset list (1)'))
 
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Checkbox asset list (2)'))
+
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button bulk action'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Bulk action - list (1) Update'))
 
 WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button clear field'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Dropdown depreciaton group'))
 
@@ -67,5 +73,6 @@ WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.004.20 - Bulk action asset name melakukan update depreciation data.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.004.20 - Bulk action asset name melakukan update depreciation data.png', 
+    FailureHandling.STOP_ON_FAILURE)
 

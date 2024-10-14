@@ -39,7 +39,7 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/div_Asset'))
 
-WebUI.delay(6)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button new category'))
 

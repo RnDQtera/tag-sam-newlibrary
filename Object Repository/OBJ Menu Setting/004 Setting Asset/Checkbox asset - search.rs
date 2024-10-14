@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Bulk action brand - delete</name>
+   <name>Checkbox asset - search</name>
    <tag></tag>
-   <elementGuidId>bf103e77-26f4-4ef9-b077-ef36593a2bee</elementGuidId>
+   <elementGuidId>049fdb2d-6763-4fc1-9ed9-33cce6572330</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[7]/ul/li/div/a</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[4]/div[1]/table/tbody/tr/td[1]/div/input</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

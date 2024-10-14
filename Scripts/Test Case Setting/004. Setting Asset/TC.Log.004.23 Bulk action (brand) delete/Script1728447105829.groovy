@@ -45,9 +45,31 @@ WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Menu brand'))
 
 WebUI.delay(4)
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Checkbox asset list (8)'))
+WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Checkbox asset list (9)'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button plus brand'))
+
+WebUI.delay(5)
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/004 Setting Asset/Field brand name'), 'Robot')
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button select category - create brand'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/List (3) Select category'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button select - select category'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/004 Setting Asset/Enter value model type'), Keys.chord('1', Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button submit - create brand'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button search - brand'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/004 Setting Asset/Field search - brand'), Keys.chord('robot', Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Checkbox asset - search'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button bulk action -brand'))
 
@@ -59,7 +81,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button delete - d
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log - search brand'))
 
 WebUI.delay(2)
 

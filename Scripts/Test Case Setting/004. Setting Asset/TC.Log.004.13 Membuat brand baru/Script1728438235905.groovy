@@ -35,6 +35,8 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/div_module-shadow w-110px h-110px flex item_7c244a'))
 
+WebUI.delay(8)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/div_Settings'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/div_Asset'))

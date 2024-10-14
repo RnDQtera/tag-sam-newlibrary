@@ -41,9 +41,41 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset
 
 WebUI.delay(6)
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Checkbox asset list (1)'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button plus asset'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Checkbox asset list (2)'))
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('OBJ Menu Setting/004 Setting Asset/Field asset name - create asset name'), 'Komputer')
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Dropdown measurement - create asset name'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/List (1) Create asset name'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Dropdown tag type'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/List (4) Create asset name'))
+
+WebUI.setText(findTestObject('OBJ Menu Setting/004 Setting Asset/Field alias code'), 'KMPTR')
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button select category'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/List (3) Select category'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button select - select category'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button submit'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button search'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/004 Setting Asset/Field search'), Keys.chord('komputer', Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Checkbox asset - search'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button bulk action'))
 
@@ -55,7 +87,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button delete - d
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log - search'))
 
 WebUI.delay(2)
 

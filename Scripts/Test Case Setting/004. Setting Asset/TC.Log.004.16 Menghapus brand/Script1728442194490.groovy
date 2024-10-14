@@ -55,7 +55,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button delete - d
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log - brand'))
 
 WebUI.delay(2)
 
