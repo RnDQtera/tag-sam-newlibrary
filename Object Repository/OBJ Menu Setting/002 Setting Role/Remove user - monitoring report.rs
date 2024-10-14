@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button Pointer Group</name>
+   <name>Remove user - monitoring report</name>
    <tag></tag>
-   <elementGuidId>d0622552-c585-408f-b8f8-efa5e57b2878</elementGuidId>
+   <elementGuidId>b4d288c1-f018-4e41-8386-1e7209ff5fb9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[2]/div/div/div/div[4]/div/ul/li/ul/li[1]/div/button/i</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div[2]/div/div[2]/span/button</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

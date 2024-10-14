@@ -4,6 +4,5 @@
    <name>TC.002.05 Menambahkan manager pada role transfer</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>d99d8fbb-6e27-48a7-9f1b-de7f55cfc64f</testCaseGuid>
 </TestCaseEntity>

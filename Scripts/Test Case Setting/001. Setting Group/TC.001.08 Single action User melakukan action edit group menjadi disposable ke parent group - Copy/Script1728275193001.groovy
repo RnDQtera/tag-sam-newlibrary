@@ -27,25 +27,29 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(3)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Group'))
 
-WebUI.delay(2)
+WebUI.delay(5)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Slider 1 Disposal Policy Group'))
+
+WebUI.delay(3)
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Group'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Edit Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action edit group 2'))
 
-WebUI.clearText(findTestObject('OBJ Menu Setting/001 Setting Group/Input Text Edit Group'))
-
-WebUI.setText(findTestObject('OBJ Menu Setting/001 Setting Group/Input Text Edit Group'), 'Tangerang')
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Checkbox Disposable Group'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Save Edit Group'))
 
@@ -55,6 +59,6 @@ WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log G
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.07 - Single action user melakukan edit group ganti nama ke parent group.png', 
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.08 - Single action user melakukan edit group menjadi disposable ke parent group.png', 
     FailureHandling.STOP_ON_FAILURE)
 

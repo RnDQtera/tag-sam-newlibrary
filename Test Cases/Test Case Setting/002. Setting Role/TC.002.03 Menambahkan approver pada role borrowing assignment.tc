@@ -4,6 +4,5 @@
    <name>TC.002.03 Menambahkan approver pada role borrowing assignment</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>5589b25e-8935-48b2-9299-a496fdf019df</testCaseGuid>
 </TestCaseEntity>

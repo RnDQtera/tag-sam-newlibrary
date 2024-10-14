@@ -6,15 +6,13 @@
    <elementGuidId>56be99fd-eaf7-4178-9563-52a520df6975</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/div[6]/ul/li[4]/div/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;pv_id_41_3&quot;]/div/a</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

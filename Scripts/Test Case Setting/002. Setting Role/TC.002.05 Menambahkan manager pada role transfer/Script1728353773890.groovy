@@ -57,3 +57,5 @@ WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.05 - Menambahkan role manager transfer.png', FailureHandling.STOP_ON_FAILURE)
 
+
+

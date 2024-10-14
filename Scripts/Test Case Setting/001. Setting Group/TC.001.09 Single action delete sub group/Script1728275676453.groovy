@@ -27,6 +27,8 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(10)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
@@ -43,6 +45,8 @@ WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Pointer Gr
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Sub Group'))
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Delete Sub Group'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Delete Sub Group'))
@@ -54,4 +58,18 @@ WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log G
 WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.09 - Single action delete sub group.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button close view log'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Group'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Create Sub Group'))
+
+WebUI.setText(findTestObject('OBJ Menu Setting/001 Setting Group/Input Text Group Name'), 'Castedefells')
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Submit Create Group'))
 

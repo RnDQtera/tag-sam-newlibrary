@@ -27,23 +27,45 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(3)
+WebUI.delay(6)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Group'))
 
-WebUI.delay(2)
+WebUI.delay(6)
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Group'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Move Group'))
+WebUI.delay(5)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Select Move Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Create Sub Group'))
+
+WebUI.setText(findTestObject('OBJ Menu Setting/001 Setting Group/Input Text Group Name'), 'Castedefells')
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Submit Create Group'))
+
+WebUI.delay(2)
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/Input search group'), Keys.chord('Castedefells', Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Pointer Group Search'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Group Search - Move Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Move Group Search'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Select Move Group Search'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Dropdown Choose Move Group'))
 
@@ -57,6 +79,22 @@ WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log G
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.05 - Single action user memindahkan group ke group yang lain..png', 
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.06 - Single action user memindahkan sub group ke parent group yang lain..png', 
     FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Close View Log - Menu Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Pointer Group Search'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Group Search - Move Group'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Delete Sub Group Search'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Delete Sub Group'))
 

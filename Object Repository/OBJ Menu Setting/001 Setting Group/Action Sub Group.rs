@@ -6,15 +6,13 @@
    <elementGuidId>d4b40b9c-a5a1-42ae-b16b-7e8e50f2cec1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/aside[2]/div/div/div/div[4]/div/ul/li/ul/li[1]/ul/li[1]/div/span[2]/button/i</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

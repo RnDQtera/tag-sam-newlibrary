@@ -27,6 +27,8 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
@@ -43,6 +45,8 @@ WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Group'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Create Sub Group'))
 
+WebUI.delay(4)
+
 WebUI.setText(findTestObject('OBJ Menu Setting/001 Setting Group/Input Text Group Name'), 'Pamplona')
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Checkbox Disposable Group'))
@@ -56,4 +60,20 @@ WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log G
 WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.04 - Single action user membuat disposal sub group.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Close View Log'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/Input search group'), Keys.chord('Pamplona', Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Pointer Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Sub Group Search'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Delete Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Delete Group - Search'))
 

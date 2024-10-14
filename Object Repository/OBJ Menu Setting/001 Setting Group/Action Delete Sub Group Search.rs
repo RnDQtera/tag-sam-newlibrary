@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button Pointer Group</name>
+   <name>Action Delete Sub Group Search</name>
    <tag></tag>
-   <elementGuidId>d0622552-c585-408f-b8f8-efa5e57b2878</elementGuidId>
+   <elementGuidId>0a7e3541-3648-4ae2-8ca2-af074991f22f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/aside[2]/div/div/div/div[4]/div/ul/li/ul/li[1]/div/button/i</value>
+         <value>/html/body/div[7]/ul/li[4]/div/a</value>
       </entry>
       <entry>
          <key>BASIC</key>

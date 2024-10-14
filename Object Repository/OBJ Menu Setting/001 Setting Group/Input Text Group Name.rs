@@ -6,12 +6,11 @@
    <elementGuidId>d4261d97-9dda-444c-9961-5a97b053ba9e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/div[6]/div/div[2]/form/div/div/div/div/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-auth']/div/div/div/div/div/div/div/div/div/form/div/div/div/div/input</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>341af30a-3072-489a-a9bc-ef6ec1b0af8c</webElementGuid>
+      <webElementGuid>a52aea81-5107-4536-a545-947e39297459</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ts-inputtext !max-h-[42px] flex py-1 px-3 items-center space-x-1 flex-shrink-0 self-stretch rounded bg-transparent w-full h-full max-h-[26px] text-general-800 dark:text-general-100 text-xs leading-[133.333%] tracking-[0.24px] !font-medium placeholder:text-general-200 dark:placeholder:text-grayscale-800 placeholder:!font-light appearance-none outline-none focus:ring-primary-500 dark:focus:ring-primary-400</value>
-      <webElementGuid>f4538eb0-a8b8-4fef-b1a1-ece91a39f7ad</webElementGuid>
+      <webElementGuid>40b290d8-3cff-4173-99c6-7bc76e088432</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter your email</value>
-      <webElementGuid>59939ce2-4e36-4d60-b1b4-4db012e59311</webElementGuid>
+      <webElementGuid>ae31fdd1-dcf6-4e55-8ea0-b5ccacd0222d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>ts-inputtext</value>
-      <webElementGuid>95b96fd6-0b6f-465a-8474-f1f9991f3dcd</webElementGuid>
+      <webElementGuid>3b6a376e-4252-4f31-85e4-d0e95a144048</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>inputtext</value>
-      <webElementGuid>41750cb5-07ae-47ce-8063-cf5d7bef95c8</webElementGuid>
+      <webElementGuid>446252ea-384a-468a-85c4-82ec88010be9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>root</value>
-      <webElementGuid>da97a6a3-d329-4c43-8b10-4cb2abb7e650</webElementGuid>
+      <webElementGuid>86eb27f6-cb40-470f-9e7b-bcf916fe3b12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-auth&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;h-screen p-6 bg-primary-50&quot;]/div[@class=&quot;h-full flex flex-col gap-6 py-[47.5px] px-6 bg-white&quot;]/div[@class=&quot;grid grid-cols-2 items-center gap-12 w-full h-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-[420px] mx-auto&quot;]/div[1]/div[@class=&quot;flex flex-col gap-3&quot;]/div[@class=&quot;flex flex-col gap-3 w-full&quot;]/form[@class=&quot;ts-form !gap-0&quot;]/div[@class=&quot;ts-form-fields-outer-wrapper&quot;]/div[@class=&quot;grid gap-y-3 gap-x-6&quot;]/div[@class=&quot;flex flex-col items-start justify-start relative gap-1 w-full shrink-0 overflow-hidden&quot;]/div[@class=&quot;[&amp;_.inputgroupaddon]:ring-general-200 [&amp;_.inputgroupaddon]:dark:ring-general-200 [&amp;:has(:focus)]:ring-primary-500 [&amp;:has(:focus)_.inputgroupaddon]:ring-primary-500 ring-[0.5px] [&amp;_.inputgroupaddon]:ring-[0.5px] [&amp;:has(input)]:cursor-text h-[26px] !h-[42px] !h-[42px] flex items-stretch w-full ring-inset ring-general-200 dark:ring-grayscale-600 rounded bg-white dark:bg-grayscale-900&quot;]/input[@class=&quot;ts-inputtext !max-h-[42px] flex py-1 px-3 items-center space-x-1 flex-shrink-0 self-stretch rounded bg-transparent w-full h-full max-h-[26px] text-general-800 dark:text-general-100 text-xs leading-[133.333%] tracking-[0.24px] !font-medium placeholder:text-general-200 dark:placeholder:text-grayscale-800 placeholder:!font-light appearance-none outline-none focus:ring-primary-500 dark:focus:ring-primary-400&quot;]</value>
-      <webElementGuid>9b4ed092-e2e5-4469-a926-ef3bab47fe3e</webElementGuid>
+      <webElementGuid>d20f24c2-e1b1-4775-a212-287c4b6b42e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-auth']/div/div/div/div/div/div/div/div/div/form/div/div/div/div/input</value>
-      <webElementGuid>0ae12798-2e7d-4524-bc2f-2753746c5881</webElementGuid>
+      <webElementGuid>0557d492-1964-49b9-be43-51bea4648ce6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>00e7c41f-871f-4564-bf2d-9055d0aebd7b</webElementGuid>
+      <webElementGuid>03f5591e-b733-4382-a0e0-bff2efbe3fea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Enter your email']</value>
-      <webElementGuid>82e69c47-aed1-4c78-bd44-1d73cb487755</webElementGuid>
+      <webElementGuid>186790f7-9a70-4d39-ab90-ef1c76623a65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/input</value>
-      <webElementGuid>786cf9bf-0d6d-4410-9477-39b604f31dc7</webElementGuid>
+      <webElementGuid>23e0897b-9bcf-4137-9420-df8a5c9d3f96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Enter group name']</value>
-      <webElementGuid>840afac8-aa70-4f1e-be5b-b3d914452913</webElementGuid>
+      <webElementGuid>f407a30d-5373-4b68-8ccf-f9cbc7261500</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

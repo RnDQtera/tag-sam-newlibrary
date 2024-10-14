@@ -45,6 +45,12 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/002 Setting Role/
 
 WebUI.delay(2)
 
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Add Approver'))
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/002 Setting Role/Field 1 Select Role'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Add Approver'))
+
 WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button And Approver Level'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Changelog Role'))

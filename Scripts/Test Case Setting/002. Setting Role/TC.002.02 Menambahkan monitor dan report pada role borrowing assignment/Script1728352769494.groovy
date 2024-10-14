@@ -29,11 +29,13 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(10)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(3)
+WebUI.delay(8)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
@@ -57,4 +59,3 @@ WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.02 - Menambahkan monitor dan report pada role borrowing assignment .png', 
     FailureHandling.STOP_ON_FAILURE)
-
