@@ -4,6 +4,5 @@
    <name>TC.001.01 Single action user membuat group baru</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>db1a8998-3867-4dd7-a16d-8087ad679c90</testCaseGuid>
 </TestCaseEntity>

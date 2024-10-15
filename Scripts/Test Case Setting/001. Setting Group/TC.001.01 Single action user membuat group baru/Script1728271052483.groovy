@@ -27,21 +27,25 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(3)
+WebUI.delay(15)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Group'))
 
-WebUI.delay(2)
+WebUI.delay(5)
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button New Group'))
 
-WebUI.setText(findTestObject('OBJ Menu Setting/001 Setting Group/Input Text Group Name'), 'Barcelona')
+WebUI.delay(3)
+
+WebUI.setText(findTestObject('OBJ Menu Setting/001 Setting Group/Input Text Group Name'), 'Liverpool')
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Submit Create Group'))
 
@@ -52,4 +56,20 @@ WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button View Log G
 WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.01 - Single action user membuat group baru.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Close View Log'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/001 Setting Group/Input Text Group Name'), Keys.chord('Liverpool', Keys.ENTER))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Group Search'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Delete Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Delete Sub Group'))
 
