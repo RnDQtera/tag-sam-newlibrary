@@ -4,6 +4,5 @@
    <name>TC.005.20 Maintenance Routine Mengahapus custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>3d10d366-977a-43c9-baa2-ab73dea167e9</testCaseGuid>
 </TestCaseEntity>

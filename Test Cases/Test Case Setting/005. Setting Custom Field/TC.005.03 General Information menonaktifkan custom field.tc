@@ -4,6 +4,5 @@
    <name>TC.005.03 General Information menonaktifkan custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>4fc09086-811e-45cf-93ac-602380d97de8</testCaseGuid>
 </TestCaseEntity>

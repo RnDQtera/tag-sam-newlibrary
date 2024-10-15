@@ -4,6 +4,5 @@
    <name>TC.005.19 Maintenance Routine mengedit custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>977e498b-19d4-42cb-9a30-0cc2361ea9d4</testCaseGuid>
 </TestCaseEntity>

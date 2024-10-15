@@ -27,6 +27,8 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
@@ -55,4 +57,14 @@ WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.18 - Bulk action verifikasi menonaktifkan disposal policy group inactive dan active.png', 
     FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Checkbox List 1 Disposal Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Checkbox List 2 Disposal Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Bulk Action Group'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Activate Disposal Policy Group'))
 

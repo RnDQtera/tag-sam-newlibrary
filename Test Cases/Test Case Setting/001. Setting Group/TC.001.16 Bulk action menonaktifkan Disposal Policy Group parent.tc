@@ -4,6 +4,5 @@
    <name>TC.001.16 Bulk action menonaktifkan Disposal Policy Group parent</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>8ebdb607-81fe-40e7-8a3c-010830726fec</testCaseGuid>
 </TestCaseEntity>

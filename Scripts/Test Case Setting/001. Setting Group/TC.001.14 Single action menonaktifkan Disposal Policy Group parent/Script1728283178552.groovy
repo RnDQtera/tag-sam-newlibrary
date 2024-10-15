@@ -50,3 +50,7 @@ WebUI.delay(2)
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.14 - Single action menonaktifkan Disposal Policy Group parent.png', 
     FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Slider 1 Disposal Policy Group'))
+

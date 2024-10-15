@@ -27,6 +27,8 @@ WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'user22@mailnesia.co
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
 
 WebUI.delay(3)
@@ -56,4 +58,12 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Cust
 WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.13 - Accounting menonaktifkan custom field.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(4)
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Close change log'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Slider 1 Active Custom Field'))
 

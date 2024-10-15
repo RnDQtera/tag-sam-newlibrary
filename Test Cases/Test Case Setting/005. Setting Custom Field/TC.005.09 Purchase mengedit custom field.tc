@@ -4,6 +4,5 @@
    <name>TC.005.09 Purchase mengedit custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>ecb0730c-29ac-42dd-a00f-458b2f0df10f</testCaseGuid>
 </TestCaseEntity>

@@ -4,6 +4,5 @@
    <name>TC.005.26 Bulk Action General Information melakukan action mengaktifkan custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>b29c97ae-9c58-4a0f-90ae-972f652e155f</testCaseGuid>
 </TestCaseEntity>

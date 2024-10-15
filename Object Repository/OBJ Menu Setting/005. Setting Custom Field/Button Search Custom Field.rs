@@ -6,16 +6,15 @@
    <elementGuidId>c3dfbd07-b35c-465f-96e1-34125fe716ef</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.mx-0.text-base.icon.ic-search.text-inherit.cursor-pointer.mx-0.text-base</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-settings-custom-field']/div/div[2]/div/div/div[2]/div/div[2]/div/button/i</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.mx-0.text-base.icon.ic-search.text-inherit.cursor-pointer.mx-0.text-base</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>ae4f84b0-b7ff-4232-832d-840c562f9f9c</webElementGuid>
+      <webElementGuid>17a9afc1-96b6-4d37-9088-aa29288a4e08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mx-0 text-base icon ic-search text-inherit cursor-pointer mx-0 text-base</value>
-      <webElementGuid>78f5a35f-bfda-4ca4-a153-d0da0f344e14</webElementGuid>
+      <webElementGuid>64ee87c8-87a0-46fe-a715-3d2ed2b5b038</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single-spa-application:@tagsamurai/ts-mfe-settings-custom-field&quot;)/div[@class=&quot;single-spa-container&quot;]/div[@class=&quot;rounded-lg bg-surface-0 dark:!bg-grayscale-900 text-general-800 dark:text-general-800&quot;]/div[@class=&quot;flex flex-col gap-3 p-6&quot;]/div[@class=&quot;flex flex-col gap-3 text-general-800 dark:text-general-100&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex items-center gap-2&quot;]/div[@class=&quot;flex gap-1&quot;]/button[@class=&quot;relative items-center justify-center inline-flex text-center text-xs h-[26px] w-max min-w-[26px] w-[26px] p-0 ring-inset shadow-sm rounded bg-transparent text-general-500 dark:text-white ring-1 ring-general-500 dark:ring-white hover:bg-surface-300/20 transition duration-200 ease-in-out cursor-pointer overflow-hidden select-none&quot;]/i[@class=&quot;mx-0 text-base icon ic-search text-inherit cursor-pointer mx-0 text-base&quot;]</value>
-      <webElementGuid>d432354d-f5ae-400a-a0f6-30503fae641e</webElementGuid>
+      <webElementGuid>08d02449-b674-482c-b32a-bb9df912e59d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='single-spa-application:@tagsamurai/ts-mfe-settings-custom-field']/div/div[2]/div/div/div[2]/div/div[2]/div/button/i</value>
-      <webElementGuid>eb79c3a0-5b07-4613-9854-4b1c2f9b82e0</webElementGuid>
+      <webElementGuid>e289fa49-0125-49f0-be82-dd03745b5c03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/button/i</value>
-      <webElementGuid>9ade26ce-176f-456e-a1e9-523c7f66c055</webElementGuid>
+      <webElementGuid>2d7c4e21-aace-4ef3-89c3-27dd0630be28</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

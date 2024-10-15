@@ -4,6 +4,5 @@
    <name>TC.005.28 Bulk Action General Information melakukan action delete custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>3af4a7c9-5029-432c-a02e-8e50b372f9ba</testCaseGuid>
 </TestCaseEntity>

@@ -4,6 +4,5 @@
    <name>TC.005.13 Accounting menonaktifkan custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>f4815b3d-cd0d-40f0-b0d9-30f783b013be</testCaseGuid>
 </TestCaseEntity>

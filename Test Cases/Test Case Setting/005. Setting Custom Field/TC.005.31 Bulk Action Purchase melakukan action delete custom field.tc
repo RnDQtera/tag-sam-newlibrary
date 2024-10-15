@@ -4,6 +4,5 @@
    <name>TC.005.31 Bulk Action Purchase melakukan action delete custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>d3384a53-9e57-4749-854b-d21bb37c979f</testCaseGuid>
 </TestCaseEntity>

@@ -27,6 +27,8 @@ WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'user22@mailnesia.co
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
 
 WebUI.delay(3)
@@ -44,6 +46,10 @@ WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Sub Menu 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Tab Accounting'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Slider 1 Active Custom Field'))
 
 WebUI.delay(2)
 

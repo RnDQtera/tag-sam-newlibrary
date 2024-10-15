@@ -4,6 +4,5 @@
    <name>TC.005.21 Audit membuat custom field baru</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>69acd1d5-e42b-4fde-8a5c-91a5467374d8</testCaseGuid>
 </TestCaseEntity>

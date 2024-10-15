@@ -4,6 +4,5 @@
    <name>TC.005.34 Bulk Action Accounting melakukan action delete custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>173e57d9-be85-4267-a154-57e9127f9581</testCaseGuid>
 </TestCaseEntity>

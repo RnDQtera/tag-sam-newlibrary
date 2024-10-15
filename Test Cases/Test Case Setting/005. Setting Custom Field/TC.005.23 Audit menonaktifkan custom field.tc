@@ -4,6 +4,5 @@
    <name>TC.005.23 Audit menonaktifkan custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>780da076-b883-4dc3-9a75-6b3ac1aae084</testCaseGuid>
 </TestCaseEntity>

@@ -27,17 +27,17 @@ WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'user22@mailnesia.co
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
+WebUI.delay(15)
 
-WebUI.delay(3)
+WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(3)
+WebUI.delay(15)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
-WebUI.delay(2)
+WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Sub Menu Custom Field'))
 
@@ -65,8 +65,32 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Changelog Custom Field'))
 
-WebUI.delay(2)
+WebUI.delay(3)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.33 - Bulk Action Accounting melakukan action nonactive custom field.png', 
     FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Close change log'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Checkbox Bulk Action'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Checkbox Bulk Action'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Bulk Action'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Activate Bulk Action'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Activate Custom Field'))
+
+WebUI.delay(2)
 

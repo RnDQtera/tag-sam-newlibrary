@@ -4,6 +4,5 @@
    <name>TC.005.40 Bulk Action Audit melakukan action delete custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>248dd22b-1c83-4931-bd25-ceed65f11e86</testCaseGuid>
 </TestCaseEntity>

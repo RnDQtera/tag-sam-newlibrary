@@ -4,6 +4,5 @@
    <name>TC.005.39 Bulk Action Audit melakukan action nonactive custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>8e0901f6-486e-49e6-9fe1-39e9a213fb05</testCaseGuid>
 </TestCaseEntity>

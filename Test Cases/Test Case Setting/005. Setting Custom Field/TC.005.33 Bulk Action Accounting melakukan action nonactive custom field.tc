@@ -4,6 +4,5 @@
    <name>TC.005.33 Bulk Action Accounting melakukan action nonactive custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>62acd818-fcff-4222-9559-4dd7454186ba</testCaseGuid>
 </TestCaseEntity>

@@ -4,6 +4,5 @@
    <name>TC.005.14 Accounting mengedit custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>40ca8c68-4009-49cd-997f-a83491b80577</testCaseGuid>
 </TestCaseEntity>

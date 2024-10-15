@@ -4,6 +4,5 @@
    <name>TC.005.24 Audit mengedit custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>544b7cd1-7964-4d45-93dc-18f27d3ee4d7</testCaseGuid>
 </TestCaseEntity>

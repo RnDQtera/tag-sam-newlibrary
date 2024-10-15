@@ -4,6 +4,5 @@
    <name>TC.005.15 Accounting Mengahapus custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>ade8bb3c-d1ac-4b7a-873a-2caf90ed5989</testCaseGuid>
 </TestCaseEntity>

@@ -4,6 +4,5 @@
    <name>TC.005.37 Bulk Action Maintenance Routine melakukan action delete custom field</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>3e598e5e-fd43-40bc-a5ec-ca10e558bde8</testCaseGuid>
 </TestCaseEntity>
