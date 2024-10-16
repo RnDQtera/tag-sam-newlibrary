@@ -27,11 +27,13 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(3)
+WebUI.delay(15)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
@@ -39,7 +41,9 @@ WebUI.click(findTestObject('OBJ Menu Setting/Sub Menu Asset Transactional Policy
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Action List 1 Transactionable'))
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Button action list (1) Transactionable'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Button Move To Non Transactionable'))
 
@@ -47,9 +51,13 @@ WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.
 
 WebUI.delay(2)
 
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.02 Tab Non Transactionable/Tab Non Transactionable'))
+
+WebUI.delay(4)
+
 WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Button Change Log ATP'))
 
-WebUI.delay(2)
+WebUI.delay(3)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.006.03 - Single action Transactionable melakukan action move to non transactionable.png', 
     FailureHandling.STOP_ON_FAILURE)

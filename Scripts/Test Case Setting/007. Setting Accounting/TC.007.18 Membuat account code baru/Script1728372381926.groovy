@@ -27,11 +27,13 @@ WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'employee24@mailnesi
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(2)
+WebUI.delay(15)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Menu Settings'))
 
@@ -44,6 +46,8 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Tab Account 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Account Code'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Account Code'))
 
@@ -62,4 +66,14 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Chang
 WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.007.18 - Membuat account code baru.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Close Change Log - Account Code'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Single Action Account Code'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Delete Account Code List'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Dialog Delete Account Code'))
 

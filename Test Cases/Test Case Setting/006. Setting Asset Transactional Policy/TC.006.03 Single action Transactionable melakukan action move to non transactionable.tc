@@ -4,6 +4,5 @@
    <name>TC.006.03 Single action Transactionable melakukan action move to non transactionable</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>347bba36-572d-4316-b64b-34ff0456f211</testCaseGuid>
 </TestCaseEntity>

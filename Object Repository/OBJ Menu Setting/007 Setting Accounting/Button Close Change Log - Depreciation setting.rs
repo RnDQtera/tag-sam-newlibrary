@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button Mark As Self Service Asset</name>
+   <name>Button Close Change Log - Depreciation setting</name>
    <tag></tag>
-   <elementGuidId>3ebbbbc1-e48f-4ee7-b85d-1315e6ab5842</elementGuidId>
+   <elementGuidId>e43c5e78-82b0-479f-bd0c-98761f84f006</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/ul/li[1]/div/a</value>
+         <value>/html/body/div[4]/div/div[1]/div/button</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

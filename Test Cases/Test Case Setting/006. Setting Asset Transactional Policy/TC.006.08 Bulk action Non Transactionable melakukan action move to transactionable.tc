@@ -4,6 +4,5 @@
    <name>TC.006.08 Bulk action Non Transactionable melakukan action move to transactionable</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>d082c228-18ff-486c-ab0b-4f045fc18f19</testCaseGuid>
 </TestCaseEntity>

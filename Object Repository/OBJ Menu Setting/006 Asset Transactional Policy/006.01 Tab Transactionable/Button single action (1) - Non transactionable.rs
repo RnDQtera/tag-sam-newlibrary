@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button Mark As Self Service Asset</name>
+   <name>Button single action (1) - Non transactionable</name>
    <tag></tag>
-   <elementGuidId>3ebbbbc1-e48f-4ee7-b85d-1315e6ab5842</elementGuidId>
+   <elementGuidId>89f42b6d-2b04-4fca-8862-9a0a64f0eec9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/ul/li[1]/div/a</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[4]/div[1]/table/tbody/tr/td[7]/div/button/i</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

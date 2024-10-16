@@ -4,6 +4,5 @@
    <name>TC.007.21 Bulk Action (Depreciation Settings) Menghapus depreciation group</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>462d3fb1-e454-424a-b392-b7fe635ac334</testCaseGuid>
 </TestCaseEntity>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Button Mark As Self Service Asset</name>
+   <name>Tab Transactionable</name>
    <tag></tag>
-   <elementGuidId>3ebbbbc1-e48f-4ee7-b85d-1315e6ab5842</elementGuidId>
+   <elementGuidId>853f83e5-d718-440e-933b-23bc9dbdad22</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[6]/ul/li[1]/div/a</value>
+         <value>/html/body/div[1]/main/div/div/div[2]/div/div/div[1]/ul/li[1]/a</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

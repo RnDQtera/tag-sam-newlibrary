@@ -27,11 +27,13 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(3)
+WebUI.delay(15)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
@@ -41,11 +43,19 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.02 Tab Non Transactionable/Tab Non Transactionable'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.02 Tab Non Transactionable/Action List 1 Non Transactionable'))
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Button single action (1) - Non transactionable'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.02 Tab Non Transactionable/Button Move To Transactionable'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Button Continue Submit ATP'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/006 Asset Transactional Policy/006.01 Tab Transactionable/Tab Transactionable'))
 
 WebUI.delay(2)
 

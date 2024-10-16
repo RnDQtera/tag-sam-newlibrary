@@ -4,6 +4,5 @@
    <name>TC.006.02 Single action Transactionable melakukan action Remove from service self asset</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>96afff3d-44ab-4da6-8e16-45bec6d945f4</testCaseGuid>
 </TestCaseEntity>

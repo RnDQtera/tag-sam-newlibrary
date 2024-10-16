@@ -27,11 +27,13 @@ WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'employee24@mailnesi
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(2)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Menu Settings'))
 
@@ -39,11 +41,26 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Sub Menu Acc
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Action Depreciation Settings'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Depreciation Group'))
+
+WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Text Tangible Asset Group'), 
+    'Inventaris Kantor Asset')
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'))
+
+WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'), '5')
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Button Submit'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Single Action Deprecitaion Settings'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Edit Depreciation Settings'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life Edit'))
+WebUI.clearText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life Edit'))
 
 WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life Edit'), '10')
 
@@ -57,4 +74,18 @@ WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.007.02 - Single Action (Depreciation Settings) Mengedit depreciation group.png', 
     FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Close Change Log - Account Code'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Single Action Deprecitaion Settings'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Delete Depreciation Settings'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Dialog Delete Depriciation Group'))
 

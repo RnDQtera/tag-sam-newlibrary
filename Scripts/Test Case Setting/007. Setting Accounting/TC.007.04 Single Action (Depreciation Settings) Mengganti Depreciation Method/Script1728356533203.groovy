@@ -27,11 +27,13 @@ WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'employee24@mailnesi
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(15)
+
 WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(2)
+WebUI.delay(15)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Menu Settings'))
 
@@ -40,6 +42,8 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Sub Menu Acc
 WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Action Choose Depreciation Method'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Item Depreciation Method'))
 

@@ -4,6 +4,5 @@
    <name>TC.006.01 Single action Transactionable melakukan action Mark as self service asset</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>028312c2-6c09-4311-9a50-dd00cc068008</testCaseGuid>
 </TestCaseEntity>
