@@ -60,3 +60,17 @@ WebUI.delay(2)
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.03 - Menambahkan approver pada role borrowing assignment .png', 
     FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button close change log'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Remove Approver (2)'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Submit Remove'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Changelog Role'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.25 - Melakukan action remove approval dari borrowing assigment.png',
+	FailureHandling.STOP_ON_FAILURE)
+
+

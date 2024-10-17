@@ -49,6 +49,8 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/002 Setting Role/
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/002 Setting Role/Field 1 Select Role'))
 
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/002 Setting Role/Button Add Manager'))
+
 WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Changelog Role'))
@@ -56,4 +58,19 @@ WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Changelog R
 WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.01 - Menambahkan role manager borrowing assignment .png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button close change log'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Remove Manager 2'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Submit Remove'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Changelog Role'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.23 - Melakukan action remove manager dari borrowing assigment.png', 
+    FailureHandling.STOP_ON_FAILURE)
 

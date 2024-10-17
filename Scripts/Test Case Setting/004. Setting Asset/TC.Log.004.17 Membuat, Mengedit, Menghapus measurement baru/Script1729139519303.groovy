@@ -29,13 +29,11 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Ass
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/input_flex py-1 px-3 items-center space-x-1_d9fbdb'), 
     '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.delay(10)
+WebUI.delay(8)
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/button_Log in'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/div_module-shadow w-110px h-110px flex item_7c244a'))
-
-WebUI.delay(8)
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/div_Settings'))
 
@@ -43,31 +41,69 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset
 
 WebUI.delay(6)
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Menu brand'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Menu meausurement'))
 
-WebUI.delay(2)
+WebUI.delay(4)
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button plus brand'))
 
-WebUI.delay(2)
+WebUI.setText(findTestObject('OBJ Menu Setting/004 Setting Asset/Field create measurement'), 'kg')
 
-WebUI.sendKeys(findTestObject('OBJ Menu Setting/004 Setting Asset/Field brand name'), 'Robot')
-
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button select category - create brand'))
-
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/List (3) Select category'))
-
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button select - select category'))
-
-WebUI.sendKeys(findTestObject('OBJ Menu Setting/004 Setting Asset/Enter value model type'), Keys.chord('1', Keys.ENTER))
-
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button submit - create brand'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button save - edit brand'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log meauserement'))
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.004.13 - Membuat brand baru.png', FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.004.17 - Membuat measurement baru.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button close change log - search'))
+
+WebUI.delay(4)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button action measurement list (1)'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Edit brand'))
+
+WebUI.clearText(findTestObject('OBJ Menu Setting/004 Setting Asset/Field measurement'))
+
+WebUI.setText(findTestObject('OBJ Menu Setting/004 Setting Asset/Field measurement'), 'mg')
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button save - edit brand'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log meauserement'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.004.18 - Melakukan edit pada measurement baru.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button close change log - search'))
+
+WebUI.delay(4)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button action measurement list (1)'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Delete meauserement'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button delete - delete asset'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log meauserement'))
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.004.19 - Menghapus measurement.png', FailureHandling.STOP_ON_FAILURE)
 

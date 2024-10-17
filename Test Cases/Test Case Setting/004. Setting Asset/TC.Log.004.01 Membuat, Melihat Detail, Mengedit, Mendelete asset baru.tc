@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.Log.004.01 Membuat asset baru</name>
+   <name>TC.Log.004.01 Membuat, Melihat Detail, Mengedit, Mendelete asset baru</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ced3cf2a-701f-4f30-8a2f-1e93594065c5</testCaseGuid>

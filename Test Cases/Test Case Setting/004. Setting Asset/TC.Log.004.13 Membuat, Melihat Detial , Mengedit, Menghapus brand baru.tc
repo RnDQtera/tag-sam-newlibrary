@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.Log.004.13 Membuat brand baru</name>
+   <name>TC.Log.004.13 Membuat, Melihat Detial , Mengedit, Menghapus brand baru</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c98840e3-f5f0-4c59-84df-4cf2b8881f54</testCaseGuid>

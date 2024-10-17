@@ -74,7 +74,7 @@ WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.36 - Bulk Action Maint
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Close change log - Accounting , Purchase'))
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Close change log - Accounting'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Checkbox Bulk Action'))
 

@@ -29,11 +29,13 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(8)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(3)
+WebUI.delay(8)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
@@ -57,5 +59,17 @@ WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.07 - Menambahkan approver pada role transfer.png', FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(1)
 
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button close change log'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Remove Approver (2)'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Submit Remove'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Changelog Role'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.29 - Melakukan action remove approval dari transfer.png', FailureHandling.STOP_ON_FAILURE)
 

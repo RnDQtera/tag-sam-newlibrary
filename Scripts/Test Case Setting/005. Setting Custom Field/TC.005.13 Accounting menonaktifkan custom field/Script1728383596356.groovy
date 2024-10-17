@@ -49,6 +49,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Tab Accou
 
 WebUI.delay(2)
 
+'Non Aktif'
 WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Slider 1 Active Custom Field'))
 
 WebUI.delay(2)
@@ -65,5 +66,6 @@ WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Cl
 
 WebUI.delay(1)
 
+'Aktif'
 WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Slider 1 Active Custom Field'))
 

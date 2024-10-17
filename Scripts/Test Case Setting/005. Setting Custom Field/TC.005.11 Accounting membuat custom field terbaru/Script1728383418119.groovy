@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'user22@mailnesia.co
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.delay(15)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
 
@@ -53,7 +53,7 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Cust
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Input Text Field Name'), 'Custom Field 4')
+WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Input Text Field Name'), 'Custom Field 2 Accounting')
 
 WebUI.delay(2)
 
@@ -80,4 +80,21 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Cust
 WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.11 - Accounting membuat custom field terbaru.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Close change log'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Search Custom Field'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Input Text Search Custom Field'), Keys.chord('Custom Field 2 Accounting', 
+        Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Single action'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Delete List 1'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Delete Custom Field - Search'))
+
+WebUI.refresh()
 

@@ -6,11 +6,11 @@
    <elementGuidId>13d2999a-d582-4151-b38a-744ff9440c60</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[8]/div/div[3]/button[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>/html/body/div[8]/div/div[3]/button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0a677b44-1d04-46f3-9efc-0737f664f39a</webElementGuid>
+      <webElementGuid>ab0370f0-3112-49f6-838c-91aeaf10c99a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0dbac1f1-acb1-4a8c-9b03-cffb05c44196</webElementGuid>
+      <webElementGuid>1a42d2b1-83bb-47f6-a8bd-df04138a3520</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>d4287c01-137f-4637-a75e-6ab2726eeb87</webElementGuid>
+      <webElementGuid>a5a37476-c2d0-44ba-8139-12387b85ad24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-ts-section</name>
       <type>Main</type>
       <value>confirm-button</value>
-      <webElementGuid>5089156a-0132-4a16-a088-814f727a2672</webElementGuid>
+      <webElementGuid>10308393-efb8-4db6-a196-b39f1d40de85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative items-center justify-center inline-flex text-center text-xs h-[26px] w-max min-w-[26px] px-3 py-[7.6px] min-w-[26px] ring-inset shadow-sm rounded text-white dark:!text-danger-800 bg-danger dark:bg-danger-200 ring-1 ring-danger dark:ring-danger-200 focus-visible:bg-danger-600 focus-visible:ring-danger-600 focus-visible:ring-offset-0 hover:bg-danger-strong dark:hover:bg-danger-300 hover:ring-danger-strong dark:hover:ring-danger-300 focus-visible:ring-1 focus-visible:ring-danger-600 dark:focus-visible:ring-danger-600 transition duration-200 ease-in-out cursor-pointer overflow-hidden select-none</value>
-      <webElementGuid>8cc89489-22a2-4123-b70a-7d7fb3a79728</webElementGuid>
+      <webElementGuid>63b9fd03-8007-499e-a8da-faddc618ef18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8fc135f4-79a8-43df-8883-09d3092a725f</webElementGuid>
+      <webElementGuid>c0627ee1-f9e2-4b68-8a87-3b24dd5ec64d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>root</value>
-      <webElementGuid>e746b8f0-f224-47c5-8725-7617a48015cc</webElementGuid>
+      <webElementGuid>9941fc53-812e-43e5-8a91-2153ded8f321</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-p-severity</name>
       <type>Main</type>
       <value>danger</value>
-      <webElementGuid>fe0cf730-4dce-4e04-86df-d4aa36b28ff1</webElementGuid>
+      <webElementGuid>fb444987-f1e4-4a08-bc65-cc3ef775506a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>69f3163b-ecd3-4d37-9fbe-1188ad0a7848</webElementGuid>
+      <webElementGuid>c802ac33-7501-4a6f-81f4-fb9fd100767b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;transition duration-300 has-[.mask-active]:bg-transparent dark:has-[.mask-active]:bg-transparent bg-dialog-mask dark:dialog-mask has-[.mask-active]:backdrop-blur-none backdrop-blur-sm&quot;]/div[@class=&quot;rounded-[0.4375em] shadow-[box-shadow: -4px 4px 20px 0px #0000001A] flex flex-col p-6 gap-3 bg-white dark:bg-grayscale-900 max-h-[90vh] sm:max-w-[90vw] m-0 transform scale-100 !w-[clamp(360px,40vw,400px)]&quot;]/div[@class=&quot;flex items-center justify-end shrink-0 text-right gap-1 mt-2 border-t-0 rounded-b-lg bg-inherit dark:bg-inherit text-surface-700 dark:text-surface-0/80 flex items-end justify-end gap-1 !mt-0&quot;]/button[@class=&quot;relative items-center justify-center inline-flex text-center text-xs h-[26px] w-max min-w-[26px] px-3 py-[7.6px] min-w-[26px] ring-inset shadow-sm rounded text-white dark:!text-danger-800 bg-danger dark:bg-danger-200 ring-1 ring-danger dark:ring-danger-200 focus-visible:bg-danger-600 focus-visible:ring-danger-600 focus-visible:ring-offset-0 hover:bg-danger-strong dark:hover:bg-danger-300 hover:ring-danger-strong dark:hover:ring-danger-300 focus-visible:ring-1 focus-visible:ring-danger-600 dark:focus-visible:ring-danger-600 transition duration-200 ease-in-out cursor-pointer overflow-hidden select-none&quot;]</value>
-      <webElementGuid>939231ad-203c-4803-a68f-0fb0ba001cec</webElementGuid>
+      <webElementGuid>3c3236a0-4c86-4c20-8cb9-b86db3be8c1e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[56]</value>
-      <webElementGuid>a9f1f4c3-b9d9-41b9-96f7-b0c306304c5e</webElementGuid>
+      <webElementGuid>342d17f7-6abc-4e67-8878-384a0772e98e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::button[1]</value>
-      <webElementGuid>b6a9b522-aab6-4fc5-8b1c-c9ed01c951a1</webElementGuid>
+      <webElementGuid>a73fab32-68c7-4832-a9c1-2bce6519d205</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Field 1'])[2]/following::button[2]</value>
-      <webElementGuid>2926c386-bcee-4713-9a4c-8addfcdf8b66</webElementGuid>
+      <webElementGuid>1b44dd6e-01b7-486f-bf3e-53492a808d90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div[3]/button[2]</value>
-      <webElementGuid>49f4fd05-d71a-49c7-80ec-d7b91dee74b5</webElementGuid>
+      <webElementGuid>01dc7ad5-5635-4ccc-890d-e7d9646a49be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Delete' or . = 'Delete')]</value>
-      <webElementGuid>cd0b3626-c3e8-4cf7-97ad-1a688a80fb15</webElementGuid>
+      <webElementGuid>1923e991-25de-4131-ac5c-897cb000602a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

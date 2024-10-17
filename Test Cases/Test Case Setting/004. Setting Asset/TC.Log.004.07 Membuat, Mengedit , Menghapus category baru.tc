@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.Log.004.07 Membuat category baru</name>
+   <name>TC.Log.004.07 Membuat, Mengedit , Menghapus category baru</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c18a0d46-38db-4226-a63b-2988b5ecbc5c</testCaseGuid>

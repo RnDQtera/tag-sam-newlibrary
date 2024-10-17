@@ -4,6 +4,5 @@
    <name>TC.002.13 Menambahkan manager pada role audit</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>ce2278e0-653d-4ca4-938b-89cbd9bf30ca</testCaseGuid>
 </TestCaseEntity>

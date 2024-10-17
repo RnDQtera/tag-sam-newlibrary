@@ -4,6 +4,5 @@
    <name>TC.002.15 Menambahkan approver pada role audit</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>21aca1b2-ac8e-4750-8846-45d4d88a18c1</testCaseGuid>
 </TestCaseEntity>

@@ -59,3 +59,19 @@ WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.02 - Menambahkan monitor dan report pada role borrowing assignment .png', 
     FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button close change log'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Remove Monitor Report 2'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Submit Remove'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Changelog Role'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.24 - Melakukan action remove monitor report dari borrowing assigment.png',
+	FailureHandling.STOP_ON_FAILURE)
+

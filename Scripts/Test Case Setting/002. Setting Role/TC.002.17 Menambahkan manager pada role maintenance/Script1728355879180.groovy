@@ -27,11 +27,13 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
+WebUI.delay(8)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(3)
+WebUI.delay(6)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
@@ -56,4 +58,18 @@ WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Changelog R
 WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.17 - Menambahkan role manager maintenance.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button close change log'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Remove Manager 2'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Submit Remove'))
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Button Changelog Role'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.002.39 - Melakukan action remove manager dari maintenance.png', FailureHandling.STOP_ON_FAILURE)
 

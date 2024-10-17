@@ -45,6 +45,7 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Cust
 
 WebUI.delay(2)
 
+'Non Aktif'
 WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Slider 1 Active Custom Field'))
 
 WebUI.delay(2)
@@ -54,4 +55,11 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Cust
 WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.03 - General Information menonaktifkan custom field.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Close change log'))
+
+'Aktif'
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Slider 1 Active Custom Field'))
 

@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'user22@mailnesia.co
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.delay(15)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
 
@@ -44,6 +44,32 @@ WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Sub Menu Custom Field'))
 
 WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Create Custom Field'))
+
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Input Text Field Name'), 'Custom Field 2')
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select Data Type'))
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Field 1 Data Type'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select Category'))
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Field 1 Category'))
+
+WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Submit Custom Field'))
+
+WebUI.delay(1)
 
 WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Search Custom Field'))
 
@@ -69,32 +95,4 @@ WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Ch
 WebUI.delay(3)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.005.05 - General Information menghapus custom field.png', FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Close change log'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Create Custom Field'))
-
-WebUI.delay(2)
-
-WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Input Text Field Name'), 'Custom Field 2')
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select Data Type'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Field 1 Data Type'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select Category'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Field 1 Category'))
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Select'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Submit Custom Field'))
 

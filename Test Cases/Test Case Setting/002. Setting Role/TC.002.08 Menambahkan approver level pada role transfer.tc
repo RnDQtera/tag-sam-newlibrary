@@ -4,6 +4,5 @@
    <name>TC.002.08 Menambahkan approver level pada role transfer</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>42ff94ac-fde0-47f5-89fc-ef67ce3e961a</testCaseGuid>
 </TestCaseEntity>
