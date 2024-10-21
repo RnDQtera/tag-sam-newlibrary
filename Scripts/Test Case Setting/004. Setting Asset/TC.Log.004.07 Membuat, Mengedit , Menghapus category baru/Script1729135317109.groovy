@@ -26,8 +26,8 @@ WebUI.navigateToUrl('https://console.tagsamurai.com/')
 WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/input_ts-inputtext max-h-42px flex py-1 px-_f5a894'), 
     'user22@mailnesia.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/input_flex py-1 px-3 items-center space-x-1_d9fbdb'), 
-    '8+VvZnBZfpfG5HxfHfyGjg==')
+WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/input_flex py-1 px-3 items-center space-x-1_d9fbdb'), 
+    'Moderator19@')
 
 WebUI.delay(10)
 

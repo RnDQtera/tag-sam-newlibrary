@@ -4,6 +4,5 @@
    <name>TC.005.65 Audit User mendownload list audit</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>3466f02b-d119-4580-8317-a2013c7e358f</testCaseGuid>
 </TestCaseEntity>

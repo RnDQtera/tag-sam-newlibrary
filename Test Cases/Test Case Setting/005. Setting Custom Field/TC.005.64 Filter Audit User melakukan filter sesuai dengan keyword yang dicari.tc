@@ -4,6 +4,5 @@
    <name>TC.005.64 Filter Audit User melakukan filter sesuai dengan keyword yang dicari</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>2e7ae124-328f-4fd4-a71b-3d9e33b06b8b</testCaseGuid>
 </TestCaseEntity>

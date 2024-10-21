@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC.Log.003.30 User mengfilter berdasarkan active status</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>5725c8ac-e48b-4ffc-a308-ff7b04ee6aa0</testCaseGuid>
-</TestCaseEntity>

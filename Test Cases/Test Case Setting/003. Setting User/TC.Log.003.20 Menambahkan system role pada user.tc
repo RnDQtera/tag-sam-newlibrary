@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC.Log.003.20 Menambahkan system role pada user</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>02b5cae9-4a49-43d6-9579-d6d18b3c126a</testCaseGuid>
-</TestCaseEntity>

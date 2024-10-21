@@ -4,6 +4,5 @@
    <name>TC.005.44 Filter General Information User melakukan filter general information sesuai dengan keyword yang dicari</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>eaf5846e-40d1-4dce-9010-14943390bd7b</testCaseGuid>
 </TestCaseEntity>

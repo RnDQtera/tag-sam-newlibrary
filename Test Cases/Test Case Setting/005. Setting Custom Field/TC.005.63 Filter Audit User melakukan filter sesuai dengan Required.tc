@@ -4,6 +4,5 @@
    <name>TC.005.63 Filter Audit User melakukan filter sesuai dengan Required</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>ae200c1f-0ecd-419b-b9ce-cbf5ceef6611</testCaseGuid>
 </TestCaseEntity>

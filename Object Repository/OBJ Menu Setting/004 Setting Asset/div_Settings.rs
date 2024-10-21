@@ -6,12 +6,11 @@
    <elementGuidId>aec5bc96-edc5-4b82-b20c-2e0651bcfe6c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[6]/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sidebar-left-app']/div[2]/div/ul/li[7]/div</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>81aadcfc-f683-4dbf-beaf-2a14fb267c2c</webElementGuid>
+      <webElementGuid>416c022f-fbc7-4b80-8363-18cce4dfce3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-center relative rounded-md px-[8px] py-[5px] gap-[6px] hover:bg-general-50 inactive group transition-shadow duration-200 select-none cursor-pointer</value>
-      <webElementGuid>3a22c131-5a6b-4484-974a-41629d0d7344</webElementGuid>
+      <webElementGuid>0e541fd7-9e79-4297-b11d-45312e5f6e60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>content</value>
-      <webElementGuid>24ac79a0-eb94-469d-b0e2-4d10c5c3e670</webElementGuid>
+      <webElementGuid>9ba64a0d-0da8-445e-be34-56807d4a0201</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>data-p-highlight</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b286135d-f5e9-42dc-9ffe-31fa97489255</webElementGuid>
+      <webElementGuid>0dba02f9-f7e6-4fb7-8bbc-a750465fbde2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>data-p-selectable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c4f67b72-594c-48c9-9274-e7ab6b63603c</webElementGuid>
+      <webElementGuid>dfa627a4-e423-46f8-a093-0f834f5c2278</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Settings</value>
-      <webElementGuid>53c53e47-f91e-4535-9b96-e67cdfda2564</webElementGuid>
+      <webElementGuid>95f3def4-d4bc-4c11-afe3-c6d172a6152c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sidebar-left-app&quot;)/div[@class=&quot;relative pb-3 rounded-md&quot;]/div[@class=&quot;overflow-auto&quot;]/ul[@class=&quot;grid m-0 p-0 gap-1 list-none overflow-auto&quot;]/li[@class=&quot;rounded-md grid gap-0.5 focus:outline-none focus:outline-offset-0&quot;]/div[@class=&quot;flex items-center relative rounded-md px-[8px] py-[5px] gap-[6px] hover:bg-general-50 inactive group transition-shadow duration-200 select-none cursor-pointer&quot;]</value>
-      <webElementGuid>33353882-6c80-4a2d-8c67-fe6b56529c0f</webElementGuid>
+      <webElementGuid>1de85771-6973-4006-a03f-14428c961503</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sidebar-left-app']/div[2]/div/ul/li[7]/div</value>
-      <webElementGuid>e15a490a-bc87-46f4-8824-533423fb4d01</webElementGuid>
+      <webElementGuid>c389561d-a0e2-4172-a2f0-df041dd9c055</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/div</value>
-      <webElementGuid>5d8fbd84-4fac-4b18-8313-164db44218bb</webElementGuid>
+      <webElementGuid>a809cef0-829e-422c-b7a9-de117ce0087d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Settings' or . = 'Settings')]</value>
-      <webElementGuid>77879d97-28d3-4ec5-b770-41c9d031040d</webElementGuid>
+      <webElementGuid>c3012b6f-8aac-4aef-9f54-01ac9098d722</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

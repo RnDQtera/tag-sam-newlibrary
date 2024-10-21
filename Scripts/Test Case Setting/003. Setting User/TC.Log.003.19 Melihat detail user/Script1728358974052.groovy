@@ -37,7 +37,7 @@ WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.S
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Menu Setting'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Setting - User'))
 
@@ -49,6 +49,5 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list
 
 WebUI.delay(2)
 
-WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.19 - Melihat detail user.png',
-	FailureHandling.STOP_ON_FAILURE)
+WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.003.19 - Melihat detail user.png', FailureHandling.STOP_ON_FAILURE)
 

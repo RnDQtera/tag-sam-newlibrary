@@ -81,7 +81,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button search'))
 
 WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field search - user'), Keys.chord('agus', Keys.ENTER))
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (1)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user (1))'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (4) delete - user temporary'))
 

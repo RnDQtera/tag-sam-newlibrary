@@ -37,7 +37,7 @@ WebUI.click(findTestObject('OBJ Dashboard/Modul fixed asset'), FailureHandling.S
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('001 Reusable Component/001.016 Reusable - Menu Settings'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Menu Setting'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Reusable menu Setting - User'))
 
@@ -83,7 +83,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button search'))
 
 WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field search - user'), Keys.chord('agus', Keys.ENTER))
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (1)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user (1))'))
 
 WebUI.delay(2)
 
@@ -127,7 +127,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button search'))
 
 WebUI.sendKeys(findTestObject('OBJ Menu Setting/003 Setting User/Field search - user'), Keys.chord('agus', Keys.ENTER))
 
-WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user list (1)'))
+WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action user (1))'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/003 Setting User/Button action list (4) delete - user temporary'))
 

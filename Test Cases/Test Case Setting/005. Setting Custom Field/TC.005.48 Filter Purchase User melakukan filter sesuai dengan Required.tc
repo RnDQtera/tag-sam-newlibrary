@@ -4,6 +4,5 @@
    <name>TC.005.48 Filter Purchase User melakukan filter sesuai dengan Required</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>eccf35dd-6888-4b11-bf51-8643814ba653</testCaseGuid>
 </TestCaseEntity>

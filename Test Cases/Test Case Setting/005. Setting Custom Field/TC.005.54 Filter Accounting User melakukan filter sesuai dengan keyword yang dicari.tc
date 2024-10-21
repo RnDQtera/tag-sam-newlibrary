@@ -4,6 +4,5 @@
    <name>TC.005.54 Filter Accounting User melakukan filter sesuai dengan keyword yang dicari</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>18d96006-ec4d-448d-bc06-601b851e7bea</testCaseGuid>
 </TestCaseEntity>

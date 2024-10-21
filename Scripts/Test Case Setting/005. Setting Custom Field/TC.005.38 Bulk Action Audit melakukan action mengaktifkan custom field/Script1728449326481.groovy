@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'user22@mailnesia.co
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.delay(15)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
 
@@ -35,7 +35,7 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(15)
+WebUI.delay(6)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
@@ -61,6 +61,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Ac
 
 WebUI.delay(2)
 
+'Non Aktif'
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Activate Custom Field'))
 
 WebUI.delay(2)
@@ -81,6 +82,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/005. Setting Custom Field/Button Ac
 
 WebUI.delay(2)
 
+'Aktif'
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Activate Custom Field'))
 
 WebUI.delay(2)

@@ -4,6 +4,5 @@
    <name>TC.005.50 Purchase User mendownload list purchase</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>610109a8-fe6a-4435-9666-84e3476fa504</testCaseGuid>
 </TestCaseEntity>

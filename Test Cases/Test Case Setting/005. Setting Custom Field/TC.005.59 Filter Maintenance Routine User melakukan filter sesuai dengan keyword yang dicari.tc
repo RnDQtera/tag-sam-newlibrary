@@ -4,6 +4,5 @@
    <name>TC.005.59 Filter Maintenance Routine User melakukan filter sesuai dengan keyword yang dicari</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>cbc1034c-31be-40d9-b5f8-77a95a7f9455</testCaseGuid>
 </TestCaseEntity>

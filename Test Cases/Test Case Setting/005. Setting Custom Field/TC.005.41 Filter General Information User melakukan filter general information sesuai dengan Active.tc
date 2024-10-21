@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC.005.41 Filter General Information User melakukan filter general information sesuai dengan Active</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>0bd69f00-5e1f-4061-b374-d9cfa92f7942</testCaseGuid>
-</TestCaseEntity>

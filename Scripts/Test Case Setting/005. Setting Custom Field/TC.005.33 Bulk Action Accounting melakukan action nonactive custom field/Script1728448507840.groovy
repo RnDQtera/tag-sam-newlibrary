@@ -92,5 +92,3 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/005. Setting Custom Field/Button Activate Custom Field'))
 
-WebUI.delay(2)
-
