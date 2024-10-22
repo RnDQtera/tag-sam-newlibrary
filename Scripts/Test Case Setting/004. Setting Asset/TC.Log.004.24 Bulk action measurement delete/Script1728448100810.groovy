@@ -26,8 +26,8 @@ WebUI.navigateToUrl('https://console.tagsamurai.com/')
 WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/input_ts-inputtext max-h-42px flex py-1 px-_f5a894'), 
     'user22@mailnesia.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/input_flex py-1 px-3 items-center space-x-1_d9fbdb'), 
-    '8+VvZnBZfpfG5HxfHfyGjg==')
+WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/004 Setting Asset/input_flex py-1 px-3 items-center space-x-1_d9fbdb'), 
+    'Moderator19@')
 
 WebUI.delay(10)
 
@@ -45,9 +45,19 @@ WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Menu meausurement
 
 WebUI.delay(4)
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Checkbos asset list (1) measurement'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button plus brand'))
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Checkbox asset list (2) measurement'))
+WebUI.setText(findTestObject('OBJ Menu Setting/004 Setting Asset/Field create measurement'), 'kg')
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button save - edit brand'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button search - brand'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/004 Setting Asset/Field search - brand'), Keys.chord('kg', Keys.ENTER))
+
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Checkbos asset single list measurement'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button bulk action -brand'))
 
@@ -59,9 +69,13 @@ WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button delete - d
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log meauserement'))
+WebUI.click(findTestObject('OBJ Menu Setting/004 Setting Asset/Button change log - search measurement'))
 
-WebUI.delay(4)
+WebUI.delay(3)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.004.24 - Bulk action measurement delete.png', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(1)
+
+WebUI.refresh()
 

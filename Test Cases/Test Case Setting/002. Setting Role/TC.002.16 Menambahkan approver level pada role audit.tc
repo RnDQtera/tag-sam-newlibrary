@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC.002.16 Menambahkan approver level pada role audit</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>02ac116d-4843-4f76-8efd-d61916199713</testCaseGuid>
-</TestCaseEntity>

@@ -4,6 +4,5 @@
    <name>TC.002.37 Melakukan action remove approval dari audit</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>9ea40f50-cf4c-4a44-aedf-b289bad1ec1d</testCaseGuid>
 </TestCaseEntity>

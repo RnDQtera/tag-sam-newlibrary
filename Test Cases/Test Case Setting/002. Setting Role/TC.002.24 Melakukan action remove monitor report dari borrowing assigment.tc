@@ -4,6 +4,5 @@
    <name>TC.002.24 Melakukan action remove monitor report dari borrowing assigment</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>45287343-40c2-4cd8-ac7f-1a864bdd0398</testCaseGuid>
 </TestCaseEntity>

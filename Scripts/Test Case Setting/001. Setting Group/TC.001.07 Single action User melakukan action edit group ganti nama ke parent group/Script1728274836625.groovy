@@ -27,13 +27,13 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.delay(15)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(10)
+WebUI.delay(6)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
@@ -66,11 +66,11 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Close View Log'))
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Group'))
 
-WebUI.delay(4)
-
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Edit Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Edit group 2'))
 
 WebUI.clearText(findTestObject('OBJ Menu Setting/001 Setting Group/Input Text Edit Group'))
 

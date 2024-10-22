@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.06 Menambahkan monitor dan report, melakukan remove pada role transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee7cdcc0-8984-4247-a8d7-4d61214af780</testCaseGuid>
+</TestCaseEntity>

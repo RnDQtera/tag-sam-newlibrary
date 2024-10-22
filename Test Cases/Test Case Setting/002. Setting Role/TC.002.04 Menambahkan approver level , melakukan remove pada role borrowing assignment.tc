@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.002.04 Menambahkan approver level , melakukan remove pada role borrowing assignment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4804f33-3a83-499e-a8da-f33d0b3ad2c1</testCaseGuid>
+</TestCaseEntity>

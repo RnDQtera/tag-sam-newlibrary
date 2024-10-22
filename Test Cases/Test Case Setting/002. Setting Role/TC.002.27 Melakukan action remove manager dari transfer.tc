@@ -4,6 +4,5 @@
    <name>TC.002.27 Melakukan action remove manager dari transfer</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>76451921-9ec1-4fe5-8ac4-d0032c79bb78</testCaseGuid>
 </TestCaseEntity>

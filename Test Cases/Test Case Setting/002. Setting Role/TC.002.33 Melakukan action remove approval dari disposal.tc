@@ -4,6 +4,5 @@
    <name>TC.002.33 Melakukan action remove approval dari disposal</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>60b03b97-a981-473e-9b94-4d28c9f6afc6</testCaseGuid>
 </TestCaseEntity>

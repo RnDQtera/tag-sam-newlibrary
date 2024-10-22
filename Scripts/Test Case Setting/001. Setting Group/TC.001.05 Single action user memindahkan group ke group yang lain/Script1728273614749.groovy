@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.delay(15)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
@@ -91,4 +91,8 @@ WebUI.delay(2)
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Delete Sub Group Search'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Delete Sub Group'))
+
+WebUI.delay(1)
+
+WebUI.refresh()
 

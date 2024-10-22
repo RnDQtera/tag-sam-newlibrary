@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Log.004.20 Bulk action (asset name) Update depreciation data, set tag type, delete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95ba7be9-b2f8-4304-b7af-51f0a270e755</testCaseGuid>
+</TestCaseEntity>

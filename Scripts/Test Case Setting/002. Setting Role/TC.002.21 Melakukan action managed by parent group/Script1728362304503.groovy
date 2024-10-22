@@ -31,9 +31,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Pa
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
+WebUI.delay(8)
+
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(3)
+WebUI.delay(5)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
@@ -50,6 +52,8 @@ WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Pointer Side Bar G
 WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Sub Group 1'))
 
 WebUI.delay(2)
+
+WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Slider Parent Group'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/002 Setting Role/Slider Parent Group'))
 

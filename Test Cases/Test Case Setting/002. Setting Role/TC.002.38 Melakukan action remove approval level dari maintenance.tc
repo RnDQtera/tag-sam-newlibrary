@@ -4,6 +4,5 @@
    <name>TC.002.38 Melakukan action remove approval level dari maintenance</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>2daa15ff-3c12-47a7-8065-5bf391846bbd</testCaseGuid>
 </TestCaseEntity>

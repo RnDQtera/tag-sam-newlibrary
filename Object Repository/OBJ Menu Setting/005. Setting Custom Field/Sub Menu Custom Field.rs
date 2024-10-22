@@ -6,22 +6,14 @@
    <elementGuidId>c4141964-2df6-446f-b905-c11f5e5bbc6e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/aside[1]/div/div/div/div[2]/div/ul/li[6]/ul/li[5]/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sidebar-left-app']/div[2]/div/ul/li[7]/ul/li[5]/div</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:role=treeitem[name=&quot;Custom Field&quot;i] >> div</value>
-      </entry>
-   </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>be705747-f89f-4d2b-8486-22818eed648d</webElementGuid>
+      <webElementGuid>eaea36e2-96d0-45be-bbc4-2d8fba93f655</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-center relative rounded-md px-[8px] py-[6px] gap-[6px] hover:bg-general-50 inactive group transition-shadow duration-200 select-none cursor-pointer</value>
-      <webElementGuid>0913aa30-b8fd-4778-b9e6-6637cc3566ad</webElementGuid>
+      <webElementGuid>b7c75d5e-cb4c-4199-be91-ffe6c48616a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +37,7 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>content</value>
-      <webElementGuid>55add91e-78ca-4043-b828-b571961bdc28</webElementGuid>
+      <webElementGuid>20472cf7-b2b5-493d-8a85-1d2fece39cd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +45,7 @@
       <name>data-p-highlight</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3ebf02be-8c68-43b4-a412-9d3908a9650f</webElementGuid>
+      <webElementGuid>31d37ddc-1f57-4596-b97b-37e950c578eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +53,7 @@
       <name>data-p-selectable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>772d69d4-c29a-46b3-bad2-bcfbd86766f8</webElementGuid>
+      <webElementGuid>b728ab94-bbe3-407a-89f0-abd715afba76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Custom Field</value>
-      <webElementGuid>cad82014-d9c6-46cc-af95-7f04476d5c45</webElementGuid>
+      <webElementGuid>2a271e04-b5c7-4999-8d7c-ddbaa19dec89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sidebar-left-app&quot;)/div[@class=&quot;relative pb-3 rounded-md&quot;]/div[@class=&quot;overflow-auto&quot;]/ul[@class=&quot;grid m-0 p-0 gap-1 list-none overflow-auto&quot;]/li[@class=&quot;rounded-md grid gap-0.5 focus:outline-none focus:outline-offset-0&quot;]/ul[@class=&quot;m-0 list-none p-0 !pl-2 gap-0.5 grid duration-300 transition-all ease-in&quot;]/li[@class=&quot;m-0 list-none p-0 !pl-2 gap-0.5 grid duration-300 transition-all ease-in&quot;]/div[@class=&quot;flex items-center relative rounded-md px-[8px] py-[6px] gap-[6px] hover:bg-general-50 inactive group transition-shadow duration-200 select-none cursor-pointer&quot;]</value>
-      <webElementGuid>2c32da0a-b5a2-48c0-ba7e-f534384a8c24</webElementGuid>
+      <webElementGuid>dc0bfa3e-633a-4719-9e6f-4c15d6e189d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sidebar-left-app']/div[2]/div/ul/li[7]/ul/li[5]/div</value>
-      <webElementGuid>2f68e9d7-4d27-49e4-8f71-88f619a1a83d</webElementGuid>
+      <webElementGuid>77e41120-49d8-4f94-87cb-3b8b2ce18856</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset'])[1]/following::div[1]</value>
-      <webElementGuid>530e4446-ce5c-455a-9a3f-1ad6eed15e43</webElementGuid>
+      <webElementGuid>0468d339-5e0d-4ec7-850f-d98c6b892202</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::div[2]</value>
-      <webElementGuid>c1f74c36-8de4-468a-bb26-4298e35612d2</webElementGuid>
+      <webElementGuid>4de2c53f-1b87-4d0d-9080-b428d15ead42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Transactional Policy'])[1]/preceding::div[1]</value>
-      <webElementGuid>a5e893a5-9ac7-4ff3-bba7-7f86784d3e39</webElementGuid>
+      <webElementGuid>92b3321b-a3e0-4339-85a5-8866427f5f60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/ul/li[5]/div</value>
-      <webElementGuid>94372ea5-db84-4fd4-819a-997984279571</webElementGuid>
+      <webElementGuid>582e647b-c1e3-4adb-9517-becf148e9e3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Custom Field' or . = 'Custom Field')]</value>
-      <webElementGuid>9d4c3913-3312-4e0e-8189-e125c2af891b</webElementGuid>
+      <webElementGuid>92f343c2-b711-4bdf-8cd8-fc2bab53c861</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

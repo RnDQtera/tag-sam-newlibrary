@@ -4,6 +4,5 @@
    <name>TC.002.35 Melakukan action remove manager dari audit</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>df8d839d-8e06-4fd3-80d8-5dbd1703b293</testCaseGuid>
 </TestCaseEntity>

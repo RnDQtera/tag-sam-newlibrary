@@ -4,6 +4,5 @@
    <name>TC.002.23 Melakukan action remove manager dari borrowing assigment</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>993e8258-d002-4020-954b-2607422782b1</testCaseGuid>
 </TestCaseEntity>

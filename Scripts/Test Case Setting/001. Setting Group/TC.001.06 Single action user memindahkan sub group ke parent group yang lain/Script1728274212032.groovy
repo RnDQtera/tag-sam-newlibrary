@@ -27,13 +27,13 @@ WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/Set Email'), 'u
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.delay(15)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(6)
+WebUI.delay(5)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Menu Settings'))
 
@@ -84,7 +84,7 @@ WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.001.06 - Single action use
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Close View Log - Menu Group'))
+WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Close View Log'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Pointer Group Search'))
 
@@ -97,4 +97,8 @@ WebUI.delay(2)
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Action Delete Sub Group Search'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/001 Setting Group/Button Delete Sub Group'))
+
+WebUI.delay(1)
+
+WebUI.refresh()
 
