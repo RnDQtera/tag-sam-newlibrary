@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.005.35 Bulk Action Maintenance Routine melakukan action mengaktifkan custom field</name>
+   <name>TC.005.35 Bulk Action Maintenance Routine melakukan action mengaktifkan, nonactive, delete custom field</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>dd5e473d-102f-4c6e-9d8a-28eaaa3d7219</testCaseGuid>

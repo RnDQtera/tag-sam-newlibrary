@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.005.26 Bulk Action General Information melakukan action mengaktifkan custom field</name>
+   <name>TC.005.26 Bulk Action General Information melakukan action mengaktifkan,nonactive, delete custom field</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b29c97ae-9c58-4a0f-90ae-972f652e155f</testCaseGuid>

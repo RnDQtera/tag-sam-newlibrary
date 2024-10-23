@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.005.32 Bulk Action Accounting melakukan action mengaktifkan custom field</name>
+   <name>TC.005.32 Bulk Action Accounting melakukan action mengaktifkan,nonactive, delete custom field</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>3fe27b9d-6c42-426c-892f-42e5806e87c2</testCaseGuid>

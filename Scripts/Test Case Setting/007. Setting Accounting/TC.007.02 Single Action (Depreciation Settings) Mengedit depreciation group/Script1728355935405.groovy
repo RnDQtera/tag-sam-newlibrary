@@ -27,13 +27,13 @@ WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'employee24@mailnesi
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.delay(15)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(10)
+WebUI.delay(6)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Menu Settings'))
 
@@ -54,13 +54,26 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accou
 
 WebUI.delay(2)
 
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Search Depreciation Settings'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Search Depreciation Settings'), Keys.chord(
+        'Inventaris Kantor Asset', Keys.ENTER))
+
+WebUI.delay(2)
+
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Single Action Deprecitaion Settings'))
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Edit Depreciation Settings'))
 
-WebUI.clearText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life Edit'))
+WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Tangible Asset Group'), Keys.chord(Keys.CONTROL, 
+        'a', Keys.DELETE))
+
+WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Tangible Asset Group'), 'Edit Inventaris Kantor Asset')
+
+WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life Edit'), Keys.chord(Keys.CONTROL, 
+        'a', Keys.DELETE))
 
 WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life Edit'), '10')
 
@@ -79,6 +92,11 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Close Change Log - Account Code'))
 
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Search Depreciation Settings'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Search Depreciation Settings'), Keys.chord(
+        'Edit Inventaris Kantor Asset', Keys.ENTER))
+
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Single Action Deprecitaion Settings'))
 
 WebUI.delay(1)
@@ -88,4 +106,8 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Delet
 WebUI.delay(1)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Dialog Delete Depriciation Group'))
+
+WebUI.delay(1)
+
+WebUI.refresh()
 
