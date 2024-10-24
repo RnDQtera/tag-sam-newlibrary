@@ -54,6 +54,11 @@ WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accou
 
 WebUI.delay(2)
 
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Search Depreciation Settings'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Search Depreciation Settings'), Keys.chord(
+        'Inventaris Kantor Asset', Keys.ENTER))
+
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Single Action Deprecitaion Settings'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Delete Depreciation Settings'))
@@ -68,32 +73,4 @@ WebUI.delay(2)
 
 WebUI.takeScreenshot('Screenshot/017. Menu Setting/TC.007.03 - Single Action (Depreciation Settings) Menghapus depreciation group.png', 
     FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(1)
-
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Close Change Log - Account Code'))
-
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Depreciation Group'))
-
-WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Text Tangible Asset Group'), 
-    'Inventaris Kantor Asset')
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'))
-
-WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'), '5')
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Button Submit'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Depreciation Group'))
-
-WebUI.setText(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Text Tangible Asset Group'), 
-    'Inventaris Kantor Asset 2')
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'))
-
-WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Number of Useful Life'), '10')
-
-WebUI.click(findTestObject('Object Repository/OBJ Menu Setting/007 Setting Accounting/Button Submit'))
 

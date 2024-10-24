@@ -4,6 +4,5 @@
    <name>TC.007.30 Filtering (Changelog Account code list) User melakukan filter sesuai dengan keyword yang dicari</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>cf0ae130-7624-4a4f-beda-21619c886cbc</testCaseGuid>
 </TestCaseEntity>

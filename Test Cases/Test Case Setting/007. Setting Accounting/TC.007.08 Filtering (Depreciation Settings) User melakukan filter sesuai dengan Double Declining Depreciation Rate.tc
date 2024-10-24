@@ -4,6 +4,5 @@
    <name>TC.007.08 Filtering (Depreciation Settings) User melakukan filter sesuai dengan Double Declining Depreciation Rate</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>5c8036ce-feb2-44bb-bb52-d3f0172c703c</testCaseGuid>
 </TestCaseEntity>

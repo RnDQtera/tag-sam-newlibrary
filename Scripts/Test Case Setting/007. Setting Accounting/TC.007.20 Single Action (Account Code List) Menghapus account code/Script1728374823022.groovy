@@ -59,6 +59,11 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Submi
 
 WebUI.delay(2)
 
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Search Account Code List'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Search Account Code List'), Keys.chord(
+        'Aset Testing', Keys.ENTER))
+
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Single Action Account Code'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Delete Account Code List'))

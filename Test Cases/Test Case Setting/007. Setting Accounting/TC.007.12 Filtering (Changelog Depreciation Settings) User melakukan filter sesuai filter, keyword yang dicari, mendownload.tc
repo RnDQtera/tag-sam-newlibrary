@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.007.12 Filtering (Changelog Depreciation Settings) User melakukan filter sesuai dengan Date</name>
+   <name>TC.007.12 Filtering (Changelog Depreciation Settings) User melakukan filter sesuai filter, keyword yang dicari, mendownload</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>29b859ca-f5a0-4dfa-8de3-6f3ad10f0bc0</testCaseGuid>
 </TestCaseEntity>

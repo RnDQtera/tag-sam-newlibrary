@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC.007.06 Filtering (Depreciation Settings) User melakukan filter sesuai dengan Useful Life</name>
+   <name>TC.007.06 Filtering (Depreciation Settings) User melakukan filtering sesuai dengan semua filter, keyword yang dicari, download , changelog</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>d1b05f12-3f77-4177-9360-f4a143b48d87</testCaseGuid>

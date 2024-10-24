@@ -8,12 +8,10 @@
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[6]/div/div[3]/div/button[1]&#xd;
-&#xd;
 </value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

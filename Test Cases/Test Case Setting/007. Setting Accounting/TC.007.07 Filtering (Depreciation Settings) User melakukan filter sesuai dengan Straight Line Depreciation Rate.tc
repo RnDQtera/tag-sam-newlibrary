@@ -4,6 +4,5 @@
    <name>TC.007.07 Filtering (Depreciation Settings) User melakukan filter sesuai dengan Straight Line Depreciation Rate</name>
    <tag></tag>
    <comment></comment>
-   <recordOption>OTHER</recordOption>
    <testCaseGuid>bbff4a5e-d255-4791-bc30-fb9f99b1205f</testCaseGuid>
 </TestCaseEntity>

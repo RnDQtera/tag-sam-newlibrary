@@ -27,13 +27,13 @@ WebUI.setText(findTestObject('OBJ Menu Setting/Set Email'), 'employee24@mailnesi
 
 WebUI.setEncryptedText(findTestObject('OBJ Menu Setting/Set Password'), '8+VvZnBZfpfG5HxfHfyGjg==')
 
-WebUI.delay(15)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('OBJ Menu Setting/Button Login'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/Modul Fixed Asset'))
 
-WebUI.delay(10)
+WebUI.delay(6)
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Menu Settings'))
 
@@ -77,6 +77,11 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Submi
 
 WebUI.delay(2)
 
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Search Account Code List'))
+
+WebUI.sendKeys(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Search Account Code List'), Keys.chord(
+        'Aset Testing', Keys.ENTER))
+
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Checkbox Bulk Action Account Code List'))
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Bulk Action Dropdown Account Code List'))
@@ -87,7 +92,7 @@ WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Delet
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Account Code'))
+WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Changelog Search Account Code'))
 
 WebUI.delay(2)
 
@@ -109,22 +114,6 @@ WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Account Name'))
 
 WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Account Name'), 'Aset Testing ')
-
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Submit Create Account Code'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Account Code'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Account Code'))
-
-WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Account Code'), '72113')
-
-WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Account Name'))
-
-WebUI.setText(findTestObject('OBJ Menu Setting/007 Setting Accounting/Input Text Account Name'), 'Aset Testing 3')
 
 WebUI.click(findTestObject('OBJ Menu Setting/007 Setting Accounting/Button Submit Create Account Code'))
 
